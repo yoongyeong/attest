@@ -1,0 +1,951 @@
+{
+  "generatedAt": "2026-10-15T11:53:04.798Z",
+  "model": "gemma4:31b",
+  "count": 66,
+  "k1": 50,
+  "k2": 16,
+  "fragments": [
+    {
+      "key": "K1|比肩|木",
+      "kind": "K1",
+      "tenGod": "比肩",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year of self-assertion and organic growth, driven by the energy of the Peer (Bi Jian) and the expansion of Wood. You are invited to stand firmly in your own identity and explore the possibilities of your own independence.",
+        "career": "The year favours collaborating with equals or launching a project where you take a leadership role. You have the space to challenge the status quo and may find that your professional presence carries more weight when you trust your instincts.",
+        "money": "This energy suggests a period of shared expenses or investing in your own skill set. You have the room to shift your financial posture toward long-term growth, though you are encouraged to watch for impulsive spending driven by social competition.",
+        "love": "You are free to seek partners who mirror your values and support your autonomy. This is a year that rewards honesty and equality, making it well suited for deepening bonds through shared activities and mutual respect.",
+        "health": "The upward movement of Wood supports a season of renewing your vitality and increasing your physical activity. You are encouraged to find a pacing that matches the natural growth of the seasons, focusing on maintaining a steady flow of energy."
+      },
+      "scanHits": [],
+      "latencyMs": 2751
+    },
+    {
+      "key": "K1|比肩|火",
+      "kind": "K1",
+      "tenGod": "比肩",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year defined by the strength of the self and the spark of visibility. You are invited to step into your own power, leveraging a spirited energy that rewards independence and bold self-expression.",
+        "career": "The atmosphere favours launching independent projects or taking a more prominent lead in your current role. You have the room to challenge existing norms and may find that your confidence attracts new collaborative opportunities among peers.",
+        "money": "This energy supports a posture of self-reliance and the courage to invest in your own skills. You are free to explore new income streams, though you may find a tendency toward competitive spending throughout the year.",
+        "love": "You have the space to prioritize your own needs and desires within your connections. This year leans toward passionate encounters and rewards those who communicate their boundaries with warmth and clarity.",
+        "health": "This is a year that suits an active, high-energy lifestyle and movement-based routines. You are encouraged to watch for periods of intensity and find a sustainable pace to balance your inner fire. "
+      },
+      "scanHits": [],
+      "latencyMs": 3118
+    },
+    {
+      "key": "K1|比肩|土",
+      "kind": "K1",
+      "tenGod": "比肩",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year of grounding and self-reliance, where the influence of the Peer star combined with Earth energy rewards steady persistence. You are invited to stand firmly in your own identity and build a foundation that supports long-term independence.",
+        "career": "This energy supports collaborating with equals or forming strategic partnerships to share the workload. You have the room to take ownership of your projects, as the year favors a patient, step-by-step approach to professional growth.",
+        "money": "Your financial posture leans toward slow accumulation and the protection of existing assets. You may find this a suitable time for conservative saving or investing in tangible resources that offer lasting stability.",
+        "love": "You are free to seek relationships based on mutual respect and shared values, treating your partner as a true peer. This year suggests a focus on reliability and the comfort of a steady, predictable connection.",
+        "health": "This period favors a slower pace and a routine that emphasizes grounding activities, such as walking in nature. You have the space to focus on your overall energy equilibrium and maintaining a consistent sleep cycle."
+      },
+      "scanHits": [],
+      "latencyMs": 2855
+    },
+    {
+      "key": "K1|比肩|金",
+      "kind": "K1",
+      "tenGod": "比肩",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year of self-reliance and structural refinement, driven by the influence of the Peer star and Metal energy. You are invited to step into your own authority and define your boundaries with precision.",
+        "career": "This energy supports initiating independent projects or refining your professional toolkit. You have the space to collaborate with equals while maintaining a clear, disciplined standard for your output.",
+        "money": "This year favors a posture of organized budgeting and conscious spending. You may find that creating a strict financial system allows you more freedom to invest in your own skills.",
+        "love": "You are free to seek partners who mirror your values and respect your autonomy. This period is well suited to building connections based on mutual respect and clear communication.",
+        "health": "The year suggests a focus on consistent routines and a structured approach to movement. You have the room to prioritize steady pacing and a disciplined recovery cycle to maintain your equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 2769
+    },
+    {
+      "key": "K1|比肩|水",
+      "kind": "K1",
+      "tenGod": "比肩",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year defined by the strength of the Peer (Bi Jian) and the fluid depth of Water, inviting a theme of self-reliance and emotional intuition. You have the room to stand firmly in your own identity while allowing your perspective to evolve like a flowing river.",
+        "career": "The energy supports collaborating with equals and asserting your independent vision on long-term projects. You are invited to lead through partnership and may find that your professional growth is best served by networking with peers who challenge you to level up.",
+        "money": "This year leans toward a posture of shared resources and collective investments. You have the space to explore new ways of diversifying your income, though the presence of Peer energy suggests a tendency toward spending on social connections or shared ventures.",
+        "love": "You are free to seek a partnership based on deep equality and mutual understanding. This energy favours relationships that feel like a friendship first, where you are invited to share your inner world and navigate emotional depths together.",
+        "health": "This is a year that rewards a rhythmic approach to energy, favouring activities that mirror the flow of water. You are encouraged to balance periods of high social activity with quiet moments of introspection to maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 4199
+    },
+    {
+      "key": "K1|劫财|木",
+      "kind": "K1",
+      "tenGod": "劫财",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year defined by the expansive energy of Wood and the competitive spirit of the Rob Wealth star. You are invited to step into a more assertive version of yourself, using this period to challenge your limits and grow alongside others.",
+        "career": "This energy supports collaborative projects and friendly competition that pushes you toward professional growth. You have the room to seek mentorship or form strategic alliances, as the year favors those who can navigate shared goals and collective ambition.",
+        "money": "This is a year that suits a posture of strategic circulation rather than rigid hoarding. You may find that investing in networking or shared ventures opens new doors, though you are encouraged to watch for tendencies toward impulsive spending on social status.",
+        "love": "You have the space to explore the dynamics of partnership through the lens of equality and shared growth. This period leans toward high-energy interactions and may reward those who embrace a spirited, playful approach to their connections.",
+        "health": "The upward movement of Wood suggests a year best used for increasing your physical activity and invigorating your routine. You are free to experiment with new ways of moving your body to balance the high-intensity energy of the season."
+      },
+      "scanHits": [],
+      "latencyMs": 1980
+    },
+    {
+      "key": "K1|劫财|火",
+      "kind": "K1",
+      "tenGod": "劫财",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year of high visibility and dynamic social interaction, shaped by the Rob Wealth star and the intensity of Fire. You are invited to step into the spotlight and explore the power of collaborative effort over solitary pursuit.",
+        "career": "The energy favours high-profile projects and roles that require you to navigate competition with grace. You have the space to forge strategic alliances, though this year suggests a focus on sharing credit to build long-term professional loyalty.",
+        "money": "This posture leans toward increased spending on social connections or shared ventures. You are free to invest in your network, but the year rewards a mindful approach to boundaries regarding loans or joint expenses.",
+        "love": "Passionate and rapid developments are supported by the heat of the year. You have the room to experience intense new attractions or to reignite a spark through shared adventures and bold social outings.",
+        "health": "The year's energy suggests a tendency toward high-intensity activity and restlessness. You are encouraged to balance these peaks of passion with deliberate periods of cooling down and restorative stillness."
+      },
+      "scanHits": [],
+      "latencyMs": 1716
+    },
+    {
+      "key": "K1|劫财|土",
+      "kind": "K1",
+      "tenGod": "劫财",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year defined by the dance between Rob Wealth and Earth, suggesting a theme of shared growth and grounded persistence. You are invited to find strength in collaboration while maintaining your own center of gravity.",
+        "career": "The current energy favours team-based projects and the sharing of credit with peers. You have the room to build strategic alliances and may find that slow, steady progress on long-term goals suits your professional arc this year.",
+        "money": "This period suggests a posture of mindful distribution and shared resources. You have the space to invest in collective ventures, though the energy leans toward a cautious approach to spending to avoid over-extension.",
+        "love": "You are free to explore the depth of your connections through mutual support and shared stability. This is a year that rewards patience and the cultivation of a reliable, grounding presence within your relationships.",
+        "health": "This energy supports a rhythmic, steady pace of activity and a focus on grounding practices. You are invited to observe your energy expenditure and find equilibrium through consistent, low-impact routines."
+      },
+      "scanHits": [],
+      "latencyMs": 1473
+    },
+    {
+      "key": "K1|劫财|金",
+      "kind": "K1",
+      "tenGod": "劫财",
+      "element": "金",
+      "sections": {
+        "overall": "This year blends the competitive spark of Rob Wealth with the cooling precision of Metal, inviting you to refine your edges. It is a period that rewards those who can balance bold social ambition with a disciplined, structured approach.",
+        "career": "You have the room to engage in healthy professional rivalries that push you toward higher standards of excellence. This energy supports collaborating on complex projects where a sharp eye for detail and a shared division of labor can lead to a polished result.",
+        "money": "You are invited to be mindful of shared expenses and the tendency to over-extend your budget for the sake of social standing. This is a year that suits a posture of strategic spending, where you prioritize long-term stability over impulsive acquisitions.",
+        "love": "You have the space to explore the dynamics of give-and-take, potentially discovering growth through the mirrors provided by your partners. This energy leans toward relationships that thrive on intellectual clarity and the courage to define boundaries clearly.",
+        "health": "This year suggests a focus on structural balance and maintaining a steady rhythm in your daily movements. You are free to explore disciplines that emphasize precision and cooling energy to help maintain your overall equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 4101
+    },
+    {
+      "key": "K1|劫财|水",
+      "kind": "K1",
+      "tenGod": "劫财",
+      "element": "水",
+      "sections": {
+        "overall": "This year invites you to navigate the balance between individual ambition and collective effort, shaped by the Rob Wealth energy and the fluid depth of Water. You have the space to transform rivalry into partnership and discover strength through adaptability.",
+        "career": "The current energy favors collaborative projects and peer-led initiatives over solitary pursuits. You are invited to share leadership and may find that supporting a colleague's rise opens new doors for your own professional expansion.",
+        "money": "This is a year that suggests a fluid approach to finances, where sharing resources or investing in social networks may be more rewarding than rigid hoarding. You have the room to explore joint ventures, though you are encouraged to watch for over-extension in your spending.",
+        "love": "You are free to explore the deeper, more emotional currents of your connections, leaning toward vulnerability and shared understanding. This energy supports the growth of bonds based on mutual support and the ability to flow together through change.",
+        "health": "Your energy levels may follow a tidal pattern, favoring a rhythm of intense activity followed by deep, restorative stillness. You are encouraged to prioritize pacing and gentle movement to maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 2929
+    },
+    {
+      "key": "K1|食神|木",
+      "kind": "K1",
+      "tenGod": "食神",
+      "element": "木",
+      "sections": {
+        "overall": "This year is defined by the Eating God and Wood energy, suggesting a season of creative expansion and refined enjoyment. You are invited to move through the year with a lighter touch, favoring growth that feels natural rather than forced.",
+        "career": "This is a year that rewards original ideas and the courage to experiment with new methods. You have the room to shift from rigid routines toward projects that spark your curiosity and allow for a more expressive professional posture.",
+        "money": "The current energy supports spending on quality of life and the cultivation of your talents. You may find that diversifying your interests or investing in your own skill set creates a fertile ground for future returns.",
+        "love": "You have the space to prioritize pleasure and genuine connection over obligation. This energy favors romantic gestures and social outings that feel effortless, inviting you to share your warmth with others.",
+        "health": "This is a year well suited to rhythmic movement and activities that mirror the upward growth of Wood. You are encouraged to pace yourself according to your natural energy cycles, favoring restorative habits that nourish your vitality."
+      },
+      "scanHits": [],
+      "latencyMs": 3080
+    },
+    {
+      "key": "K1|食神|火",
+      "kind": "K1",
+      "tenGod": "食神",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year that rewards creativity and the pursuit of pleasure, blending the nourishing essence of the Eating God with the vivid spark of Fire. You are invited to step into the spotlight and express your authentic self with passion and warmth.",
+        "career": "This energy supports the launch of artistic projects or the refining of a specialized skill. You have the room to experiment with new methods and may find that a more relaxed, imaginative approach to your tasks yields the most visibility.",
+        "money": "The year leans toward spending on quality of life, gourmet experiences, and aesthetic upgrades. You have the space to invest in things that bring genuine joy, provided you balance this desire for luxury with mindful planning.",
+        "love": "You are free to explore the romantic side of life through shared hobbies and spontaneous dates. This period favours deep, heartfelt communication and suggests a time well suited for brightening a connection through warmth and generosity.",
+        "health": "This is a year that invites you to find equilibrium between high-energy activities and restorative rest. You are encouraged to watch for periods of over-stimulation and use gentle movement to keep your internal fire balanced."
+      },
+      "scanHits": [],
+      "latencyMs": 3119
+    },
+    {
+      "key": "K1|食神|土",
+      "kind": "K1",
+      "tenGod": "食神",
+      "element": "土",
+      "sections": {
+        "overall": "This year is defined by the nourishing presence of the Eating God paired with grounding Earth, creating a theme of sustainable pleasure and creative flow. You are invited to move at a slower pace, allowing your innate talents to surface through a lens of ease and stability.",
+        "career": "This energy supports a shift toward projects that spark genuine curiosity and personal enjoyment. You have the room to refine your craft and experiment with new methods, as the year favours a steady, methodical approach to professional growth.",
+        "money": "The year leans toward a posture of slow accumulation and mindful spending on things that enhance your quality of life. You may find this a suitable time to invest in hobbies or comforts that provide long-term satisfaction rather than quick gains.",
+        "love": "You are free to cultivate deeper connections through shared experiences of leisure and sensory joy. This is a year that rewards openness and tenderness, suggesting a space where relationships can ground themselves in mutual appreciation.",
+        "health": "Your energy levels suggest a need for grounding activities and a rhythmic, unhurried daily pace. You have the space to focus on restorative habits and nourishing your system through consistent, steady routines."
+      },
+      "scanHits": [],
+      "latencyMs": 2323
+    },
+    {
+      "key": "K1|食神|金",
+      "kind": "K1",
+      "tenGod": "食神",
+      "element": "金",
+      "sections": {
+        "overall": "This year invites a blend of creative flow and structural precision, where the joy of the Eating God meets the clarity of Metal. You have the room to refine your passions into tangible systems, turning spontaneous ideas into elegant, polished realities.",
+        "career": "This is a year that rewards the specialist who can balance imagination with a disciplined approach. You are invited to launch projects that require both a personal touch and a high standard of quality, as the energy supports transforming a hobby into a professional standard.",
+        "money": "Your financial posture leans toward mindful enjoyment and strategic investment in quality over quantity. You have the space to allocate resources toward things that nourish your spirit while maintaining a structured budget that favors long-term stability.",
+        "love": "Connection this year suggests a theme of refined appreciation and shared leisure. You are free to explore a more playful side of your relationships, provided there is a foundation of clear communication and mutual respect.",
+        "health": "This energy supports a rhythmic approach to wellbeing, balancing periods of indulgent rest with structured physical movement. You may find that a routine based on precision—such as timed meals or a consistent sleep schedule—helps maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 3144
+    },
+    {
+      "key": "K1|食神|水",
+      "kind": "K1",
+      "tenGod": "食神",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year of creative expansion and fluid introspection, shaped by the nourishing presence of the Eating God and the adaptable nature of Water. You are invited to move with the current and explore the joy of your own expression.",
+        "career": "This energy supports a shift toward projects that spark genuine curiosity and professional pleasure. You have the room to introduce a more relaxed pace or a creative approach to your daily tasks, which may find favor with your peers.",
+        "money": "The year leans toward spending on quality of life, leisure, and the refinement of your surroundings. You are free to explore new ways of earning that stem from your natural talents and a more intuitive approach to resource management.",
+        "love": "This is a year that rewards openness and the gentle flow of affection. You have the space to nurture your connections through shared experiences and a playful, low-pressure approach to romance.",
+        "health": "You are encouraged to prioritize rhythmic movement and activities that allow your mind to drift and recover. This period is well suited to a slower pacing that emphasizes emotional replenishment and fluid energy."
+      },
+      "scanHits": [],
+      "latencyMs": 3430
+    },
+    {
+      "key": "K1|伤官|木",
+      "kind": "K1",
+      "tenGod": "伤官",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year of brilliance and expansion, influenced by the Hurting Officer and the growth of Wood. You are invited to break old patterns and express your most authentic, unconventional self.",
+        "career": "The energy favors launching a bold new project or challenging the status quo in your professional circle. You have the room to showcase your unique talents and may find that taking a calculated risk rewards your creativity.",
+        "money": "This year suits a posture of strategic investment in your own skills or a passion project. You are free to explore non-traditional income streams, though you may find a tendency to spend on luxury or aesthetic upgrades.",
+        "love": "You have the space to inject excitement and novelty into your connections. This energy supports a more passionate, expressive approach to romance where you feel empowered to voice your desires openly.",
+        "health": "The upward movement of Wood suggests a year best used for increasing your physical vitality and activity levels. You are encouraged to watch for bursts of high energy and balance them with periods of deliberate stillness."
+      },
+      "scanHits": [],
+      "latencyMs": 1705
+    },
+    {
+      "key": "K1|伤官|火",
+      "kind": "K1",
+      "tenGod": "伤官",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year of vivid expression and spirited breakthroughs, shaped by the influence of the Hurting Officer and the heat of Fire. You are invited to step into the spotlight, challenge old norms, and let your natural brilliance be seen by the world.",
+        "career": "This energy favors the bold move, such as launching a creative project or pitching an unconventional idea to leadership. You have the room to break away from rigid routines and experiment with a more visible, authoritative professional presence.",
+        "money": "The year leans toward spending on self-improvement, aesthetics, or tools that enhance your public image. You are free to explore non-traditional income streams, though the atmosphere suggests a posture of adventurousness rather than cautious accumulation.",
+        "love": "Passion and intensity are heightened, making this a year that suits romantic pursuit and magnetic attraction. You have the space to express your desires more openly and invite more excitement into your connection through shared adventures.",
+        "health": "With high-energy Fire dominating the year, you are encouraged to find a rhythmic balance between bursts of activity and intentional cooling periods. This is a time that rewards pacing yourself to ensure your inner spark doesn't lead to premature exhaustion."
+      },
+      "scanHits": [],
+      "latencyMs": 2988
+    },
+    {
+      "key": "K1|伤官|土",
+      "kind": "K1",
+      "tenGod": "伤官",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year that rewards the marriage of brilliance and stability, blending the spark of the Hurting Officer with the grounding nature of Earth. You are invited to express your unique voice while keeping your feet firmly planted in reality.",
+        "career": "You have the room to challenge old protocols and introduce innovative methods that break the mold. This energy supports a transition from mere ideation to the actual construction of a long-term professional legacy.",
+        "money": "This year favors strategic investments in tangible assets or skills that provide long-term security. You are free to explore unconventional income streams, provided they are anchored by a disciplined spending plan.",
+        "love": "You have the space to bring more playfulness and wit into your connections, shaking off stagnation. This is a year that suits honest conversations about boundaries and the slow building of mutual trust.",
+        "health": "The energy leans toward a balance between high-output creativity and deep, restorative stillness. You may find that rhythmic, grounding movements like walking or gardening help sustain your vitality across the seasons."
+      },
+      "scanHits": [],
+      "latencyMs": 1662
+    },
+    {
+      "key": "K1|伤官|金",
+      "kind": "K1",
+      "tenGod": "伤官",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year of refined brilliance, where the Hurting Officer's expressive spark meets the precision of Metal. You are invited to challenge the status quo through a lens of clarity and sophisticated strategy.",
+        "career": "The energy favours those who dare to innovate or pivot toward a more specialized craft. You have the room to voice unconventional ideas, provided they are backed by the structural rigor this year suggests.",
+        "money": "This period is well suited to investing in your own skills or high-quality tools that increase your efficiency. You may find that non-traditional income streams open up when you apply a sharp, analytical approach to your spending.",
+        "love": "You have the space to introduce more honesty and intellectual stimulation into your connections. This energy supports a period of setting clear boundaries and discovering a deeper, more authentic way of relating to others.",
+        "health": "The year suggests a focus on disciplined routines and a balanced pace to sustain your mental sharpness. You are free to explore restorative practices that emphasize stillness to counter the intensity of your creative drive."
+      },
+      "scanHits": [],
+      "latencyMs": 1915
+    },
+    {
+      "key": "K1|伤官|水",
+      "kind": "K1",
+      "tenGod": "伤官",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year of brilliant expression meeting deep intuition, where the Hurting Officer energy invites you to challenge the status quo. You have the space to blend your sharpest insights with a fluid, adaptable approach to life's transitions.",
+        "career": "You are invited to showcase your unique talents or pitch unconventional ideas that break away from tradition. This energy favours those who take a creative lead or introduce a new way of solving old problems.",
+        "money": "This is a year that rewards entrepreneurial thinking and the ability to pivot your financial strategies. You have the room to experiment with new income streams, though a fluid approach to spending may be suggested.",
+        "love": "You may find a desire for more intellectual stimulation and spirited conversation in your connections. This energy supports the courage to be your most authentic self, allowing for a more honest and vibrant exchange with partners.",
+        "health": "You are free to explore a rhythm that balances high-energy output with periods of deep, quiet restoration. This year suggests a focus on flowing movements and a pacing that respects your need for mental stillness."
+      },
+      "scanHits": [],
+      "latencyMs": 2152
+    },
+    {
+      "key": "K1|偏财|木",
+      "kind": "K1",
+      "tenGod": "偏财",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year shaped by the expansive energy of Indirect Wealth and the vitality of Wood, inviting you to explore unconventional paths. You have the room to step beyond your usual boundaries and embrace a spirit of adventurous growth.",
+        "career": "The current energy supports starting side projects or pivoting toward a role that rewards versatility. This is a year that suits taking calculated risks in your professional approach and exploring non-linear ways to achieve your goals.",
+        "money": "You are invited to look toward diversified income streams and speculative opportunities that lean toward the new and untapped. This period favours an adaptable financial posture, giving you the space to experiment with how you generate value.",
+        "love": "This energy suggests a time for spontaneity and meeting people outside your typical social circles. You are free to embrace the thrill of the unexpected and explore connections that feel fresh, exciting, and unscripted.",
+        "health": "The upward momentum of the year encourages an active lifestyle and a focus on renewing your vitality. You may find it beneficial to pace yourself across the seasons to ensure your energy levels remain sustainable as you expand your horizons."
+      },
+      "scanHits": [],
+      "latencyMs": 1942
+    },
+    {
+      "key": "K1|偏财|火",
+      "kind": "K1",
+      "tenGod": "偏财",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year of expansive visibility and sudden openings, shaped by the dynamic influence of Indirect Wealth and Fire. You are invited to embrace a more adventurous spirit and step into the spotlight to explore unconventional paths.",
+        "career": "The energy supports pivoting toward side projects or exploring niche markets that require quick thinking. You have the room to take calculated risks with your professional identity or launch a venture that rewards adaptability over routine.",
+        "money": "This period favors opportunistic gains and suggests a posture of flexible investing rather than rigid saving. You are free to explore new revenue streams, though the heat of the year suggests a need for mindful pacing with speculative spending.",
+        "love": "Passion and magnetism lean toward the forefront, making this a year well suited for meeting new people through social circles. You have the space to experiment with romance and invite more excitement and spontaneous connection into your life.",
+        "health": "The high-energy nature of this cycle suggests a need for cooling activities to balance the internal heat. You may find that alternating periods of intense activity with intentional stillness helps maintain your overall equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 2347
+    },
+    {
+      "key": "K1|偏财|土",
+      "kind": "K1",
+      "tenGod": "偏财",
+      "element": "土",
+      "sections": {
+        "overall": "This year blends the dynamic spark of Indirect Wealth with the steadying influence of Earth. You are invited to explore unconventional paths while keeping your feet firmly planted on the ground.",
+        "career": "The energy favours side projects, freelance ventures, or pivoting toward a new professional interest. You have the room to experiment with creative strategies that lean toward adaptability and quick thinking.",
+        "money": "This is a year that suits speculative interests and diversifying your income streams. You have the space to pursue opportunistic gains, provided you use the grounding Earth energy to manage your spending rhythm.",
+        "love": "You are free to embrace spontaneity and a sense of adventure in your connections. This period suggests a tendency toward exciting new encounters or bringing a refreshing, playful energy into an existing partnership.",
+        "health": "Your energy levels may fluctuate between high-intensity bursts and a need for deep stillness. This year is best used for balancing active movement with grounding practices that help you recover your equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 2084
+    },
+    {
+      "key": "K1|偏财|金",
+      "kind": "K1",
+      "tenGod": "偏财",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year of Dynamic Precision, where the adventurous spark of Indirect Wealth meets the grounding structure of Metal. You are invited to refine your instincts and turn sudden inspirations into sustainable systems.",
+        "career": "This energy supports the pursuit of unconventional projects or the launch of a side venture. You have the room to pivot your professional strategy, as the year favours those who combine creative risk with a disciplined execution plan.",
+        "money": "You have the space to explore diverse income streams or speculative investments. This is a year that rewards a strategic approach to wealth, suggesting that opportunistic gains are best managed through a clear, structured budget.",
+        "love": "You are free to embrace a more spontaneous approach to connection and romance. This energy leans toward exciting new encounters and suggests a period where adding a sense of play and novelty to your partnership may be revitalising.",
+        "health": "The year suggests a focus on rhythmic consistency and refined habits. You are invited to balance high-energy bursts of activity with periods of cooling stillness to maintain your overall equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 1519
+    },
+    {
+      "key": "K1|偏财|水",
+      "kind": "K1",
+      "tenGod": "偏财",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year defined by the fluid energy of Indirect Wealth and Water, inviting you to embrace adaptability and the thrill of the unexpected. You have the room to pivot your perspective and explore unconventional paths that lean toward growth.",
+        "career": "The professional landscape favors those who can improvise and spot emerging trends before they become mainstream. You are invited to take on side projects or diversify your skill set, as this energy supports a versatile approach to your workload.",
+        "money": "This year suits a posture of strategic exploration and speculative interest rather than rigid budgeting. You have the space to experiment with new income streams or alternative investments, though the flow suggests a balance between bold moves and cautious observation.",
+        "love": "Connections may lean toward the spontaneous and the emotionally deep, rewarding those who allow their relationships to evolve naturally. You are free to explore the unseen layers of your partnerships or invite new, surprising people into your social circle.",
+        "health": "Your energy may follow a rhythmic, wave-like pattern that favors periods of deep restoration followed by bursts of activity. This is a year that rewards listening to your internal flow and adjusting your pacing to match your natural vitality."
+      },
+      "scanHits": [],
+      "latencyMs": 1543
+    },
+    {
+      "key": "K1|正财|木",
+      "kind": "K1",
+      "tenGod": "正财",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year of cultivated growth, where the steady influence of Direct Wealth meets the expansive energy of Wood. You are invited to build lasting foundations and find satisfaction in the tangible progress of your efforts.",
+        "career": "The current energy favours a disciplined approach to professional expansion and the refinement of your skill set. You have the room to take on structured projects that reward persistence and a methodical climb toward your goals.",
+        "money": "This cycle is well suited to steady accumulation and the creation of reliable income streams. You have the space to implement a sustainable budget and may find that consistent, incremental savings provide a rewarding sense of security.",
+        "love": "Relationships tend to lean toward stability and a shared desire for long-term growth. You are free to invest in the slow, nurturing side of connection, focusing on reliability and the quiet joy of building a life together.",
+        "health": "Your energy suggests a season of renewal and upward vitality. This is a year that supports a rhythmic pace of activity, allowing you to balance periods of expansion with mindful restoration."
+      },
+      "scanHits": [],
+      "latencyMs": 1377
+    },
+    {
+      "key": "K1|正财|火",
+      "kind": "K1",
+      "tenGod": "正财",
+      "element": "火",
+      "sections": {
+        "overall": "This year blends the stability of Direct Wealth with the vibrant energy of Fire, creating a theme of visible achievement. You are invited to step into the spotlight and claim the rewards of your previous discipline.",
+        "career": "The energy supports a transition from behind-the-scenes planning to active implementation. You have the room to take ownership of a major project or seek a more prominent role where your reliability is recognized.",
+        "money": "This is a year that rewards a methodical approach to earning and a focus on steady growth. You are free to refine your budget and explore sustainable income streams that favour long-term security over quick wins.",
+        "love": "The warmth of the year suggests a period of openness and passionate connection. You have the space to build a relationship based on mutual respect and tangible commitments, moving toward a more grounded partnership.",
+        "health": "The influence of Fire encourages an active, high-energy pace, though you may find it helpful to balance this with periods of stillness. This year is well suited to movement-based activities that help you channel and release excess heat."
+      },
+      "scanHits": [],
+      "latencyMs": 1445
+    },
+    {
+      "key": "K1|正财|土",
+      "kind": "K1",
+      "tenGod": "正财",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year defined by the grounding presence of Earth and the steady pulse of Direct Wealth. You are invited to move away from haste and instead embrace a season of tangible progress and disciplined growth.",
+        "career": "The energy favours the refinement of current skills and the completion of long-term projects. You have the room to establish a more reliable professional routine that rewards consistency over sudden leaps.",
+        "money": "This year is well suited to building a sustainable financial foundation through earned rewards and careful planning. You are free to focus on slow accumulation and the quiet satisfaction of a growing reserve.",
+        "love": "Relationships tend to lean toward stability and the comfort of shared values. You have the space to deepen a connection through small, reliable gestures and the creation of a secure home environment.",
+        "health": "This period supports a pacing that emphasizes grounding and rhythmic recovery. You may find that steady, low-impact physical movement helps maintain your internal equilibrium throughout the seasons."
+      },
+      "scanHits": [],
+      "latencyMs": 2106
+    },
+    {
+      "key": "K1|正财|金",
+      "kind": "K1",
+      "tenGod": "正财",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year that rewards discipline and structured growth, blending the steady nature of Direct Wealth with the precision of Metal. You are invited to ground your ambitions in reality and find satisfaction in the tangible results of your efforts.",
+        "career": "The current energy favours the refinement of your professional skills and the tidying of your workflow. You have the room to take on projects that require high attention to detail or a systematic approach to management.",
+        "money": "This period supports the creation of a sustainable budget and the pursuit of earned, reliable income streams. You have the space to move away from speculation and toward a financial posture of stability and measured accumulation.",
+        "love": "Connection this year leans toward the dependable and the sincere, favoring relationships built on shared values and mutual respect. You are free to express your affection through consistent actions and the building of a secure domestic foundation.",
+        "health": "The year suggests a focus on rhythmic routines and a balanced daily schedule to maintain your vitality. You may find that your energy is best supported by structured physical activity and a commitment to consistent rest patterns."
+      },
+      "scanHits": [],
+      "latencyMs": 1641
+    },
+    {
+      "key": "K1|正财|水",
+      "kind": "K1",
+      "tenGod": "正财",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year defined by the steady rhythm of Direct Wealth and the fluid depth of Water. You are invited to blend disciplined action with an adaptable spirit, creating a foundation of sustainable growth.",
+        "career": "The energy favors methodical progress and the completion of long-term projects. You have the room to refine your professional skills and lean toward a more structured approach to your daily tasks.",
+        "money": "This is a year that rewards consistency and planned budgeting over speculative risks. You have the space to build a reliable income stream and may find that steady, earned rewards bring the most satisfaction.",
+        "love": "The influence of Water suggests a season for emotional depth and intuitive connection. You are free to explore the quieter, more supportive side of your relationships and nurture a sense of mutual trust.",
+        "health": "This year supports a pacing that mimics the flow of water, alternating between active movement and deep stillness. You are invited to prioritize restorative sleep and gentle rhythms to maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 1843
+    },
+    {
+      "key": "K1|七杀|木",
+      "kind": "K1",
+      "tenGod": "七杀",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year of powerful initiation, blending the decisive pressure of the Seven Killings with the expansive growth of Wood. You are invited to step into a leadership role and use this intensity to break through old barriers.",
+        "career": "The energy favors bold moves and the assumption of greater responsibility. You have the room to pitch a challenging new project or pivot your professional direction through decisive action.",
+        "money": "This period leans toward strategic investments in your own growth and capabilities. You may find that taking calculated risks or upgrading your tools supports a more assertive financial posture.",
+        "love": "You are free to explore a more passionate and direct approach to connection. This year suits those who feel ready to establish clear boundaries or initiate a significant new chapter in a relationship.",
+        "health": "The year suggests a focus on vitality and the rhythmic expansion of your physical energy. You are encouraged to balance periods of high-intensity activity with intentional phases of restorative stillness."
+      },
+      "scanHits": [],
+      "latencyMs": 2407
+    },
+    {
+      "key": "K1|七杀|火",
+      "kind": "K1",
+      "tenGod": "七杀",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year defined by the Seven Killings and the heat of Fire, suggesting a period of decisive action and high visibility. You are invited to step into a more commanding role and embrace the challenge of rapid growth.",
+        "career": "The energy favors taking a bold leap or spearheading a difficult project that requires quick decision-making. You have the room to establish your authority and move into positions of leadership that reward courage.",
+        "money": "This year suits a proactive posture toward wealth, where taking calculated risks may open new revenue streams. You are free to pivot your financial strategy to match the fast-paced nature of the current market.",
+        "love": "The intensity of the Fire element suggests a year of passionate encounters and transformative connections. You have the space to be more assertive about your desires and invite a more dynamic energy into your partnerships.",
+        "health": "The annual heat suggests a need for conscious pacing to balance your high output. This energy supports a regime that prioritizes cooling activities and restorative breaks to maintain your equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 2269
+    },
+    {
+      "key": "K1|七杀|土",
+      "kind": "K1",
+      "tenGod": "七杀",
+      "element": "土",
+      "sections": {
+        "overall": "This year blends the decisive pressure of the Seven Killings with the grounding nature of Earth, inviting you to forge strength through discipline. You have the room to transform challenges into a solid foundation for your long-term growth.",
+        "career": "The energy favours taking a bold stand or stepping into a leadership role that requires quick, firm decision-making. You are invited to tackle the most demanding projects first, as the year supports the slow accumulation of professional authority.",
+        "money": "This is a year that suits a conservative financial posture, leaning toward steady saving rather than speculative risks. You have the space to restructure your debts or commit to a long-term investment that rewards patience.",
+        "love": "You may find that relationships require a more structured approach or a willingness to navigate tension to find deeper stability. This energy supports setting clear boundaries and building a connection based on mutual respect and reliability.",
+        "health": "Your energy levels suggest a need for grounding activities, such as walking in nature or consistent sleep routines, to balance the mental pressure. You are free to pace yourself, alternating periods of intense effort with intentional stillness to maintain your equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 1639
+    },
+    {
+      "key": "K1|七杀|金",
+      "kind": "K1",
+      "tenGod": "七杀",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year defined by the potency of the Seven Killings meeting the precision of Metal, inviting you to refine your strength through challenge. You have the room to transform pressure into power and trade hesitation for decisive action.",
+        "career": "This energy supports a pivot toward leadership or the undertaking of a rigorous new project. You are invited to set firm boundaries and implement a more structured workflow to handle increased professional demands.",
+        "money": "The year leans toward a disciplined approach to wealth, favoring strategic investments over impulsive spending. You have the space to audit your financial habits and build a more resilient, structured budget.",
+        "love": "Relationships may feel a push toward honesty and clarity, rewarding those who communicate with directness. You are free to evaluate your connections and prioritize partnerships that offer stability and mutual respect.",
+        "health": "This period suggests a focus on structured movement and rhythmic recovery to balance high-intensity energy. You may find that a consistent, disciplined routine supports your overall vitality and prevents burnout."
+      },
+      "scanHits": [],
+      "latencyMs": 1880
+    },
+    {
+      "key": "K1|七杀|水",
+      "kind": "K1",
+      "tenGod": "七杀",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year that rewards decisive action tempered by deep intuition, blending the pressure of the Seven Killings with the fluid adaptability of Water. You are invited to transform challenges into stepping stones by remaining flexible in your approach.",
+        "career": "This energy supports taking on high-stakes projects or stepping into a leadership role that requires quick thinking. You have the room to pivot your strategy mid-year, leaning toward methods that favour diplomacy and quiet observation over force.",
+        "money": "Your financial posture may find a balance between aggressive growth and prudent preservation. This is a year well suited to researching new investment vehicles or auditing your spending to create a more fluid flow of resources.",
+        "love": "You have the space to explore the deeper, more mysterious layers of your connections. This period favours honest conversations about boundaries and allows you to cultivate a relationship that feels both passionate and emotionally supportive.",
+        "health": "The year suggests a focus on rhythmic movement and maintaining a steady internal pace. You are free to experiment with calming rituals and hydration-focused habits to balance the inherent intensity of the year's energy."
+      },
+      "scanHits": [],
+      "latencyMs": 2096
+    },
+    {
+      "key": "K1|正官|木",
+      "kind": "K1",
+      "tenGod": "正官",
+      "element": "木",
+      "sections": {
+        "overall": "This is a year of structured growth, where the Direct Officer energy invites you to build a lasting legacy through discipline and order. You have the room to step into a position of leadership while the Wood element supports a natural, upward expansion of your influence.",
+        "career": "This period favours those who embrace formal systems and professional standards to climb the ladder. You are invited to take on more responsibility or seek a title that reflects your expertise, as the energy supports a steady rise in status.",
+        "money": "Financial posture leans toward stability and long-term planning rather than speculative gains. This is a year that rewards a budgeted approach and the acquisition of assets that provide a secure foundation for the future.",
+        "love": "The influence of the Direct Officer suggests a tendency toward committed, traditional partnerships and clear boundaries. You have the space to cultivate a relationship based on mutual respect and shared values, moving toward a more formalized bond.",
+        "health": "Energy levels follow a seasonal arc of expansion, suggesting a benefit to routines that mirror the rhythms of nature. You are free to explore a structured wellness plan that balances active growth with periods of restorative quiet."
+      },
+      "scanHits": [],
+      "latencyMs": 1543
+    },
+    {
+      "key": "K1|正官|火",
+      "kind": "K1",
+      "tenGod": "正官",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year defined by the intersection of Direct Officer authority and the vibrant heat of Fire. You are invited to step into a more visible role and claim a position of respected leadership.",
+        "career": "This energy supports taking on formal responsibilities or seeking a title that reflects your actual influence. You have the room to refine your professional standards and may find that sticking to a structured plan rewards your efforts.",
+        "money": "Financial postures that lean toward disciplined saving and long-term investment are well suited to this period. You are free to allocate resources toward professional certifications or tools that enhance your public reputation.",
+        "love": "The presence of Direct Officer energy suggests a year that favours committed partnerships and traditional milestones. You have the space to build a relationship based on mutual respect and shared values.",
+        "health": "The warmth of the Fire element suggests an active pace, though you are encouraged to balance high-energy output with mindful cooling periods. This is a year best used for establishing a sustainable physical routine that prevents burnout."
+      },
+      "scanHits": [],
+      "latencyMs": 1666
+    },
+    {
+      "key": "K1|正官|土",
+      "kind": "K1",
+      "tenGod": "正官",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year of structured growth, where the influence of the Direct Officer meets the grounding nature of Earth. You are invited to build a lasting foundation and step into a role of greater responsibility with quiet confidence.",
+        "career": "The energy favours pursuing certifications, formal promotions, or establishing a clearer professional hierarchy. You have the room to refine your workflow and may find that a disciplined, steady approach to your projects leads to higher recognition.",
+        "money": "This is a year that suits conservative financial planning and the slow accumulation of assets. You are free to focus on long-term stability over quick wins, leaning toward a posture of steady saving and mindful budgeting.",
+        "love": "You have the space to cultivate relationships based on mutual respect and shared values. This energy supports the transition toward more committed arrangements or the strengthening of traditional bonds through reliable, everyday support.",
+        "health": "Your energy tends to favor a rhythmic, predictable routine and grounding physical activities. You are invited to focus on pacing yourself and maintaining a steady equilibrium to avoid burnout during periods of high duty."
+      },
+      "scanHits": [],
+      "latencyMs": 1678
+    },
+    {
+      "key": "K1|正官|金",
+      "kind": "K1",
+      "tenGod": "正官",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year governed by the Direct Officer and the precision of Metal, creating a theme of refined structure and personal integrity. You are invited to step into a more defined role and embrace a sense of order that supports your long-term reputation.",
+        "career": "This energy favors those who seek professional advancement through discipline and the adherence to high standards. You have the room to take on leadership responsibilities or refine your current workflows to achieve greater clarity and authority.",
+        "money": "The year suggests a posture of conservative management and strategic planning. You are free to focus on stabilizing your assets and may find that a methodical approach to budgeting rewards you with a deeper sense of security.",
+        "love": "Relationships may lean toward a desire for stability, commitment, and clear boundaries. You have the space to build trust through reliability and may find that honoring promises strengthens your connection with a partner.",
+        "health": "This period is well suited for establishing a consistent daily routine and a rhythmic approach to movement. You are encouraged to prioritize a steady pace and maintain a balanced environment to keep your energy levels sustainable."
+      },
+      "scanHits": [],
+      "latencyMs": 1839
+    },
+    {
+      "key": "K1|正官|水",
+      "kind": "K1",
+      "tenGod": "正官",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year that rewards the balance of structure and fluidity, blending the discipline of the Direct Officer with the depth of Water. You are invited to build a stable foundation while remaining adaptable to the changing currents of your environment.",
+        "career": "The energy supports stepping into a leadership role or refining your professional reputation through steady, reliable action. You have the room to implement new systems of organization while allowing your intuition to guide your decision-making process.",
+        "money": "This year favors a posture of conservative growth and mindful planning over impulsive gains. You are free to focus on long-term security, making it a period well suited for organizing your assets and establishing a sustainable budget.",
+        "love": "You may find that your relationships lean toward a desire for more commitment, clarity, and mutual respect. This is a year that suits deepening an existing bond through shared values or seeking a partner who brings a sense of stability to your life.",
+        "health": "This cycle suggests a focus on rhythmic pacing and the gentle flow of energy throughout the body. You have the space to prioritize restorative practices and listening to your internal cues to maintain a sustainable level of vitality."
+      },
+      "scanHits": [],
+      "latencyMs": 1920
+    },
+    {
+      "key": "K1|偏印|木",
+      "kind": "K1",
+      "tenGod": "偏印",
+      "element": "木",
+      "sections": {
+        "overall": "This year blends the unconventional intuition of the Indirect Resource with the expansive growth of Wood. You are invited to trust your instincts and explore non-traditional paths as you expand your personal horizons.",
+        "career": "This is a year that rewards specialized skills and creative problem-solving over standard procedures. You have the room to pursue an unusual certification or pivot toward a project that requires a unique, intuitive approach.",
+        "money": "Your financial posture favors investments in knowledge or niche assets rather than traditional savings. You may find this energy supports a strategy of diversification and exploring alternative income streams.",
+        "love": "You have the space to seek deeper, more intellectual connections and appreciate the quirks of your partner. This year leans toward a romance fueled by shared curiosity and the freedom to be authentically strange together.",
+        "health": "This energy suggests a need for balance between active expansion and quiet withdrawal. You are free to experiment with mindful movement and pacing your energy to avoid over-extending your vitality."
+      },
+      "scanHits": [],
+      "latencyMs": 3526
+    },
+    {
+      "key": "K1|偏印|火",
+      "kind": "K1",
+      "tenGod": "偏印",
+      "element": "火",
+      "sections": {
+        "overall": "This is a year defined by the dance between the internal world of the Indirect Resource and the outward heat of Fire. You are invited to blend your unique intuition with a bold, visible energy, creating a period that rewards unconventional wisdom and spirited action.",
+        "career": "The energy supports pivoting toward niche projects or learning a specialized skill that sets you apart. You have the room to challenge established norms and may find that proposing an unorthodox solution gains sudden visibility.",
+        "money": "This year leans toward rewards for intellectual property or non-traditional income streams. You are free to explore alternative investments, though the heat of the year suggests a posture of mindful spending during high-passion phases.",
+        "love": "You have the space to seek deeper, more soulful connections that transcend the ordinary. This energy favours those who are brave enough to show their quirky side and allows for a romantic arc that prioritizes mental stimulation.",
+        "health": "Your energy tends to oscillate between intense bursts of activity and a need for quiet withdrawal. You are encouraged to balance high-energy movement with periods of solitude to maintain your inner equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 3913
+    },
+    {
+      "key": "K1|偏印|土",
+      "kind": "K1",
+      "tenGod": "偏印",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year defined by the quiet strength of Indirect Resource and the grounding influence of Earth. You are invited to embrace a period of introspection and unconventional wisdom, favoring depth over speed.",
+        "career": "This energy supports pivoting toward niche specializations or learning a rare skill. You have the room to step back from the spotlight to refine your craft, as the year favors those who build a solid foundation in private.",
+        "money": "Your financial posture leans toward slow accumulation and the preservation of assets. This is a year that suits cautious investing and finding value in tangible, long-term holdings rather than quick wins.",
+        "love": "You have the space to cultivate a more spiritual or intellectual connection with your partner. This energy suggests a season for deep, private conversations and shared solitude rather than high-social activity.",
+        "health": "The year favors a slower pace and a return to grounding rhythms. You are free to prioritize stillness and restorative practices to keep your internal energy steady and balanced."
+      },
+      "scanHits": [],
+      "latencyMs": 2927
+    },
+    {
+      "key": "K1|偏印|金",
+      "kind": "K1",
+      "tenGod": "偏印",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year of refined intuition and structural clarity, shaped by the influence of the Indirect Resource and Metal. You are invited to step back from the noise and trust your unconventional instincts to carve out a more precise path.",
+        "career": "The current energy favours deep research, specialized certifications, or the mastery of a niche skill. You have the room to pivot toward a project that requires a sharp, analytical eye and a non-traditional approach to problem-solving.",
+        "money": "This year suits a posture of strategic preservation and the auditing of your financial systems. You may find that diversifying into unconventional assets or investing in your own specialized education provides a sense of security.",
+        "love": "You have the space to prioritize emotional boundaries and intellectual connection over social expectations. This energy supports a period of introspection, allowing you to refine what you truly need from a partner before opening up.",
+        "health": "The year suggests a focus on rhythmic recovery and the cooling of your overall energy system. You are free to adopt a slower pace, favoring meditative stillness and structured routines that allow your mind to declutter."
+      },
+      "scanHits": [],
+      "latencyMs": 4153
+    },
+    {
+      "key": "K1|偏印|水",
+      "kind": "K1",
+      "tenGod": "偏印",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year defined by the influence of the Indirect Resource and Water, inviting a journey of introspection and unconventional wisdom. You have the space to step back from the noise and explore the depths of your intuition to find a more authentic path.",
+        "career": "This energy favors research, specialized study, or the pursuit of a niche certification over aggressive climbing. You are free to pivot toward projects that require deep thinking or a creative, non-linear approach to problem-solving.",
+        "money": "Your financial posture may lean toward cautious preservation or investing in personal growth and rare assets. This is a year that suits a quiet review of your resources rather than high-risk ventures.",
+        "love": "You are invited to cultivate a more spiritual or intellectual connection with your partner, prioritizing deep conversations over social obligations. This energy supports the discovery of shared secrets or a mutual interest in the mysterious.",
+        "health": "You have the room to prioritize restorative pacing and fluid movement, such as swimming or gentle stretching. This year suggests a focus on emotional equilibrium and allowing your energy to ebb and flow naturally."
+      },
+      "scanHits": [],
+      "latencyMs": 3363
+    },
+    {
+      "key": "K1|正印|木",
+      "kind": "K1",
+      "tenGod": "正印",
+      "element": "木",
+      "sections": {
+        "overall": "This year is defined by the nurturing grace of the Direct Resource and the expansive vitality of Wood. You are invited to cultivate your inner wisdom and lean into a season of steady, organic growth.",
+        "career": "This period rewards deep study and the acquisition of new certifications or specialized skills. You have the space to seek mentorship or refine your professional credentials to build a more stable foundation.",
+        "money": "The current energy favors conservative financial postures and investments in your own education. You may find that focusing on long-term security rather than quick gains suits your current trajectory.",
+        "love": "This is a year that supports emotional stability and the pursuit of meaningful, supportive connections. You have the room to nurture existing bonds through shared learning or quiet, quality time.",
+        "health": "Your energy leans toward a need for steady replenishment and a slower, more natural pace. This is a year well suited for establishing a sustainable routine that emphasizes rest and gentle movement."
+      },
+      "scanHits": [],
+      "latencyMs": 1650
+    },
+    {
+      "key": "K1|正印|火",
+      "kind": "K1",
+      "tenGod": "正印",
+      "element": "火",
+      "sections": {
+        "overall": "This year is characterized by a blending of supportive wisdom and vibrant visibility. You are invited to step into a role of recognized authority where your knowledge meets an energizing, passionate momentum.",
+        "career": "The energy favors pursuing certifications, advanced degrees, or mentorship roles that elevate your professional standing. You have the room to turn theoretical study into visible projects that capture the attention of your peers.",
+        "money": "This is a year that rewards investments in your own education or the acquisition of assets that provide long-term stability. You may find that your financial posture leans toward cautious growth supported by expert advice.",
+        "love": "You are free to seek connections based on shared values and intellectual resonance. This energy supports a transition toward more mature, supportive relationships where emotional security is prioritized over fleeting sparks.",
+        "health": "You have the space to balance intense bursts of activity with intentional periods of restorative quiet. The year suggests a focus on pacing your energy to ensure that your inner vitality keeps pace with your outer ambitions."
+      },
+      "scanHits": [],
+      "latencyMs": 2521
+    },
+    {
+      "key": "K1|正印|土",
+      "kind": "K1",
+      "tenGod": "正印",
+      "element": "土",
+      "sections": {
+        "overall": "This is a year characterized by the nourishing energy of Direct Resource and the grounding stability of Earth. You are invited to focus on self-cultivation, seeking protection and wisdom as you build a solid foundation for the future.",
+        "career": "The current energy supports professional certification, returning to study, or seeking mentorship from a seasoned expert. You have the room to slow your pace to ensure your projects are built on a stable, well-researched base.",
+        "money": "This year favors a posture of preservation and the slow accumulation of assets over high-risk ventures. You have the space to focus on long-term security, such as real estate or traditional savings, rather than quick gains.",
+        "love": "Connection tends to lean toward stability, comfort, and a sense of mutual protection. You are free to nurture your relationships through quiet consistency and the creation of a secure, supportive home environment.",
+        "health": "The year suggests a pacing that favors grounding activities and restorative rhythms. You may find that a steady, predictable routine supports your overall energy equilibrium and systemic balance."
+      },
+      "scanHits": [],
+      "latencyMs": 1809
+    },
+    {
+      "key": "K1|正印|金",
+      "kind": "K1",
+      "tenGod": "正印",
+      "element": "金",
+      "sections": {
+        "overall": "This is a year defined by the stabilizing influence of Direct Resource and the precision of Metal, creating a supportive atmosphere for growth. You are invited to lean into a period of refinement, where knowledge and structure provide a firm foundation for your aspirations.",
+        "career": "This energy favors returning to study, earning a new certification, or refining your professional methodology. You have the room to seek mentorship and organize your workflows with greater clarity, making it a year well suited for strategic planning over impulsive action.",
+        "money": "Your financial posture leans toward preservation and the acquisition of assets that hold long-term value. This is a year that rewards a disciplined budget and the pursuit of financial literacy, giving you the space to build a more secure safety net.",
+        "love": "You are free to explore a more grounded, supportive connection based on mutual respect and shared values. This period suggests a tendency toward stability, where you may find comfort in traditional gestures of care and the steady building of trust.",
+        "health": "The year supports a rhythmic approach to wellness, favoring structured routines and consistent pacing. You have the space to focus on restorative practices that bring a sense of coolness and equilibrium to your overall energy levels."
+      },
+      "scanHits": [],
+      "latencyMs": 1867
+    },
+    {
+      "key": "K1|正印|水",
+      "kind": "K1",
+      "tenGod": "正印",
+      "element": "水",
+      "sections": {
+        "overall": "This is a year defined by the supportive grace of Direct Resource paired with the fluid depth of Water. You are invited to step back from the noise and embrace a season of replenishment, study, and internal grounding.",
+        "career": "The current energy favours professional certification, deep research, or returning to a mentor for guidance. You have the room to shift your focus from aggressive expansion toward mastering your craft and refining your expertise.",
+        "money": "This period tends to support stable, conservative financial postures and investments in your own education. You may find that prioritizing long-term security over quick gains suits your current rhythm best.",
+        "love": "You are free to cultivate a connection based on emotional depth, shared values, and quiet understanding. This energy suggests a year well suited for nurturing intimacy through listening and supportive presence.",
+        "health": "Your system is invited to mirror the flow of Water, favoring gentle movement and restorative pacing. This is a year that rewards a rhythmic approach to energy, allowing for periods of deep stillness to balance active phases."
+      },
+      "scanHits": [],
+      "latencyMs": 1746
+    },
+    {
+      "key": "K2|none",
+      "kind": "K2",
+      "relation": "none",
+      "sections": {
+        "overall": "This is a year that rewards autonomy, as the annual energy moves independently of your natal anchors. You have the room to experiment with new habits or directions without the heavy pressure of past patterns pulling at your sleeve.",
+        "rhythm": "The flow tends to be steady and neutral, offering a consistent pace rather than sharp peaks or valleys. You may find this a year that suits a rhythmic, sustainable approach to your goals rather than sudden sprints.",
+        "advice": "You are invited to treat this period as a blank canvas where you can trial a new hobby or a different way of organizing your day. This energy supports stepping outside your usual role, giving you the space to discover who you are when no one is expecting a specific version of you."
+      },
+      "scanHits": [],
+      "latencyMs": 1204
+    },
+    {
+      "key": "K2|clash",
+      "kind": "K2",
+      "relation": "clash",
+      "sections": {
+        "overall": "This year suggests a period of active shaking and reorganization, where the old is cleared to make way for the new. You have the room to pivot your direction and shed habits that no longer serve your current growth.",
+        "rhythm": "The energy tends to press most strongly during the months that mirror this clash, often feeling like a sudden push for change. You may find that pacing yourself with deliberate breaks and short trips helps ease the tension between these peaks.",
+        "advice": "This is a year that rewards movement and flexibility, making it well suited for rearranging your living space or updating your daily routine. You are invited to lean into the friction by initiating the changes you have been delaying, using this momentum to carve out a new path."
+      },
+      "scanHits": [],
+      "latencyMs": 2561
+    },
+    {
+      "key": "K2|combine",
+      "kind": "K2",
+      "relation": "combine",
+      "sections": {
+        "overall": "This year feels like a welcoming door opening, where external opportunities tend to merge naturally with your personal goals. You have the space to form supportive alliances and find that people are generally more inclined to meet you halfway.",
+        "rhythm": "The year often begins with a sense of attraction or new introductions that gradually deepen into steadier commitments. You may find that energy peaks during periods of collaboration, rewarding a pace that favors steady integration over sudden leaps.",
+        "advice": "You are invited to say yes to joint ventures and social invitations that bridge different areas of your life. This is a year that suits a posture of openness, where you have the room to let others contribute their strengths to your vision."
+      },
+      "scanHits": [],
+      "latencyMs": 1363
+    },
+    {
+      "key": "K2|harm",
+      "kind": "K2",
+      "relation": "harm",
+      "sections": {
+        "overall": "This year suggests a texture of quiet friction, where small misunderstandings or subtle erosions may surface in your daily routines. You have the room to view these minor glitches not as roadblocks, but as gentle signals pointing toward where your boundaries need refining.",
+        "rhythm": "The energy tends to press in short, intermittent bursts rather than one large wave, favoring a pace of steady, patient adjustments. You may find that easing your expectations during peak friction periods creates the space for a smoother glide through the rest of the year.",
+        "advice": "This is a year that rewards a posture of diplomatic grace and the habit of clarifying small details before they grow. You are invited to prioritize soft communication and are free to step back from heated debates to protect your inner equilibrium."
+      },
+      "scanHits": [],
+      "latencyMs": 1314
+    },
+    {
+      "key": "K2|punish",
+      "kind": "K2",
+      "relation": "punish",
+      "sections": {
+        "overall": "This energy often arrives as a call to refine your approach or settle old accounts. You have the space to treat this pressure not as a burden, but as a polishing process that removes what no longer serves your growth.",
+        "rhythm": "The year tends to lean toward periods of intense focus followed by necessary pauses for reflection. You may find the energy presses most firmly when you resist a needed change, while easing when you lean into a task of self-correction.",
+        "advice": "This is a year that rewards meticulousness and the courage to admit a mistake. You are invited to proactively organize your affairs or seek a mentor's guidance, as this energy supports the act of consciously upgrading your standards."
+      },
+      "scanHits": [],
+      "latencyMs": 1559
+    },
+    {
+      "key": "K2|clash+combine",
+      "kind": "K2",
+      "relation": "clash+combine",
+      "sections": {
+        "overall": "This year feels like a magnetic tug-of-war, where you are invited to balance an old attachment with a sudden urge for change. It is a high-energy texture that favors those who can hold two opposing truths at once without rushing to a conclusion.",
+        "rhythm": "The year tends to move in pulses of intense activity followed by moments of stillness. You may find that progress comes in leaps rather than a straight line, suggesting a pace that allows for strategic retreats when the pressure peaks.",
+        "advice": "You have the room to negotiate your boundaries rather than drawing hard lines. This energy supports a flexible approach, such as updating a long-term contract or rearranging your living space to welcome something new while keeping what serves you."
+      },
+      "scanHits": [],
+      "latencyMs": 1291
+    },
+    {
+      "key": "K2|clash+harm",
+      "kind": "K2",
+      "relation": "clash+harm",
+      "sections": {
+        "overall": "This contact feels like a sudden awakening paired with a slow shedding of old habits. You have the room to confront contradictions head-on while gently releasing attachments that no longer serve your growth.",
+        "rhythm": "The energy tends to peak in sharp bursts of activity followed by long periods of quiet recalibration. You may find that taking deliberate pauses between major decisions allows the friction to resolve into clarity.",
+        "advice": "This is a year that rewards honest conversations and a willingness to rearrange your physical environment. You are invited to use this friction as a catalyst to prune your schedule and make space for more authentic connections."
+      },
+      "scanHits": [],
+      "latencyMs": 1854
+    },
+    {
+      "key": "K2|clash+punish",
+      "kind": "K2",
+      "relation": "clash+punish",
+      "sections": {
+        "overall": "This energy often feels like a sudden call to reorganize your foundations, where disruption arrives as an invitation to settle old debts or fulfill lingering duties. You have the room to transform a sense of friction into a catalyst for necessary, structural upgrades in your daily life.",
+        "rhythm": "The year may lean toward a high-pressure start that demands immediate attention, followed by a slower period of integration. You are invited to pace yourself by alternating bursts of decisive action with deliberate intervals of rest and recovery.",
+        "advice": "This is a year that rewards a posture of transparency and proactive accountability. You have the space to consciously resolve obligations early, which may free you to lean into the more creative possibilities the year offers."
+      },
+      "scanHits": [],
+      "latencyMs": 1895
+    },
+    {
+      "key": "K2|combine+harm",
+      "kind": "K2",
+      "relation": "combine+harm",
+      "sections": {
+        "overall": "This year invites you into a complex dance of partnership where deep connections and hidden frictions exist side-by-side. You have the room to build powerful alliances, provided you remain open to the quiet nuances and sensitivities that simmer beneath the surface.",
+        "rhythm": "The energy tends to start with an inviting pull toward new collaborations, followed by periods where small misunderstandings may surface. This cycle suggests a pace of slow integration, allowing you to resolve tensions as they arise rather than rushing toward a final result.",
+        "advice": "You are free to embrace the contradictions of this year by practicing radical transparency in your agreements. This energy supports a posture of generous listening and rewards those who address subtle frictions with kindness before they grow."
+      },
+      "scanHits": [],
+      "latencyMs": 1303
+    },
+    {
+      "key": "K2|combine+punish",
+      "kind": "K2",
+      "relation": "combine+punish",
+      "sections": {
+        "overall": "This energy creates a compelling pull toward new commitments that simultaneously demand a high level of precision and adjustment. You are invited to step into roles that feel both rewarding and rigorous, where the bond you form asks you to refine your approach.",
+        "rhythm": "The year tends to start with a welcoming opening or an attractive invitation, followed by periods of intense polishing and friction. You have the space to alternate between leaning into the connection and stepping back to resolve the tensions that arise from it.",
+        "advice": "This is a year that rewards a willingness to stay in the room when things get complex. You are free to renegotiate your boundaries and may find success by treating every friction as a prompt to upgrade your standards."
+      },
+      "scanHits": [],
+      "latencyMs": 1186
+    },
+    {
+      "key": "K2|harm+punish",
+      "kind": "K2",
+      "relation": "harm+punish",
+      "sections": {
+        "overall": "This year feels like navigating a narrow corridor where pressures may emerge from multiple directions simultaneously. You are invited to view these frictions not as obstacles, but as a catalyst for refining your boundaries and sharpening your resolve.",
+        "rhythm": "The energy tends to fluctuate between periods of high tension and sudden releases. This is a year that rewards a steady, measured pace, allowing you the room to step back and breathe when the friction peaks.",
+        "advice": "You have the space to practice radical patience and conscious diplomacy in your daily interactions. This energy supports a strategy of non-resistance, where you are free to let go of the need to control every outcome."
+      },
+      "scanHits": [],
+      "latencyMs": 1746
+    },
+    {
+      "key": "K2|clash+combine+harm",
+      "kind": "K2",
+      "relation": "clash+combine+harm",
+      "sections": {
+        "overall": "This year invites a complex dance of attraction and friction, where things may feel simultaneously pulled together and pushed apart. You have the room to navigate a tangled web of relationships or commitments that challenge and refine your perspectives.",
+        "rhythm": "The energy tends to move in waves, alternating between sudden bursts of tension and periods of unexpected cooperation. You may find that the year rewards a slower pace, allowing the dust to settle before making a decisive move.",
+        "advice": "This is a year that suits a flexible approach, where you are free to negotiate and pivot as new information emerges. You are invited to treat contradictions as opportunities for growth, using this friction to polish your boundaries and clarify your needs."
+      },
+      "scanHits": [],
+      "latencyMs": 1974
+    },
+    {
+      "key": "K2|clash+combine+punish",
+      "kind": "K2",
+      "relation": "clash+combine+punish",
+      "sections": {
+        "overall": "This year feels like a complex dance between sudden shifts and deep commitments, where movement is often tied to a sense of duty. You are invited to explore how breaking old patterns can actually create the stability you need to fulfill your responsibilities.",
+        "rhythm": "The energy tends to press hardest when you resist necessary changes, creating a cycle of tension followed by sudden resolution. You have the space to pace yourself by alternating periods of intense activity with deliberate moments of stillness.",
+        "advice": "This is a year that rewards a flexible approach to your obligations, such as renegotiating a contract or rearranging your home to better suit your needs. You are free to treat these frictions as signals that suggest a more authentic way of organizing your daily life."
+      },
+      "scanHits": [],
+      "latencyMs": 2322
+    },
+    {
+      "key": "K2|clash+harm+punish",
+      "kind": "K2",
+      "relation": "clash+harm+punish",
+      "sections": {
+        "overall": "This contact feels like a high-friction environment where old structures are pressed and eroded to make way for something new. You are invited to view this intensity as a refining fire that clears away the redundant, leaving only what is truly durable.",
+        "rhythm": "The energy tends to press hardest in sudden bursts, followed by periods of quiet recalibration. You have the space to pace yourself by alternating between active problem-solving and intentional stillness.",
+        "advice": "This is a year that rewards a flexible posture and the courage to let go of outdated habits. You are free to pivot your approach when things feel stuck, as this energy supports those who move with agility rather than resistance."
+      },
+      "scanHits": [],
+      "latencyMs": 1787
+    },
+    {
+      "key": "K2|combine+harm+punish",
+      "kind": "K2",
+      "relation": "combine+harm+punish",
+      "sections": {
+        "overall": "This energy supports an intricate dance of cooperation where progress often requires a tactical compromise. You have the room to build powerful alliances, though these connections may invite friction that asks you to refine your boundaries.",
+        "rhythm": "The year tends to lean toward a pattern of sudden attraction followed by a period of adjustment. You may find that the initial ease of a new partnership gives way to a more demanding phase that rewards patience and steady negotiation.",
+        "advice": "This is a year that suits a mindful approach to your agreements, where you are free to step back and renegotiate terms when tension arises. You are invited to treat frictions as data points, using them to prune away what no longer serves your growth."
+      },
+      "scanHits": [],
+      "latencyMs": 1221
+    },
+    {
+      "key": "K2|clash+combine+harm+punish",
+      "kind": "K2",
+      "relation": "clash+combine+harm+punish",
+      "sections": {
+        "overall": "This is a year of high-voltage interaction, where the chart is stirred from every angle. You have the room to overhaul old patterns and break through stagnation through a series of intense, transformative encounters.",
+        "rhythm": "The energy tends to fluctuate between sudden tension and surprising resolutions. This year rewards a pace that allows for brief periods of deep rest between bursts of high-activity projects.",
+        "advice": "You are invited to stay flexible and lean into the contradictions rather than forcing a single outcome. This energy supports a posture of curiosity, making it a year well suited for auditing your life and discarding what no longer fits."
+      },
+      "scanHits": [],
+      "latencyMs": 2284
+    }
+  ]
+}

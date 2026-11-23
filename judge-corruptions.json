@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-10-14T10:11:30.181Z",
+  "model": "glm-5.3-flash:cloud",
+  "latencyMs": 87705,
+  "data": {
+    "corruptions": [
+      {
+        "id": "J01",
+        "brokenClaimType": "relations",
+        "whyWrong": "亥巳 is one of the six clashes per the chart, not a six-harmony blend; the text inverts the relation's nature while keeping the day master and dominance claims true.",
+        "text": "Your branches are not idle — there is real architecture among them, though of a blending kind. The Hai beneath your day stem meets the Si at your hour as one of the six harmonies, so the water and fire at either end of your chart fold into each other and temper the whole constitution rather than jolting it. Your year branch Shen, meanwhile, both allies with Si and quietly undermines Hai, giving you intimacy at the edges with just enough friction to keep you honest. Wood remains your dominant element, sustaining the drive for growth and lifelong learning, and your Ding day stem keeps the modest, candle-like warmth of someone who guides others rather than blazing over them."
+      },
+      {
+        "id": "J02",
+        "brokenClaimType": "relations",
+        "whyWrong": "The chart lists 申巳 as a punishment; the blanket claim that nothing in this chart takes a punitive form denies an existing punishment, while the clash, harm, and combination are stated correctly.",
+        "text": "Your branches interact more than a serene surface would suggest. The Hai under your day stem clashes squarely with the Si at your hour; Shen and Hai chafe against each other in a persistent, low-grade way; and Shen even combines with Si — a pairing most would read as simply productive, since nothing in this chart takes a punitive form. Wood remains your dominant element to preserve the growth-and-learning signature, and your Ding flame stays the warm, guiding presence it has been all along."
+      },
+      {
+        "id": "J03",
+        "brokenClaimType": "dayMaster",
+        "whyWrong": "The day pillar is 丁亥, so the day stem is Ding (yin fire); anchoring yin earth at the day pillar's stem relocates the day master without ever writing the phrase day master.",
+        "text": "Underneath the light these words cast, what actually anchors you is the stem seated in your day pillar — a yin earth — so you absorb, hold, and steady rather than illuminate, more the hearth's quiet mass than the candle's flicker. Wood remains your dominant element, so the drive for growth and the love of learning still belong to you, and your branches are not idle either: Hai clashes with Si across your chart, Shen combines with Si, and Shen and Hai press on each other in a quieter harm. You guide others less by shining at them and more by being the ground they can build on."
+      },
+      {
+        "id": "J04",
+        "brokenClaimType": "dominance",
+        "whyWrong": "Water scores 1.75, second-weakest, and Wood (2.75) is the strongest element, so presenting Water as the most-carried element is false.",
+        "text": "There is a deeper current in this chart than the candle imagery admits: the element you carry most of is the one a fire-flavored self-portrait would never lead with — Water. That hidden depth of feeling, memory, and instinct is what actually steers you, with your growth and learning flowing downstream from it. Your Ding core still lends the warm, guiding temperament of a small flame, and your branches are anything but inert: the day's Hai strikes at the hour's Si, Shen allies with Si, and Shen and Hai wound each other slowly over time. You are carried by that undercurrent more than by the forest around you."
+      },
+      {
+        "id": "J05",
+        "brokenClaimType": "pillars",
+        "whyWrong": "The day pillar is 丁亥, so the branch beneath the day stem is Hai; claiming the hour's Si also sits there swaps the day branch while every named pillar detail elsewhere stays accurate.",
+        "text": "There is a tidy symmetry in your pillar stack: the Si that crowns your hour also sits directly beneath your day stem, so fire underpins your core twice — once as the Ding stem itself and once as the branch it rides on. The chart opens with Geng on Shen and settles its month as Ji over Mao in the spring, while Wood remains your dominant element, keeping growth and learning in the foreground. You read as a well-supported light — steady at the base rather than flickering in the wind."
+      },
+      {
+        "id": "J06",
+        "brokenClaimType": "dayMaster",
+        "whyWrong": "The day master 丁 is yin fire; asserting yang fire at the core flips the day master's polarity without ever naming a stem, and all four listed relations are described correctly.",
+        "text": "There is more noon than candlelight in you: the fire at your core is yang in character, a broad, visible radiance that wants to be seen, which is why the illuminating quality here reads as sunlight rather than a single flame's glow. Wood remains your strongest element, feeding that radiance generously, and your branches stay busy in ways that shape you: Hai and Si meet head-on in a clash, Shen binds to Si while still carrying a punitive edge, and Shen and Hai grate against each other over time. You are high-noon warmth, not a twilight taper."
+      }
+    ]
+  }
+}

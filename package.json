@@ -1,0 +1,19 @@
+{
+  "name": "attest",
+  "version": "1.0.0",
+  "description": "A consumer reading product where code computes every fact, the model only narrates, and a checker measures whether the narration is true to the chart.",
+  "main": "index.js",
+  "scripts": {
+    "engine:test": "node bazi.js",
+    "luck:test": "node validate-luck-pillars.js",
+    "profile": "node profile.js male",
+    "eval:corruption": "node corruption-eval.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "lunar-javascript": "^1.7.7"
+  }
+}

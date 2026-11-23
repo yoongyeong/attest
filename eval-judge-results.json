@@ -1,0 +1,97 @@
+{
+  "ts": "2026-10-14T11:20:45.762Z",
+  "source": "judge-authored (glm-5.3-flash:cloud)",
+  "total": 6,
+  "caught": 6,
+  "recallPct": 100,
+  "flaggedRightType": 3,
+  "typeMatchPct": 50,
+  "rows": [
+    {
+      "id": "J01",
+      "judgeSays": "relations",
+      "verdict": "fail",
+      "flagged": [
+        "relationKind"
+      ],
+      "caught": true,
+      "typeMatch": false,
+      "latencyMs": 2344,
+      "whyWrong": "亥巳 is one of the six clashes per the chart, not a six-harmony blend; the text inverts the relation's nature while keeping the day master and dominance claims true.",
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "J02",
+      "judgeSays": "relations",
+      "verdict": "fail",
+      "flagged": [
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "typeMatch": false,
+      "latencyMs": 2452,
+      "whyWrong": "The chart lists 申巳 as a punishment; the blanket claim that nothing in this chart takes a punitive form denies an existing punishment, while the clash, harm, and combination are stated correctly.",
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "J03",
+      "judgeSays": "dayMaster",
+      "verdict": "fail",
+      "flagged": [
+        "dayMaster",
+        "dayMasterPolarity"
+      ],
+      "caught": true,
+      "typeMatch": true,
+      "latencyMs": 1740,
+      "whyWrong": "The day pillar is 丁亥, so the day stem is Ding (yin fire); anchoring yin earth at the day pillar's stem relocates the day master without ever writing the phrase day master.",
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "J04",
+      "judgeSays": "dominance",
+      "verdict": "fail",
+      "flagged": [
+        "dominance"
+      ],
+      "caught": true,
+      "typeMatch": true,
+      "latencyMs": 2062,
+      "whyWrong": "Water scores 1.75, second-weakest, and Wood (2.75) is the strongest element, so presenting Water as the most-carried element is false.",
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "J05",
+      "judgeSays": "pillars",
+      "verdict": "fail",
+      "flagged": [
+        "branchesAtPosition",
+        "pillars"
+      ],
+      "caught": true,
+      "typeMatch": true,
+      "latencyMs": 1453,
+      "whyWrong": "The day pillar is 丁亥, so the branch beneath the day stem is Hai; claiming the hour's Si also sits there swaps the day branch while every named pillar detail elsewhere stays accurate.",
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "J06",
+      "judgeSays": "dayMaster",
+      "verdict": "fail",
+      "flagged": [
+        "dayMasterPolarity"
+      ],
+      "caught": true,
+      "typeMatch": false,
+      "latencyMs": 2740,
+      "whyWrong": "The day master 丁 is yin fire; asserting yang fire at the core flips the day master's polarity without ever naming a stem, and all four listed relations are described correctly.",
+      "extractorError": null,
+      "parseError": null
+    }
+  ]
+}

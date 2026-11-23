@@ -1,0 +1,127 @@
+{
+  "ts": "2026-11-23T17:11:29.972Z",
+  "total": 7,
+  "corruptionCases": 6,
+  "caught": 5,
+  "recallPct": 83.3,
+  "honestCases": 1,
+  "falsePositives": 0,
+  "falsePositiveRatePct": 0,
+  "results": [
+    {
+      "id": "CONTROL-original",
+      "kind": "control",
+      "note": "unmodified generated reading; contains a genuine false absence claim",
+      "expectFlag": true,
+      "expectTypes": [
+        "relations"
+      ],
+      "verdict": "fail",
+      "flaggedTypes": [
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "latencyMs": 1120,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M01-wrong-daymaster-stem",
+      "kind": "corruption",
+      "note": "day master changed Ding -> Geng (wrong stem)",
+      "expectFlag": true,
+      "expectTypes": [
+        "dayMaster"
+      ],
+      "verdict": "fail",
+      "flaggedTypes": [
+        "dayMaster",
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "latencyMs": 1084,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M02-wrong-dominance",
+      "kind": "corruption",
+      "note": "dominant element changed Wood -> Metal",
+      "expectFlag": true,
+      "expectTypes": [
+        "dominance"
+      ],
+      "verdict": "fail",
+      "flaggedTypes": [
+        "dominance",
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "latencyMs": 1847,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M03-invented-relation",
+      "kind": "corruption",
+      "note": "claims a 子卯 punishment; chart has none of that pair",
+      "expectFlag": true,
+      "expectTypes": [
+        "relations"
+      ],
+      "verdict": "pass",
+      "flaggedTypes": [],
+      "caught": false,
+      "latencyMs": 970,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M04-false-absence",
+      "kind": "corruption",
+      "note": "explicit false absence: \"no clashes\" while clashes exist",
+      "expectFlag": true,
+      "expectTypes": [
+        "relations"
+      ],
+      "verdict": "fail",
+      "flaggedTypes": [
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "latencyMs": 969,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M05-honest-all-correct",
+      "kind": "honest-control",
+      "note": "every factual claim matches the chart; any flag here is a FALSE POSITIVE",
+      "expectFlag": false,
+      "expectTypes": [],
+      "verdict": "pass",
+      "flaggedTypes": [],
+      "caught": true,
+      "latencyMs": 980,
+      "extractorError": null,
+      "parseError": null
+    },
+    {
+      "id": "M06-absence-negative-control",
+      "kind": "corruption",
+      "note": "negative-phrased absence claim: \"free of clashes and combinations\"",
+      "expectFlag": true,
+      "expectTypes": [
+        "relations"
+      ],
+      "verdict": "fail",
+      "flaggedTypes": [
+        "relationsAbsence"
+      ],
+      "caught": true,
+      "latencyMs": 1698,
+      "extractorError": null,
+      "parseError": null
+    }
+  ]
+}

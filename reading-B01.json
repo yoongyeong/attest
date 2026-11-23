@@ -1,0 +1,19 @@
+{
+  "dateStr": "1980-03-15",
+  "timeStr": "09:20",
+  "model": "gemma4:31b",
+  "latencyMs": 1950,
+  "chartFacts": {
+    "pillars": "庚申 己卯 丁亥 乙巳",
+    "dayMaster": "丁",
+    "strongestElement": "木",
+    "elements": {
+      "木": 2.75,
+      "火": 2.5,
+      "土": 1.5,
+      "金": 2.75,
+      "水": 1.75
+    }
+  },
+  "reading": "Your Day Master is Ding (Yin Fire), which suggests you possess a warm, illuminating personality and a natural ability to provide light and guidance to others. With Wood as your dominant element, you likely have a strong drive for growth, a nurturing spirit, and a deep capacity for lifelong learning. Your chart shows a balanced distribution of elements, indicating a versatile nature capable of adapting to various life challenges. Because there are no specific branch relationships present, your tendencies are more straightforward and less prone to sudden internal conflicts. Overall, you are someone who combines the gentle warmth of a candle with the enduring strength of a forest."
+}

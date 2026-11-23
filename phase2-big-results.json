@@ -1,0 +1,149 @@
+{
+  "ts": "2026-10-14T15:08:08.431Z",
+  "model": "gemma4:31b",
+  "seed": 42,
+  "source": "chart-space stratified sample",
+  "strataRequested": {
+    "0": 80,
+    "1": 60,
+    "2": 60,
+    "3": 60,
+    "4": 60,
+    "5": 40,
+    "6": 40
+  },
+  "chartsTotal": 400,
+  "chartsOk": 400,
+  "chartsErrored": 0,
+  "chartsWithAtLeastOneLie": 86,
+  "chartLieRatePct": 21.5,
+  "checkableClaims": 2023,
+  "failedClaims": 133,
+  "claimErrorRatePct": 6.57,
+  "byClaimType": {
+    "dayMaster": {
+      "total": 399,
+      "wrong": 0
+    },
+    "dayMasterPolarity": {
+      "total": 204,
+      "wrong": 0
+    },
+    "dominance": {
+      "total": 399,
+      "wrong": 0
+    },
+    "relationsAbsence": {
+      "total": 89,
+      "wrong": 10
+    },
+    "relationKind": {
+      "total": 932,
+      "wrong": 123
+    }
+  },
+  "byStratum": {
+    "0": {
+      "charts": 80,
+      "checkable": 279,
+      "wrong": 0,
+      "chartsWithFail": 0
+    },
+    "1": {
+      "charts": 60,
+      "checkable": 210,
+      "wrong": 4,
+      "chartsWithFail": 4
+    },
+    "2": {
+      "charts": 60,
+      "checkable": 272,
+      "wrong": 17,
+      "chartsWithFail": 16
+    },
+    "3": {
+      "charts": 60,
+      "checkable": 327,
+      "wrong": 12,
+      "chartsWithFail": 12
+    },
+    "4": {
+      "charts": 60,
+      "checkable": 394,
+      "wrong": 32,
+      "chartsWithFail": 16
+    },
+    "5": {
+      "charts": 40,
+      "checkable": 266,
+      "wrong": 25,
+      "chartsWithFail": 16
+    },
+    "6": {
+      "charts": 40,
+      "checkable": 275,
+      "wrong": 43,
+      "chartsWithFail": 22
+    }
+  },
+  "coverage": {
+    "dayStems": [
+      "丁",
+      "丙",
+      "乙",
+      "壬",
+      "己",
+      "庚",
+      "戊",
+      "甲",
+      "癸",
+      "辛"
+    ],
+    "hourBranches": [
+      "丑",
+      "亥",
+      "午",
+      "卯",
+      "子",
+      "寅",
+      "巳",
+      "戌",
+      "未",
+      "申",
+      "辰",
+      "酉"
+    ],
+    "yearStems": [
+      "丁",
+      "丙",
+      "乙",
+      "壬",
+      "己",
+      "庚",
+      "戊",
+      "甲",
+      "癸",
+      "辛"
+    ],
+    "monthBranches": [
+      "丑",
+      "亥",
+      "午",
+      "卯",
+      "子",
+      "寅",
+      "巳",
+      "戌",
+      "未",
+      "申",
+      "辰",
+      "酉"
+    ]
+  },
+  "coverageCounts": {
+    "dayStems": 10,
+    "hourBranches": 12,
+    "yearStems": 10,
+    "monthBranches": 12
+  }
+}

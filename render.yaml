@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: attest
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /v1/health
+    envVars:
+      - key: NODE_VERSION
+        value: 24.18.1

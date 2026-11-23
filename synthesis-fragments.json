@@ -1,0 +1,1048 @@
+{
+  "generatedAt": "2026-10-16T03:12:02.063Z",
+  "model": "gemma4:31b",
+  "keyShape": "(timescale pair, god between periods, branch relation class)",
+  "count": 80,
+  "fragments": [
+    {
+      "key": "decade-year|比肩|clash",
+      "pair": "decade-year",
+      "god": "比肩",
+      "rel": "clash",
+      "sections": {
+        "overall": "This year brings a Peer (Bi Jian) that clashes with your current decade, meaning your long-term goals remain stable even as your daily routine shifts. This energy supports a physical change of scenery, such as rearranging your workspace or updating your commute. You may find this a productive time to audit a process you have been putting off.",
+        "texture": "You may find a sudden friction with colleagues or peers that disrupts your long-term plans. This period rewards the courage to renegotiate a boundary or audit a shared project that no longer serves you.",
+        "advice": "You have the room to pivot your tactics without abandoning your larger vision. This energy rewards those who embrace flexibility and use the friction to clear out old habits that no longer serve your growth."
+      },
+      "scanHits": [],
+      "latencyMs": 2315
+    },
+    {
+      "key": "decade-year|比肩|combine",
+      "pair": "decade-year",
+      "god": "比肩",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports a period of mutual reinforcement between your immediate goals and your long-term path. You have the room to collaborate with a peer on a shared project or formalize a partnership that strengthens your current position.",
+        "texture": "This energy supports a steady, quiet confidence as you collaborate with others. You have the room to delegate tasks or co-author a project with a trusted peer. This pairing suits the act of standing your ground while remaining open to supportive feedback.",
+        "advice": "You have the room to take a bold step forward or launch a project you have been contemplating. This period rewards collaboration with equals and invites you to trust your own momentum while leaning on the support of others."
+      },
+      "scanHits": [],
+      "latencyMs": 1880
+    },
+    {
+      "key": "decade-year|比肩|none",
+      "pair": "decade-year",
+      "god": "比肩",
+      "rel": "none",
+      "sections": {
+        "overall": "This year and your current decade operate as equals, providing a stable foundation of peer-level support. This pairing suits a time to collaborate on a shared project or seek a second opinion from a trusted colleague. You have the room to double-check your current strategy with a partner to ensure no details were overlooked.",
+        "texture": "You have the room to initiate a solo project or launch a side venture that reflects your personal values. This energy supports taking a firm stand on your boundaries during a disagreement. You may find it easier to carve out a dedicated schedule for your own goals without outside interference.",
+        "advice": "This is a time to trust your own instincts and stand your ground in professional or social circles. You have the room to lead a peer group or start a solo venture, as the current energy supports you in acting as your own primary advocate."
+      },
+      "scanHits": [],
+      "latencyMs": 1148
+    },
+    {
+      "key": "decade-year|比肩|stress",
+      "pair": "decade-year",
+      "god": "比肩",
+      "rel": "stress",
+      "sections": {
+        "overall": "The current overlap of Peer energy maintains your focus, though you may find a persistent friction in your daily routines. This period rewards those who pause to audit a specific habit or workflow that feels redundant. You have the space to refine these small inefficiencies while staying true to your larger goals.",
+        "texture": "You may find a tension between your outward drive and a quiet exhaustion in your daily routines. This period rewards auditing the small, repetitive obligations that drain your patience. You have the room to delegate a recurring chore or restructure your morning schedule to protect your energy.",
+        "advice": "This period rewards those who trade perfectionism for steady maintenance. You are invited to address small irritations in your routine before they grow, giving yourself permission to slow down when the internal friction peaks."
+      },
+      "scanHits": [],
+      "latencyMs": 1979
+    },
+    {
+      "key": "decade-year|劫财|clash",
+      "pair": "decade-year",
+      "god": "劫财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This period tends toward friction between your immediate goals and long-term stability, often manifesting as competition for shared resources. You are invited to audit your current expenses and boundary settings to protect your assets. This energy is best used for renegotiating terms or clearing out inefficient partnerships.",
+        "texture": "This period rewards the courage to audit your current expenses or renegotiate a contract that no longer serves you. You may find that taking a firm stand on your boundaries creates the necessary space to protect your resources.",
+        "advice": "You have the room to pivot your strategy if the old way feels too rigid. This energy supports a conscious decision to share credit or collaborate rather than compete, allowing you to transform friction into a catalyst for necessary change."
+      },
+      "scanHits": [],
+      "latencyMs": 1275
+    },
+    {
+      "key": "decade-year|劫财|combine",
+      "pair": "decade-year",
+      "god": "劫财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This year arrives as a Rob Wealth interaction atop a combining branch, blending a spirit of competition with a deep structural alignment to your current decade. While the surface suggests a struggle for resources, the underlying foundation is supportive and reinforcing.",
+        "texture": "You may feel a push-pull dynamic where you are invited to collaborate with others, yet feel a sudden urge to protect your own territory or credit. It often feels like being part of a team where you are both the strongest ally and the fiercest rival.",
+        "advice": "You have the room to turn competition into partnership by sharing your goals openly with others. This period rewards those who choose generosity over guarding their assets, as the supporting foundation of this decade makes room for collective success."
+      },
+      "scanHits": [],
+      "latencyMs": 1831
+    },
+    {
+      "key": "decade-year|劫财|none",
+      "pair": "decade-year",
+      "god": "劫财",
+      "rel": "none",
+      "sections": {
+        "overall": "This year introduces Rob Wealth (劫财) to your current decade, which tends to surface as sudden competition or a need to share resources. You are invited to audit your current spending or renegotiate a contract to better protect your assets. This period rewards those who proactively set firm boundaries with peers.",
+        "texture": "This period leans toward a competitive drive to prove your worth, which may find you overspending on luxury goods to keep pace with peers. You are invited to pivot this energy into collaborative projects where you navigate a group to achieve a shared goal.",
+        "advice": "This energy rewards those who lean into collaboration rather than rivalry. You have the room to turn competition into a partnership, focusing on how sharing your resources can actually expand your influence."
+      },
+      "scanHits": [],
+      "latencyMs": 1312
+    },
+    {
+      "key": "decade-year|劫财|stress",
+      "pair": "decade-year",
+      "god": "劫财",
+      "rel": "stress",
+      "sections": {
+        "overall": "This year introduces a Rob Wealth relationship into your decade, creating a tension between your immediate goals and your longer-term foundations. You are invited to audit a financial process or a shared resource you have been putting off. This period rewards those who proactively set clear boundaries regarding their time and assets.",
+        "texture": "Watch for a tendency to overextend yourself by taking on others' chores or financial burdens. This period rewards setting a firm boundary around your schedule, such as declining a non-essential social invitation to audit your monthly spending.",
+        "advice": "This energy rewards a strategic retreat and the setting of firm boundaries around your time and money. You have the room to step back from competition and focus on refining your internal strengths rather than fighting for external validation."
+      },
+      "scanHits": [],
+      "latencyMs": 1231
+    },
+    {
+      "key": "decade-year|食神|clash",
+      "pair": "decade-year",
+      "god": "食神",
+      "rel": "clash",
+      "sections": {
+        "overall": "This period rewards a balance between creative flow and necessary disruption. You have the room to audit a tedious routine or reorganize your living space to clear old friction. Watch for moments where sudden changes can actually refine your daily habits.",
+        "texture": "You may find yourself torn between a quiet routine and a sudden impulse to reorganize your life. This period rewards the act of breaking a stagnant habit, such as auditing a process you have been putting off or rearranging your physical workspace.",
+        "advice": "You are invited to use this restlessness to clear out old habits that no longer serve your growth. This period rewards those who embrace flexible schedules and give themselves permission to pivot their approach when tension arises."
+      },
+      "scanHits": [],
+      "latencyMs": 1218
+    },
+    {
+      "key": "decade-year|食神|combine",
+      "pair": "decade-year",
+      "god": "食神",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits a slower pace, allowing you to refine the details of a long-term project without pressure. You have the room to audit your daily habits or polish a piece of work you have been putting off. This energy supports a steady approach to your larger objectives.",
+        "texture": "You may find a rare sense of flow where your daily efforts feel less like a struggle and more like a natural extension of your desires. There is an invitation here to enjoy the process of your work, moving with a lightness that allows creativity to surface without force.",
+        "advice": "You have the room to prioritize pleasure and quality over raw productivity. This period rewards those who slow down to refine their craft or spend time in nourishing environments, as these moments of ease actually strengthen your long-term foundation."
+      },
+      "scanHits": [],
+      "latencyMs": 1928
+    },
+    {
+      "key": "decade-year|食神|none",
+      "pair": "decade-year",
+      "god": "食神",
+      "rel": "none",
+      "sections": {
+        "overall": "This pairing suits a period of creative exploration where your daily efforts feel supported by the broader decade. You have the room to experiment with a new hobby or refine a personal project without pressure. This energy supports taking a slower pace to enjoy the tangible results of your work.",
+        "texture": "Life may feel more breathable and nourishing right now, as if the decade is providing a soft cushion for your annual activities. You are invited to move with less friction, finding a natural rhythm where your creativity and appetite for life are easily fed.",
+        "advice": "This is a wonderful time to prioritize your well-being and pursue hobbies that bring you genuine pleasure. You have the room to slow down and savor your progress rather than forcing a result, as the current energy supports a more relaxed, intuitive approach to your goals."
+      },
+      "scanHits": [],
+      "latencyMs": 2583
+    },
+    {
+      "key": "decade-year|食神|stress",
+      "pair": "decade-year",
+      "god": "食神",
+      "rel": "stress",
+      "sections": {
+        "overall": "This period rewards a gentle approach to your creative pursuits, though you may find subtle friction in your daily routines. You have the room to refine a project or audit a process you have been putting off. This pairing suits a pace of slow nourishment balanced with mindful adjustments.",
+        "texture": "You may feel a contrast between a desire for leisure and a nagging sense of obligation. It often feels like you have the room to enjoy your life, yet a small, persistent pressure asks you to fix something old or settle a lingering debt.",
+        "advice": "This period rewards you for addressing small irritations before they grow. You are invited to enjoy your pleasures fully, while setting aside a specific hour each week to handle the tedious tasks that feel heavy. "
+      },
+      "scanHits": [],
+      "latencyMs": 1293
+    },
+    {
+      "key": "decade-year|伤官|clash",
+      "pair": "decade-year",
+      "god": "伤官",
+      "rel": "clash",
+      "sections": {
+        "overall": "This year invites you to challenge the long-term patterns of your current decade through the spirited energy of the Hurting Officer. This period rewards the courage to audit a stale routine or speak up against an outdated professional standard. You may find that disrupting your usual habits opens the door to a more authentic way of working.",
+        "texture": "This period rewards the courage to challenge an outdated rule or speak an inconvenient truth. You have the room to pivot your approach, perhaps by auditing a long-standing process that no longer serves you. Watch for sudden impulses to rewrite a project's direction entirely.",
+        "advice": "You have the room to experiment with unconventional methods or voice an unpopular but necessary idea. This energy rewards those who channel their restlessness into creative problem-solving rather than pure confrontation."
+      },
+      "scanHits": [],
+      "latencyMs": 1193
+    },
+    {
+      "key": "decade-year|伤官|combine",
+      "pair": "decade-year",
+      "god": "伤官",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing rewards the courage to challenge outdated methods while maintaining your professional stability. You have the room to audit a process you have been putting off or propose a bold new strategy to your peers.",
+        "texture": "This energy supports a calculated break from routine, such as auditing a stale process or pitching a bold new idea. You have the room to challenge the norm through a specific, strategic action rather than random restlessness.",
+        "advice": "You have the room to experiment with bold new methods or speak your mind in settings where you previously stayed quiet. This period rewards taking a calculated risk, provided you use your existing support systems to cushion the landing."
+      },
+      "scanHits": [],
+      "latencyMs": 2182
+    },
+    {
+      "key": "decade-year|伤官|none",
+      "pair": "decade-year",
+      "god": "伤官",
+      "rel": "none",
+      "sections": {
+        "overall": "This year introduces a Hurting Officer influence that disrupts the steadier rhythm of your current decade. This energy supports auditing a process you have been putting off or voicing a critique that challenges the status quo. You are invited to apply this spark of brilliance to refine a stale project or rethink a rigid routine.",
+        "texture": "This energy supports a period of creative restlessness, making it an ideal time to audit a tedious process or rewrite a stale routine. You have the space to challenge old rules by proposing a concrete alternative or voicing a dissenting opinion in a meeting.",
+        "advice": "You have the room to experiment with unconventional ideas or voice a bold new perspective. This period rewards those who dare to be provocative, so you are invited to channel your critical eye into a tangible project or a creative breakthrough."
+      },
+      "scanHits": [],
+      "latencyMs": 1535
+    },
+    {
+      "key": "decade-year|伤官|stress",
+      "pair": "decade-year",
+      "god": "伤官",
+      "rel": "stress",
+      "sections": {
+        "overall": "This year introduces Hurting Officer energy into your current decade, creating a tension between your long-term path and a sudden urge for change. You are invited to audit a specific habit or outdated process that no longer serves you. This period rewards those who channel this friction into updating their skill set or refining their approach.",
+        "texture": "This period rewards the courage to voice a dissenting opinion or propose a pivot in your current strategy. You have the room to audit a stagnant process you have been putting off, even while managing lingering obligations. This energy tends toward bold refinements of your existing work.",
+        "advice": "You are invited to channel your brilliance into solving specific problems rather than dismantling your entire foundation. This energy rewards those who use their creativity to negotiate boundaries and find a more sustainable way to honor their commitments."
+      },
+      "scanHits": [],
+      "latencyMs": 1128
+    },
+    {
+      "key": "decade-year|偏财|clash",
+      "pair": "decade-year",
+      "god": "偏财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This period rewards those who embrace disruption to unlock new income streams. You are invited to pivot your financial strategy or audit an underperforming asset to make room for unexpected gains.",
+        "texture": "This period rewards those who pivot quickly to capture unexpected opportunities. You may find it effective to audit your current spending habits or relocate your workspace to create fresh momentum.",
+        "advice": "You are invited to embrace agility over stability right now. This energy rewards those who are willing to rearrange their schedules or take a calculated risk on a non-traditional income stream."
+      },
+      "scanHits": [],
+      "latencyMs": 1223
+    },
+    {
+      "key": "decade-year|偏财|combine",
+      "pair": "decade-year",
+      "god": "偏财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports the pursuit of side projects or alternative income streams that complement your broader ten-year goals. You have the room to negotiate new contracts or pivot your pricing strategy to better reflect your value.",
+        "texture": "This connection rewards the pursuit of side ventures or unconventional income streams. You have the space to experiment with a new project or pivot your financial strategy, as the current environment tends to support these intuitive leaps.",
+        "advice": "You have the room to experiment with non-traditional income streams or adaptive ways of working. This period rewards those who follow a hunch and take calculated risks, so you are invited to say yes to the invitation that feels slightly outside your usual routine."
+      },
+      "scanHits": [],
+      "latencyMs": 1928
+    },
+    {
+      "key": "decade-year|偏财|none",
+      "pair": "decade-year",
+      "god": "偏财",
+      "rel": "none",
+      "sections": {
+        "overall": "This year introduces Indirect Wealth into your current decade, though the two periods operate independently. This pairing rewards you for taking calculated risks, such as launching a side project or diversifying your income streams. You have the room to explore unconventional ways of earning while your primary foundation remains secure.",
+        "texture": "This period rewards a curious approach to your finances, such as testing a side project or auditing a new income stream. You have the room to experiment with these entrepreneurial pivots without risking your current stability.",
+        "advice": "You have the room to experiment with side projects or non-traditional ways of earning. This period rewards adaptability, so you are invited to say yes to unconventional offers without feeling the need to overhaul your entire life structure."
+      },
+      "scanHits": [],
+      "latencyMs": 1176
+    },
+    {
+      "key": "decade-year|偏财|stress",
+      "pair": "decade-year",
+      "god": "偏财",
+      "rel": "stress",
+      "sections": {
+        "overall": "This period rewards a calculated approach to new income streams, even as you navigate a bit of friction with your established routine. You are invited to audit a side project or an investment you have been hesitant to start. Watch for moments where a quick pivot in your financial strategy solves a lingering tension.",
+        "texture": "This period rewards the pursuit of new income streams or side projects, though you may find the initial setup demands a high level of patience. You have the space to audit your current spending or diversify your assets while managing these smaller, nagging obligations.",
+        "advice": "This period rewards a flexible approach to profit; you have the room to experiment with new income streams if you remain mindful of your boundaries. You are invited to prioritize restorative habits to buffer the quiet friction, allowing you to pursue these openings without burning out."
+      },
+      "scanHits": [],
+      "latencyMs": 2078
+    },
+    {
+      "key": "decade-year|正财|clash",
+      "pair": "decade-year",
+      "god": "正财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This energy supports auditing your current income streams to identify where stability is being disrupted. You are invited to reorganize your budget or refine a professional process to better handle this active period of change.",
+        "texture": "This period rewards a proactive approach to your finances, such as auditing an old budget or diversifying your savings. You may find that shifting your physical workspace helps resolve the tension between your habits and your current goals.",
+        "advice": "You have the room to refine your habits by embracing these frictions as a prompt to organize. This energy supports auditing your spending or updating your professional methods to better suit the shifting landscape of this decade."
+      },
+      "scanHits": [],
+      "latencyMs": 1942
+    },
+    {
+      "key": "decade-year|正财|combine",
+      "pair": "decade-year",
+      "god": "正财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits the practical consolidation of your finances. You have the room to audit a budget or refine a long-term saving plan to secure your material base.",
+        "texture": "You may find a rewarding sense of order and a smoother path toward your goals. It feels like the wind is at your back, where your daily efforts translate into tangible, steady progress without unnecessary friction.",
+        "advice": "You have the room to commit to a disciplined routine or start a long-term savings plan. This period rewards patience and methodical work, so you are invited to refine your current systems rather than chasing sudden leaps."
+      },
+      "scanHits": [],
+      "latencyMs": 2013
+    },
+    {
+      "key": "decade-year|正财|none",
+      "pair": "decade-year",
+      "god": "正财",
+      "rel": "none",
+      "sections": {
+        "overall": "This period rewards a disciplined approach to your finances and daily output. You have the room to audit your spending habits or refine a professional process to increase your tangible earnings.",
+        "texture": "You may find a newfound appetite for order and a desire to see concrete results for your efforts. Life feels less like a gamble and more like a steady climb, where small, disciplined actions lead to visible progress.",
+        "advice": "You have the room to organize your finances or refine your professional routine. This period rewards the patient approach, so you are invited to trade shortcuts for a reliable system that builds long-term security."
+      },
+      "scanHits": [],
+      "latencyMs": 1988
+    },
+    {
+      "key": "decade-year|正财|stress",
+      "pair": "decade-year",
+      "god": "正财",
+      "rel": "stress",
+      "sections": {
+        "overall": "This period rewards the steady pursuit of earned income, though you may find a persistent friction in your daily routine. You have the room to audit your budget or tighten a specific work process to ease this underlying tension.",
+        "texture": "This period rewards a meticulous approach to your finances, such as auditing a recurring expense or refining a budget. You may find that steady gains come through these small, disciplined corrections.",
+        "advice": "You have the room to prioritize discipline and slow growth over rapid expansion. This period rewards those who handle obligations with patience and address small frustrations before they accumulate."
+      },
+      "scanHits": [],
+      "latencyMs": 1944
+    },
+    {
+      "key": "decade-year|七杀|clash",
+      "pair": "decade-year",
+      "god": "七杀",
+      "rel": "clash",
+      "sections": {
+        "overall": "This year introduces a Seven Killings relationship and a branch clash into your current decade. This combination suggests a period where a sharp, decisive demand disrupts the established rhythm of your ten-year cycle.",
+        "texture": "This period rewards a decisive break from outdated routines, such as auditing a process you have been putting off. You are invited to resolve a lingering disagreement through a direct conversation. Watch for a sudden urge to accelerate your pace, using this friction to clear your schedule of unnecessary obligations.",
+        "advice": "You have the room to embrace these disruptions as a way to trim away what no longer serves you. This energy supports taking decisive action or setting a firm boundary that you previously hesitated to establish."
+      },
+      "scanHits": [],
+      "latencyMs": 1248
+    },
+    {
+      "key": "decade-year|七杀|combine",
+      "pair": "decade-year",
+      "god": "七杀",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits a period of disciplined action, where the pressure of new demands is balanced by a steady foundation. You have the room to tackle a difficult project or audit a complex process you have been putting off. This connection rewards those who channel intensity into a tangible, organized plan.",
+        "texture": "This pairing suits taking on a high-pressure project or a sudden leadership role without becoming overwhelmed. You have the room to audit a complex process you have been putting off, turning a stressful demand into a structured win.",
+        "advice": "This period rewards decisive action and the courage to tackle difficult tasks head-on. You are invited to accept a challenging project or a leadership role, trusting that the underlying support of this decade gives you the room to experiment and grow."
+      },
+      "scanHits": [],
+      "latencyMs": 2136
+    },
+    {
+      "key": "decade-year|七杀|none",
+      "pair": "decade-year",
+      "god": "七杀",
+      "rel": "none",
+      "sections": {
+        "overall": "This year introduces the sharp energy of the Seven Killings into your current decade, though the branches remain independent. This period rewards taking decisive action on a difficult task you have been avoiding, such as auditing a messy process or settling a lingering dispute. You have the room to assert your authority and implement a strict new boundary where it is needed most.",
+        "texture": "This period rewards a decisive approach to high-pressure requests that disrupt your usual routine. You are invited to take command of a difficult project or audit a process you have been putting off.",
+        "advice": "You are invited to meet these demands with disciplined action rather than resistance. This period rewards those who set firm boundaries and take decisive, calculated steps to organize the chaos around them."
+      },
+      "scanHits": [],
+      "latencyMs": 4993
+    },
+    {
+      "key": "decade-year|七杀|stress",
+      "pair": "decade-year",
+      "god": "七杀",
+      "rel": "stress",
+      "sections": {
+        "overall": "This year's Seven Killings energy leans toward heightened pressure that may challenge your current ten-year foundation. You are invited to address a difficult conversation or a pending conflict you have been avoiding. This period rewards those who take decisive action to resolve old frictions.",
+        "texture": "This period rewards a disciplined approach to your schedule, such as auditing a recurring task that no longer serves you. You may find that tackling these small frictions now creates the room to protect your long-term goals.",
+        "advice": "This period rewards decisive action and the courage to set firm boundaries. You have the room to transform this pressure into leadership by tackling one difficult task at a time rather than resisting the tension."
+      },
+      "scanHits": [],
+      "latencyMs": 2473
+    },
+    {
+      "key": "decade-year|正官|clash",
+      "pair": "decade-year",
+      "god": "正官",
+      "rel": "clash",
+      "sections": {
+        "overall": "This year introduces a Direct Officer relationship within your current decade, though it arrives with a branch clash. This suggests a period where the duties and structures of your long-term path are being actively shaken or reorganized by the events of the year.",
+        "texture": "You may find a tension between maintaining your current status and a sudden drive to overhaul your daily schedule. This period rewards the courage to renegotiate a contract or update a professional boundary while the environment is in flux.",
+        "advice": "You have the room to redefine your responsibilities rather than just enduring them. This energy supports auditing your current obligations and giving yourself permission to let go of rules that no longer serve your growth."
+      },
+      "scanHits": [],
+      "latencyMs": 1521
+    },
+    {
+      "key": "decade-year|正官|combine",
+      "pair": "decade-year",
+      "god": "正官",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports a structured approach to your current long-term goals. You have the room to formalize a professional agreement or audit a process you have been putting off. This connection rewards those who prioritize stability and clear boundaries.",
+        "texture": "This period rewards a commitment to structure, making it an ideal time to formalize a professional agreement or organize your administrative records. You may find that taking on a leadership role or auditing a neglected process feels natural and supported.",
+        "advice": "This is a supportive time to formalize an agreement or refine your professional boundaries. You are invited to lean into structure and discipline, as the current environment rewards those who organize their ambitions with patience."
+      },
+      "scanHits": [],
+      "latencyMs": 2374
+    },
+    {
+      "key": "decade-year|正官|none",
+      "pair": "decade-year",
+      "god": "正官",
+      "rel": "none",
+      "sections": {
+        "overall": "This period rewards a commitment to structure and the fulfillment of your formal obligations. You have the room to audit a neglected process or organize your professional records while your daily habits remain flexible. This energy supports taking ownership of a specific responsibility you have previously avoided.",
+        "texture": "You have the room to refine your daily routine or audit a professional process you have been putting off. This energy supports a natural inclination toward order, making it a helpful time to honor a specific commitment or organize your workspace.",
+        "advice": "You have the room to step into a leadership role or refine your personal discipline without disrupting your stability. This energy supports you in setting a new boundary or formalizing a goal, provided you allow your day-to-day life to remain flexible."
+      },
+      "scanHits": [],
+      "latencyMs": 2126
+    },
+    {
+      "key": "decade-year|正官|stress",
+      "pair": "decade-year",
+      "god": "正官",
+      "rel": "stress",
+      "sections": {
+        "overall": "This year introduces a Direct Officer influence that leans toward a friction between your current decade and the present moment. This period rewards those who audit a neglected professional process or tighten a loose schedule. You are invited to refine your boundaries while managing these underlying pressures.",
+        "texture": "You may find yourself maintaining a polished exterior while managing a quiet, persistent tension. This period rewards the habit of scheduling short, intentional breaks to step away from your desk or phone. You have the space to audit your daily commitments to ensure your private time remains truly your own.",
+        "advice": "This energy rewards a commitment to steady, incremental boundaries rather than sudden changes. You have the room to refine your routines and may find peace by addressing small irritations before they harden into resentment."
+      },
+      "scanHits": [],
+      "latencyMs": 1282
+    },
+    {
+      "key": "decade-year|偏印|clash",
+      "pair": "decade-year",
+      "god": "偏印",
+      "rel": "clash",
+      "sections": {
+        "overall": "This year's Indirect Resource energy disrupts your current decade's rhythm, leaning toward a need for solitude and unconventional thinking. You are invited to audit a project or habit you have been neglecting, using this friction to rethink your approach. This period rewards a willingness to step away from the crowd to study a niche subject.",
+        "texture": "You may find yourself stepping back from routine obligations to dive into a niche research project or a solitary craft. This period rewards the courage to audit a long-ignored passion or reorganize your private study.",
+        "advice": "You are invited to embrace the friction by scheduling intentional breaks for reflection and study. This period rewards those who allow their routines to be flexible, giving you the room to integrate a new, unconventional perspective into your long-term path."
+      },
+      "scanHits": [],
+      "latencyMs": 2376
+    },
+    {
+      "key": "decade-year|偏印|combine",
+      "pair": "decade-year",
+      "god": "偏印",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports the integration of specialized knowledge into your daily routine. You have the room to formalize a niche skill or audit a technical process you have been putting off. This pairing suits a focused approach to refining your craft.",
+        "texture": "This period rewards a retreat into specialized research or a private hobby. You have the space to audit a complex skill you have been putting off while staying rooted in your daily responsibilities.",
+        "advice": "You have the room to trust your instincts over conventional logic right now. This period rewards taking a step back to reflect or diving into a specialized skill, as the current alignment supports your need for mental space."
+      },
+      "scanHits": [],
+      "latencyMs": 7061
+    },
+    {
+      "key": "decade-year|偏印|none",
+      "pair": "decade-year",
+      "god": "偏印",
+      "rel": "none",
+      "sections": {
+        "overall": "This year introduces an Indirect Resource influence that operates independently of your decade's foundation. You have the room to research an unconventional skill or audit a technical process you have been putting off. This energy supports a period of quiet study and intellectual exploration.",
+        "texture": "This period rewards a leaning toward solitude and niche study. You have the space to audit a long-ignored hobby or dismantle a standard process that no longer feels intuitive.",
+        "advice": "Give yourself permission to step back from the crowd and follow a curiosity that seems impractical to others. This period rewards the specialist and the seeker; you have the room to study a hidden skill or trust a gut feeling over a manual."
+      },
+      "scanHits": [],
+      "latencyMs": 2773
+    },
+    {
+      "key": "decade-year|偏印|stress",
+      "pair": "decade-year",
+      "god": "偏印",
+      "rel": "stress",
+      "sections": {
+        "overall": "This year introduces an Indirect Resource influence that may feel slightly at odds with your current decade. This pairing rewards those who audit a specialized skill or research a niche topic you have previously ignored. You have the room to embrace an unconventional approach to your current goals.",
+        "texture": "This period rewards a pivot toward niche research or a solitary hobby, even if it feels disconnected from your main routine. You may find it helpful to audit a complex process or study a technical skill you have been putting off. This energy supports carving out a quiet window in your schedule to think through a problem without interruption.",
+        "advice": "You have the room to explore alternative learning or spiritual practices, even if they seem counterintuitive to your long-term goals. This period rewards patience with slow-burning tensions and invites you to trust your instincts over established rules."
+      },
+      "scanHits": [],
+      "latencyMs": 1258
+    },
+    {
+      "key": "decade-year|正印|clash",
+      "pair": "decade-year",
+      "god": "正印",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing suits a sudden shift in your supporting environment, such as updating a professional certification or changing your living space. You are invited to audit a long-standing habit or process that no longer serves you. This energy supports taking decisive action to secure your stability.",
+        "texture": "You may find a tension between clinging to your current security and a sudden impulse to pivot. This period rewards those who use this friction to audit an old habit or refresh their living space. You have the room to update your environment while still relying on your existing support system.",
+        "advice": "You have the room to lean on your mentors or existing knowledge while you navigate these disruptions. This energy rewards those who use the support of others to pivot bravely rather than clinging to an old routine."
+      },
+      "scanHits": [],
+      "latencyMs": 1123
+    },
+    {
+      "key": "decade-year|正印|combine",
+      "pair": "decade-year",
+      "god": "正印",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports a steady integration of your current goals and long-term stability. You have the room to finalize a certification or organize your archives to build a more secure professional foundation. This pairing suits a period of quiet study and the refinement of your existing skills.",
+        "texture": "This connection rewards the act of seeking a mentor or refining a certification. You have the space to let your daily routines support your larger ambitions, making it an ideal time to organize your archives or document your learned skills.",
+        "advice": "You have the room to lean into learning, study, or seeking mentorship to solidify your position. This energy rewards patience and the gathering of knowledge, so you are invited to trust the support systems around you and allow yourself to be looked after."
+      },
+      "scanHits": [],
+      "latencyMs": 1934
+    },
+    {
+      "key": "decade-year|正印|none",
+      "pair": "decade-year",
+      "god": "正印",
+      "rel": "none",
+      "sections": {
+        "overall": "This energy supports a period of stability and intellectual growth. You have the room to formalize your knowledge, such as completing a professional certification or auditing a process you have been putting off. This pairing suits a posture of steady preparation and quiet study.",
+        "texture": "You may feel a sense of quiet protection or a sudden openness to learning and mentorship. Because the year operates on its own terms, you have the room to explore new knowledge without disrupting your long-term stability.",
+        "advice": "This energy supports you in seeking a teacher, updating your certifications, or leaning into a supportive mentor. You are invited to prioritize your mental well-being and give yourself permission to be the student rather than the expert."
+      },
+      "scanHits": [],
+      "latencyMs": 1164
+    },
+    {
+      "key": "decade-year|正印|stress",
+      "pair": "decade-year",
+      "god": "正印",
+      "rel": "stress",
+      "sections": {
+        "overall": "This energy supports a period of protected growth, though you may find a subtle friction between your long-term goals and daily demands. You have the room to audit a neglected process or refine a skill you have been putting off. This pairing rewards a patient approach to solving structural hiccups.",
+        "texture": "This period rewards the patience required to manage tedious paperwork or administrative hurdles in exchange for high-level mentorship. You may find that while the overarching support is generous, the daily maintenance requires a disciplined routine. Use this time to audit a process you have been putting off to clear the path for your growth.",
+        "advice": "You have the room to lean into learning and mentorship while allowing yourself to step back from perfectionism in your routines. This period rewards those who accept a bit of messiness in exchange for long-term wisdom and protection."
+      },
+      "scanHits": [],
+      "latencyMs": 1197
+    },
+    {
+      "key": "year-day|比肩|clash",
+      "pair": "year-day",
+      "god": "比肩",
+      "rel": "clash",
+      "sections": {
+        "overall": "This energy supports a direct confrontation with a stubborn habit or a stalled project. You have the room to audit your current daily routine and remove a recurring inefficiency that no longer fits your goals.",
+        "texture": "You may find a sudden urge to break a long-standing habit or pivot your daily schedule. This energy supports auditing a process you have been putting off, allowing a sharp, independent change to refresh your year.",
+        "advice": "You have the room to channel this friction into a productive breakthrough, such as rearranging your workspace or challenging a stale habit. This energy rewards those who move their bodies or tackle a long-ignored task to release the tension. "
+      },
+      "scanHits": [],
+      "latencyMs": 2033
+    },
+    {
+      "key": "year-day|比肩|combine",
+      "pair": "year-day",
+      "god": "比肩",
+      "rel": "combine",
+      "sections": {
+        "overall": "This connection rewards collaborating with colleagues or peers to finalize a shared project. You have the room to delegate tasks or seek a second opinion on a pending decision, as the day's momentum supports collective action.",
+        "texture": "This energy supports a steady sense of autonomy, making it a natural time to tackle a demanding solo project. You have the space to work at your own pace, where independent effort feels like a reinforced movement rather than a struggle.",
+        "advice": "This is a wonderful time to initiate a conversation with a peer or refine a personal project you've been nurturing this year. You have the room to trust your own instincts and lean into collaborations that feel mutually supportive."
+      },
+      "scanHits": [],
+      "latencyMs": 2019
+    },
+    {
+      "key": "year-day|比肩|none",
+      "pair": "year-day",
+      "god": "比肩",
+      "rel": "none",
+      "sections": {
+        "overall": "Today brings a Bi Jian (Peer) influence that runs parallel to the year's theme without interference. You have the space to tackle a demanding task independently or finalize a project on your own terms. This energy supports taking a firm stand on your current priorities.",
+        "texture": "This energy supports taking full ownership of a project or handling a difficult task without asking for help. You have the space to trust your own judgment and act decisively on your own terms.",
+        "advice": "You have the room to trust your own instincts and take solo initiative on a project. This energy supports focusing on your own standards and capabilities rather than waiting for external validation or collaboration."
+      },
+      "scanHits": [],
+      "latencyMs": 1017
+    },
+    {
+      "key": "year-day|比肩|stress",
+      "pair": "year-day",
+      "god": "比肩",
+      "rel": "stress",
+      "sections": {
+        "overall": "Today sits within this year as a mirror of peer energy (比肩), though the underlying branches create a subtle state of stress. While the surface suggests independence and equality, there is a quiet friction between your daily momentum and the broader goals of the year.",
+        "texture": "You may find a tension between your drive for autonomy and small, nagging obligations. This energy supports auditing a lingering to-do list to clear the path for your independent projects.",
+        "advice": "You have the room to slow down and address the small frictions before they accumulate. This day rewards patience with a stubborn detail or a difficult conversation, inviting you to refine your approach rather than forcing a result."
+      },
+      "scanHits": [],
+      "latencyMs": 1174
+    },
+    {
+      "key": "year-day|劫财|clash",
+      "pair": "year-day",
+      "god": "劫财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing leans toward sudden disruptions to your planned schedule. You have the space to pivot your focus, making it a productive time to audit a budget or reorganize a cluttered workspace.",
+        "texture": "Watch for a tendency to rush through agreements or compete over a shared resource. This energy supports auditing a project's distribution of labor to ensure everyone feels fairly compensated. You have the room to pivot your strategy when a collaboration hits a wall.",
+        "advice": "You have the room to step back and observe where you are over-extending yourself. This energy rewards those who choose a graceful pause over a forced confrontation, allowing you to refine your approach before acting."
+      },
+      "scanHits": [],
+      "latencyMs": 1071
+    },
+    {
+      "key": "year-day|劫财|combine",
+      "pair": "year-day",
+      "god": "劫财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits a day of bold action, where outward competition is balanced by a supportive foundation. You have the room to pitch a new idea or negotiate a better deal, as the underlying stability rewards decisive movement.",
+        "texture": "This connection rewards you for asserting your needs in a competitive setting, as the environment tends to smooth over the friction. You have the room to negotiate a better deal or claim a lead role, knowing the tension often resolves in your favor.",
+        "advice": "You are invited to share your resources or credit with others rather than gripping them tightly. This period rewards those who turn rivals into partners, allowing you the room to lead through collaboration rather than conquest."
+      },
+      "scanHits": [],
+      "latencyMs": 1030
+    },
+    {
+      "key": "year-day|劫财|none",
+      "pair": "year-day",
+      "god": "劫财",
+      "rel": "none",
+      "sections": {
+        "overall": "The presence of Rob Wealth today offers a break from the year's broader patterns. You have the space to independently tackle a difficult conversation or audit a process you have been putting off. This energy supports taking a bold, singular approach to a task.",
+        "texture": "You may find yourself competing for visibility or resources in a crowded professional or social setting. This energy supports setting firm boundaries around your time to avoid over-extending yourself. Watch for the urge to over-commit to a project just to prove your value to others.",
+        "advice": "This is a supportive time to practice generosity or collaborate rather than compete. You have the room to share your insights freely, turning a potential rivalry into a shared win."
+      },
+      "scanHits": [],
+      "latencyMs": 1024
+    },
+    {
+      "key": "year-day|劫财|stress",
+      "pair": "year-day",
+      "god": "劫财",
+      "rel": "stress",
+      "sections": {
+        "overall": "Today sits within this year as a combination of Rob Wealth and branch stress. This suggests a moment where your personal resources are being contested while a quiet, underlying friction persists in your environment.",
+        "texture": "You may find a subtle tension today, such as a colleague claiming credit for your work or a lingering family obligation. This energy leans toward a feeling of resistance, similar to walking through heavy sand. You are invited to step back and audit your current task list to delegate one draining responsibility.",
+        "advice": "This energy supports a step back from competition; you have the room to let others take the lead while you protect your inner peace. You are invited to handle disputes with patience rather than force, focusing on small, sustainable boundaries. "
+      },
+      "scanHits": [],
+      "latencyMs": 1164
+    },
+    {
+      "key": "year-day|食神|clash",
+      "pair": "year-day",
+      "god": "食神",
+      "rel": "clash",
+      "sections": {
+        "overall": "Today introduces a dynamic contrast, pairing the nourishing flow of the Eating God with a sharp clash between the daily and yearly branches. While the overarching theme of this year supports ease, today's energy acts as a disruptive spark against that backdrop.",
+        "texture": "This energy leans toward a sudden urge to break from your settled routine. You are invited to pivot your plans mid-stream, perhaps by swapping a scheduled chore for a spontaneous outing or a change of scenery.",
+        "advice": "This energy supports using small, active disruptions to clear away stagnation. You are invited to pivot your plans quickly or tackle a physical task—like rearranging a room—to channel the friction into a refreshing new start."
+      },
+      "scanHits": [],
+      "latencyMs": 1875
+    },
+    {
+      "key": "year-day|食神|combine",
+      "pair": "year-day",
+      "god": "食神",
+      "rel": "combine",
+      "sections": {
+        "overall": "Today sits in a supportive embrace with this year, characterized by the ease of the Eating God and a harmonious combination of branches. This alignment suggests a natural flow where today's energy reinforces the broader themes of your year.",
+        "texture": "You may find a rare sense of lightness and mental space, where tasks feel less like chores and more like expressions of your taste. There is an inviting quality to the day that rewards slow movements and genuine enjoyment.",
+        "advice": "You have the room to indulge your curiosity or treat yourself to a nourishing meal and a slow conversation. This energy supports stepping away from the grind to focus on what actually brings you pleasure."
+      },
+      "scanHits": [],
+      "latencyMs": 1179
+    },
+    {
+      "key": "year-day|食神|none",
+      "pair": "year-day",
+      "god": "食神",
+      "rel": "none",
+      "sections": {
+        "overall": "Today sits within this year as an Eating God relation, while the branches remain independent. This suggests a nourishing flow between your current daily momentum and the broader themes of your year, though today operates on its own distinct terms.",
+        "texture": "You may feel a sense of lightness or a natural ease in how you approach your tasks today. It is an experience of low friction, where you have the room to enjoy your surroundings and breathe through your to-do list.",
+        "advice": "This energy supports leaning into pleasure and curiosity rather than force. You are invited to take a longer lunch, engage in a creative hobby, or simply allow yourself to move at a slower, more nourishing pace."
+      },
+      "scanHits": [],
+      "latencyMs": 1171
+    },
+    {
+      "key": "year-day|食神|stress",
+      "pair": "year-day",
+      "god": "食神",
+      "rel": "stress",
+      "sections": {
+        "overall": "This pairing suits a day of generous expression, though you may find a quiet friction beneath the surface. You have the room to enjoy your creative pursuits, provided you take a moment to audit a lingering task you have been putting off.",
+        "texture": "You may find a tension between your desire for leisure and a nagging to-do list. This pairing suits auditing a small process you have been putting off so you have the space to fully relax later.",
+        "advice": "You have the room to honor both needs by scheduling a brief window for the difficult chore before allowing yourself a full period of indulgence. This energy rewards the act of tidying up a small detail first, which may clear the mental space you need to truly relax."
+      },
+      "scanHits": [],
+      "latencyMs": 1251
+    },
+    {
+      "key": "year-day|伤官|clash",
+      "pair": "year-day",
+      "god": "伤官",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing leans toward a sudden break from routine, making it a productive time to audit a process you have been putting off. You are invited to question existing rules and rewrite a stale workflow to better suit your current needs.",
+        "texture": "This pairing leans toward a sudden urge to disrupt your usual schedule. You have the room to audit a stagnant process or rewrite a long-term project plan to better fit a new spark of insight.",
+        "advice": "You have the room to challenge your own assumptions or pivot your approach to a project today. This energy supports bold expression and necessary corrections, so you are invited to speak your truth even if it shakes things up."
+      },
+      "scanHits": [],
+      "latencyMs": 1785
+    },
+    {
+      "key": "year-day|伤官|combine",
+      "pair": "year-day",
+      "god": "伤官",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits bold experimentation backed by a stable plan. You have the room to pitch a daring new idea or rewrite a stagnant process, using your current stability to anchor your creativity.",
+        "texture": "This connection rewards the impulse to challenge old routines by grounding your creativity in a stable foundation. You have the room to prototype a new project or rewrite a stale process without risking your current security.",
+        "advice": "You are invited to voice a daring new idea or refine a project with a critical eye. This energy rewards those who use their brilliance to improve a system rather than simply dismantling it."
+      },
+      "scanHits": [],
+      "latencyMs": 1198
+    },
+    {
+      "key": "year-day|伤官|none",
+      "pair": "year-day",
+      "god": "伤官",
+      "rel": "none",
+      "sections": {
+        "overall": "This energy supports a momentary break from your usual routine. You have the room to question an established rule or audit a process you have been putting off. This pairing suits a day of creative rebellion or testing a new approach.",
+        "texture": "This energy supports challenging a long-standing rule or auditing a process that no longer works. You have the room to speak your mind candidly or pitch an unconventional idea during a meeting.",
+        "advice": "You have the room to experiment with a bold new idea or voice a dissenting opinion that you've been holding back. This energy supports taking a creative risk or refining a project by breaking it apart and rebuilding it better."
+      },
+      "scanHits": [],
+      "latencyMs": 1126
+    },
+    {
+      "key": "year-day|伤官|stress",
+      "pair": "year-day",
+      "god": "伤官",
+      "rel": "stress",
+      "sections": {
+        "overall": "This pairing suits the act of refining a project or auditing a process you have been putting off. You have the space to voice a bold new idea, provided you watch for a tendency to be overly critical of the details.",
+        "texture": "This energy supports challenging a stale routine or speaking a blunt truth that disrupts the status quo. You have the space to audit a process you have been putting off, though you may find you are pushing against an old obligation.",
+        "advice": "You have the room to express your unconventional ideas, provided you do so with gentleness. This energy rewards the courage to be different, especially if you use your insight to solve a lingering problem rather than simply to point it out."
+      },
+      "scanHits": [],
+      "latencyMs": 1188
+    },
+    {
+      "key": "year-day|偏财|clash",
+      "pair": "year-day",
+      "god": "偏财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing suits a bold pivot in your financial strategy or the pursuit of a sudden side-income opportunity. You have the room to renegotiate a contract or audit a spending habit that no longer serves you. Watch for unexpected openings that arise from a temporary disruption in your routine.",
+        "texture": "This energy supports a sudden pivot toward a non-traditional lead or an unconventional side project. You are invited to break your routine by auditing a process you have been putting off or rearranging your physical workspace to spark new ideas.",
+        "advice": "You have the room to experiment with a bold new approach or a side project that deviates from your annual plan. This energy supports taking a calculated risk, so you are invited to be flexible and embrace the movement rather than trying to force stability."
+      },
+      "scanHits": [],
+      "latencyMs": 1962
+    },
+    {
+      "key": "year-day|偏财|combine",
+      "pair": "year-day",
+      "god": "偏财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This connection rewards the pursuit of unconventional income or new ventures. You have the room to pitch a bold idea or renegotiate a contract to increase your earnings.",
+        "texture": "This connection rewards a willingness to deviate from your usual routine. You have the room to test a new side-project or pitch an unconventional idea to a colleague.",
+        "advice": "You have the room to pursue a side project or follow a hunch about a financial opportunity. This energy rewards those who remain adaptable and open to non-traditional paths today."
+      },
+      "scanHits": [],
+      "latencyMs": 1045
+    },
+    {
+      "key": "year-day|偏财|none",
+      "pair": "year-day",
+      "god": "偏财",
+      "rel": "none",
+      "sections": {
+        "overall": "Today introduces Indirect Wealth into the context of the year, though the underlying branches remain independent. You have the room to explore a side project or a new way of earning that exists outside your usual routine. This energy supports taking a small, calculated risk on a fresh lead or a piece of speculative information.",
+        "texture": "This energy supports a spontaneous shift in strategy or the pursuit of a sudden curiosity. You have the room to experiment with an unconventional method or audit a project from a completely different angle.",
+        "advice": "Give yourself permission to explore a non-linear solution or engage in a spontaneous conversation. This energy supports taking a calculated risk or looking at a financial matter from a fresh, creative angle."
+      },
+      "scanHits": [],
+      "latencyMs": 1881
+    },
+    {
+      "key": "year-day|偏财|stress",
+      "pair": "year-day",
+      "god": "偏财",
+      "rel": "stress",
+      "sections": {
+        "overall": "This energy supports the pursuit of unconventional income or a sudden windfall, though it may arrive with a side of administrative friction. You are invited to negotiate a better rate or audit a neglected expense account to clear the path. This pairing rewards those who handle a surprising gain with a disciplined, organized approach.",
+        "texture": "This connection rewards the patience required to settle a lingering debt or iron out a contract detail before pursuing a new profit. You may find that auditing an overlooked expense or resolving a workplace friction clears the way for unexpected gains.",
+        "advice": "This energy rewards a patient, adaptive approach rather than a forceful one. You are invited to accept the small frictions as part of the process, giving yourself permission to move slowly while keeping an eye on the larger opportunity."
+      },
+      "scanHits": [],
+      "latencyMs": 1126
+    },
+    {
+      "key": "year-day|正财|clash",
+      "pair": "year-day",
+      "god": "正财",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing suits a day of active adjustment to your finances or physical environment. You are invited to resolve a lingering administrative error or reorganize your workspace to better support your productivity.",
+        "texture": "This pairing tends to create a friction between your established stability and a sudden impulse for change. You are invited to use this tension to audit a financial process or a physical workspace you have been putting off. This energy supports a deliberate shake-up of your routine to make room for more practical gains.",
+        "advice": "You have the room to embrace this friction by handling small, practical tasks with a flexible mindset. This energy supports refining your routines through trial and error, so you are invited to pivot your approach when a plan meets resistance."
+      },
+      "scanHits": [],
+      "latencyMs": 2245
+    },
+    {
+      "key": "year-day|正财|combine",
+      "pair": "year-day",
+      "god": "正财",
+      "rel": "combine",
+      "sections": {
+        "overall": "This connection rewards the practical pursuit of your annual goals. You have the room to audit your expenses or refine a budget to better secure your resources. This energy supports taking a concrete step toward a financial target you have set for the year.",
+        "texture": "This connection rewards a steady approach to your practical affairs. You have the room to audit a budget or organize your physical workspace, turning a routine task into a source of stability.",
+        "advice": "You have the room to focus on the details of your finances or organize your workspace. This energy rewards a disciplined approach, so you are invited to complete a pending task or refine a practical plan."
+      },
+      "scanHits": [],
+      "latencyMs": 1113
+    },
+    {
+      "key": "year-day|正财|none",
+      "pair": "year-day",
+      "god": "正财",
+      "rel": "none",
+      "sections": {
+        "overall": "Today enters this year through the lens of Direct Wealth (正财), while the branches remain independent. This suggests a day of grounded productivity that operates within the broader themes of your year without disrupting its overall flow.",
+        "texture": "This connection rewards a disciplined approach to your daily routines. You have the room to audit a lingering budget or organize a physical workspace to feel a sense of steady, earned progress.",
+        "advice": "You have the room to focus on completing a specific task or organizing your finances. This energy supports leaning into a routine or tending to a practical matter that requires your full attention."
+      },
+      "scanHits": [],
+      "latencyMs": 1248
+    },
+    {
+      "key": "year-day|正财|stress",
+      "pair": "year-day",
+      "god": "正财",
+      "rel": "stress",
+      "sections": {
+        "overall": "This connection rewards a disciplined approach to your finances, even if a persistent friction lingers in the background. You have the room to audit your monthly expenses or reorganize a budget that has felt tight. Watch for minor irritations, but use them as a signal to refine your practical habits.",
+        "texture": "This pairing suits the careful auditing of a long-term budget or a lingering professional obligation. You have the room to transform a sense of pressure into disciplined progress by tackling one concrete task at a time. Watch for the tendency to let minor frustrations stall your momentum.",
+        "advice": "You have the room to move slowly and prioritize precision over speed. This energy supports focusing on the small, concrete details of your work, allowing you to resolve minor frictions before they grow."
+      },
+      "scanHits": [],
+      "latencyMs": 1188
+    },
+    {
+      "key": "year-day|七杀|clash",
+      "pair": "year-day",
+      "god": "七杀",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing suits a day of decisive action, such as auditing a process you have been putting off. You are invited to resolve a lingering conflict or cut through a complex problem that has stalled your yearly goals. Watch for moments where immediate pressure may disrupt your schedule, using the friction to refine your priorities.",
+        "texture": "This pairing tends toward a sudden surge of urgency that disrupts your usual rhythm. You are invited to use this restless energy to audit a process you have been putting off or finalize a difficult decision.",
+        "advice": "You have the room to use this friction as a catalyst for a necessary change. This energy supports decisive action, so you are invited to tackle a difficult conversation or clear a hurdle that you have been avoiding all year."
+      },
+      "scanHits": [],
+      "latencyMs": 1300
+    },
+    {
+      "key": "year-day|七杀|combine",
+      "pair": "year-day",
+      "god": "七杀",
+      "rel": "combine",
+      "sections": {
+        "overall": "This connection rewards a proactive approach to demanding tasks. You have the room to tackle a difficult conversation or audit a process you have been putting off. This pairing suits those ready to turn external pressure into a productive result.",
+        "texture": "This connection rewards the ability to act decisively under pressure, such as tackling a sudden deadline or a demanding request. You have the room to leverage external support to resolve a high-stakes problem. This pairing suits the courage required to finalize a difficult project you have been avoiding.",
+        "advice": "You have the room to take a decisive lead on a difficult task today. This energy rewards those who face a challenge head-on rather than avoiding it, inviting you to turn a moment of pressure into a tangible achievement."
+      },
+      "scanHits": [],
+      "latencyMs": 1187
+    },
+    {
+      "key": "year-day|七杀|none",
+      "pair": "year-day",
+      "god": "七杀",
+      "rel": "none",
+      "sections": {
+        "overall": "The Seven Killings influence brings a sharp point of pressure to an otherwise independent year. This pairing suits tackling a difficult conversation or auditing a process you have been putting off. You have the room to exert authority where it is most needed.",
+        "texture": "This energy supports taking decisive action on a difficult task you have been avoiding. You are invited to audit a lingering process or settle a pending dispute with a firm, clear boundary.",
+        "advice": "You are invited to handle today's demands with swift, clean decisions rather than overthinking. This energy supports setting a firm boundary or tackling a difficult task that you have been avoiding."
+      },
+      "scanHits": [],
+      "latencyMs": 1931
+    },
+    {
+      "key": "year-day|七杀|stress",
+      "pair": "year-day",
+      "god": "七杀",
+      "rel": "stress",
+      "sections": {
+        "overall": "This pairing leans toward a clash between immediate demands and your long-term pace. You are invited to handle the friction by tackling one difficult conversation or a neglected administrative task. This energy supports a decisive move to clear a bottleneck that has stalled your progress this year.",
+        "texture": "This energy leans toward a feeling of sudden pressure or taxing obligations that may feel abrasive. You are invited to channel this friction into something tangible, such as auditing a process you have been putting off or tackling a difficult administrative task.",
+        "advice": "This energy supports taking a disciplined, surgical approach to your to-do list rather than forcing a breakthrough. You are invited to handle challenges with calm precision, allowing yourself the room to breathe between high-pressure demands."
+      },
+      "scanHits": [],
+      "latencyMs": 1212
+    },
+    {
+      "key": "year-day|正官|clash",
+      "pair": "year-day",
+      "god": "正官",
+      "rel": "clash",
+      "sections": {
+        "overall": "This pairing leans toward a sudden shift in your professional responsibilities or daily schedule. You have the room to audit a lingering administrative error or restructure a task that has felt stagnant this year.",
+        "texture": "You may find a productive tension between established duties and a sudden impulse to pivot. This energy supports auditing a rigid long-term plan to prune what no longer serves you.",
+        "advice": "You have the room to challenge a stale routine or renegotiate a boundary. This energy supports making a decisive adjustment to your schedule rather than forcing a perfect adherence to the rules."
+      },
+      "scanHits": [],
+      "latencyMs": 1875
+    },
+    {
+      "key": "year-day|正官|combine",
+      "pair": "year-day",
+      "god": "正官",
+      "rel": "combine",
+      "sections": {
+        "overall": "Today sits within this year as a Direct Officer relation with a combining branch, suggesting a day where your immediate actions lean naturally into the larger goals of your year. This alignment suggests a supportive bridge between your daily tasks and your long-term responsibilities.",
+        "texture": "This energy supports the quiet discipline needed to organize your schedule or finalize a pending agreement. You may find it easier to handle administrative tasks and official paperwork with a sense of steady focus.",
+        "advice": "This energy supports tidying up loose ends or having a formal conversation with a mentor or supervisor. You have the room to embrace a bit of structure today, as organizing your space or your schedule may bring a surprising sense of relief."
+      },
+      "scanHits": [],
+      "latencyMs": 1163
+    },
+    {
+      "key": "year-day|正官|none",
+      "pair": "year-day",
+      "god": "正官",
+      "rel": "none",
+      "sections": {
+        "overall": "This energy supports a focus on your formal responsibilities, making it an ideal time to audit a process you have been putting off. Because the daily flow remains independent, you have the room to organize your checklist without being derailed by external interruptions.",
+        "texture": "You are invited to audit a process you have been putting off or organize a cluttered workspace. Because this influence is light, you have the room to implement these small corrections without feeling overwhelmed by the larger scale of your obligations.",
+        "advice": "This is a supportive moment to handle a tedious task, respond to a formal request, or set a boundary. You have the room to be disciplined today without feeling restricted, so you might find it rewarding to check a difficult item off your list."
+      },
+      "scanHits": [],
+      "latencyMs": 1228
+    },
+    {
+      "key": "year-day|正官|stress",
+      "pair": "year-day",
+      "god": "正官",
+      "rel": "stress",
+      "sections": {
+        "overall": "This energy supports balancing your formal obligations with a need for mental decompression. You are invited to audit your current task list and delegate one draining responsibility to ease the underlying friction. This pairing suits a day of structured productivity paired with a strict boundary for your evening rest.",
+        "texture": "You may find a tension between your drive for order and a lingering sense of frustration. This pairing suits auditing a process you have been putting off to clear away small, nagging inefficiencies.",
+        "advice": "This energy rewards a slow, methodical approach to your responsibilities. You have the room to set small, firm boundaries today, allowing you to fulfill your duties without absorbing the surrounding tension."
+      },
+      "scanHits": [],
+      "latencyMs": 2448
+    },
+    {
+      "key": "year-day|偏印|clash",
+      "pair": "year-day",
+      "god": "偏印",
+      "rel": "clash",
+      "sections": {
+        "overall": "This clash between your year and day creates a sharp break in routine, which may find you questioning a long-held belief or method. You are invited to audit a process you have been putting off or pivot your approach to a stale project. This energy supports a sudden, unconventional correction to your annual plan.",
+        "texture": "You may find a restless urge to rethink your habits, making this a productive time to audit a process you have been putting off. This energy supports a strategic withdrawal from social obligations to reorganize your physical workspace or refine a private project.",
+        "advice": "You have the room to pivot your plans or explore a niche interest that you usually ignore. This energy rewards those who allow a bit of chaos to clear the way for a more intuitive, non-linear solution to a problem."
+      },
+      "scanHits": [],
+      "latencyMs": 2275
+    },
+    {
+      "key": "year-day|偏印|combine",
+      "pair": "year-day",
+      "god": "偏印",
+      "rel": "combine",
+      "sections": {
+        "overall": "This pairing suits a deep dive into a niche subject or a specialized skill you've been curious about. You have the room to audit a complex process or reorganize your archives to uncover a forgotten insight.",
+        "texture": "This connection rewards moments of deliberate solitude, such as spending an afternoon alone with a complex book or a private sketchbook. You have the space to trust a sudden, unconventional hunch and apply it to a problem that traditional logic has failed to solve.",
+        "advice": "You have the room to step away from the noise and explore a niche interest or a hidden piece of information. This energy rewards those who embrace a non-linear approach to problem-solving today."
+      },
+      "scanHits": [],
+      "latencyMs": 1259
+    },
+    {
+      "key": "year-day|偏印|none",
+      "pair": "year-day",
+      "god": "偏印",
+      "rel": "none",
+      "sections": {
+        "overall": "Today interacts with this year through the lens of the Indirect Resource, while the branches remain independent. This pairing suits a day for auditing a complex process you have been putting off or researching a niche topic. You have the room to apply an unconventional perspective to your current tasks without disrupting your general momentum.",
+        "texture": "This energy supports a lean toward solitude and niche interests. You have the room to ignore the standard checklist and solve a complex problem through an unconventional shortcut.",
+        "advice": "You have the room to explore an unorthodox idea or spend an hour in complete withdrawal to recharge. This period rewards intellectual curiosity and the courage to follow a hunch that others might overlook."
+      },
+      "scanHits": [],
+      "latencyMs": 1407
+    },
+    {
+      "key": "year-day|偏印|stress",
+      "pair": "year-day",
+      "god": "偏印",
+      "rel": "stress",
+      "sections": {
+        "overall": "This energy supports digging into a complex problem using an unorthodox approach. You are invited to audit a process you have been putting off, though you may find a slight tension between these immediate fixes and your larger yearly objectives.",
+        "texture": "This pairing leans toward a desire for solitude interrupted by minor, nagging distractions. You have the space to dive into a niche research project or a complex hobby, provided you first clear a cluttered desk or handle a lingering errand. This energy rewards the discipline of silencing the noise before retreating into your own thoughts.",
+        "advice": "You have the room to step back from the noise and trust your intuition over conventional logic. This energy rewards those who handle tedious tasks with patience and allow themselves a moment of solitude to process things differently."
+      },
+      "scanHits": [],
+      "latencyMs": 1898
+    },
+    {
+      "key": "year-day|正印|clash",
+      "pair": "year-day",
+      "god": "正印",
+      "rel": "clash",
+      "sections": {
+        "overall": "This energy supports a blend of steady support and sudden change, making it a productive time to reorganize your physical workspace or update a stale filing system. You are invited to apply the stability of a mentor's advice to resolve a lingering logistical conflict.",
+        "texture": "You may find a tension between your need for quiet stability and a sudden impulse to rearrange your environment. This pairing suits those who can balance a structured morning routine with the flexibility to handle a last-minute schedule change. You are invited to audit a lingering administrative task while allowing yourself the freedom to move your workspace.",
+        "advice": "This energy rewards those who stay flexible with their plans while leaning into the support of a mentor or a trusted book. You are invited to handle today's disruptions with a calm heart, knowing you have the internal resources to navigate the friction without losing your balance."
+      },
+      "scanHits": [],
+      "latencyMs": 2086
+    },
+    {
+      "key": "year-day|正印|combine",
+      "pair": "year-day",
+      "god": "正印",
+      "rel": "combine",
+      "sections": {
+        "overall": "This energy supports a period of quiet stability, blending the nourishing influence of Direct Resource with a harmonious combination. You have the room to revisit a neglected study or organize your personal archives to gain a clearer perspective. This pairing suits a day of focused preparation and steady refinement.",
+        "texture": "This energy supports a slower pace, making it a good time to organize your personal archives or read a physical book. You are invited to lean into this steadiness by completing a lingering administrative task in a quiet space.",
+        "advice": "You have the room to lean into learning or seek guidance from a mentor. This energy supports revisiting a project with a fresh perspective or allowing yourself to be cared for by others."
+      },
+      "scanHits": [],
+      "latencyMs": 1696
+    },
+    {
+      "key": "year-day|正印|none",
+      "pair": "year-day",
+      "god": "正印",
+      "rel": "none",
+      "sections": {
+        "overall": "This energy supports a return to the basics, making it a productive time to organize your records or study a technical manual. You have the room to focus on a solitary project while the broader currents of the year provide a steady backdrop of support.",
+        "texture": "This energy supports a quiet focus, making it a good time to organize a physical archive or review a long-form document. You have the space to handle tedious paperwork with a sense of ease and steady patience.",
+        "advice": "You are invited to lean into learning or seek a mentor's perspective today. This energy rewards moments of reflection and gives you the room to prioritize your well-being over frantic productivity."
+      },
+      "scanHits": [],
+      "latencyMs": 1324
+    },
+    {
+      "key": "year-day|正印|stress",
+      "pair": "year-day",
+      "god": "正印",
+      "rel": "stress",
+      "sections": {
+        "overall": "Today's Direct Resource energy supports a steady approach to your responsibilities, even if you feel a subtle tension with the year's broader goals. You have the room to audit a specific process you have been putting off or refine a piece of writing. This pairing suits quiet focus and the careful review of documentation.",
+        "texture": "You may find that helpful advice from others occasionally feels like a burden of obligation. This energy supports setting a clear boundary during a conversation or requesting a specific type of support that actually fits your needs.",
+        "advice": "This day rewards a patient approach to the people supporting you. You have the room to accept help while gently setting boundaries, turning a moment of tension into an opportunity for deeper understanding."
+      },
+      "scanHits": [],
+      "latencyMs": 1435
+    }
+  ]
+}

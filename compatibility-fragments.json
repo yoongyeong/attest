@@ -1,0 +1,792 @@
+{
+  "generatedAt": "2026-10-16T02:40:23.012Z",
+  "model": "gemma4:31b",
+  "keyShape": "(dominant relation, day-master god)",
+  "defaults": {
+    "neutralCore": true,
+    "subjectRelative": true
+  },
+  "count": 60,
+  "fragments": [
+    {
+      "key": "clash|比肩",
+      "dominant": "clash",
+      "god": "比肩",
+      "sections": {
+        "overall": "Your connection is defined by a dynamic blend of a Peer (比肩) relationship and a structural clash. This suggests a pairing of equals who challenge one another, creating a relationship that thrives on movement and mutual transformation.",
+        "strengths": "This pairing suits those who value independence and healthy competition. You may find that you motivate each other to level up your skills or pursue personal goals with more vigor than you would alone.",
+        "friction": "The clashing energy often manifests as sudden disagreements or a restlessness that disrupts your routine. You are invited to view these moments of friction as catalysts for change rather than signs of failure.",
+        "advice": "This connection rewards the practice of giving each other significant physical and emotional space. You have the room to grow side-by-side without merging completely, favoring a partnership where individuality is protected."
+      },
+      "scanHits": [],
+      "latencyMs": 1374
+    },
+    {
+      "key": "clash|劫财",
+      "dominant": "clash",
+      "god": "劫财",
+      "sections": {
+        "overall": "This pairing suits a high-energy dynamic that thrives on movement and healthy competition. You are invited to challenge one another through active debates or shared physical pursuits to break through old habits.",
+        "strengths": "This pairing suits those who enjoy rapid growth and the sharing of bold ideas. You may find that you push each other to take risks and expand your horizons through a spirited, competitive kinship.",
+        "friction": "Tension may surface through rivalry or disagreements over shared resources and personal space. You have the room to navigate this by practicing clear boundaries and acknowledging where your individual needs differ from the collective.",
+        "advice": "This energy rewards transparency regarding finances and expectations. You are free to view the friction not as a conflict, but as a catalyst for personal refinement and mutual evolution."
+      },
+      "scanHits": [],
+      "latencyMs": 1522
+    },
+    {
+      "key": "clash|食神",
+      "dominant": "clash",
+      "god": "食神",
+      "sections": {
+        "overall": "This pairing suits a lifestyle of spontaneous exploration, such as trying new cuisines or traveling without a strict itinerary. You have the room to balance sudden disagreements by focusing on shared comforts and sensory pleasures.",
+        "strengths": "This energy supports a lifestyle of exploration, where you may find joy in trying new cuisines or traveling to unfamiliar places together. The Eating God influence suggests you have the room to nurture one another through creative expression and sensory delights.",
+        "friction": "The clash in your branches favors sudden shifts in mood or frequent disagreements over daily routines. You are invited to view these moments of friction as catalysts for growth rather than obstacles to be avoided.",
+        "advice": "This pairing rewards the practice of giving each other physical and emotional space during times of tension. You may find that scheduling independent activities helps balance the restlessness of the clash with the nourishing quality of your bond."
+      },
+      "scanHits": [],
+      "latencyMs": 1313
+    },
+    {
+      "key": "clash|伤官",
+      "dominant": "clash",
+      "god": "伤官",
+      "sections": {
+        "overall": "This connection rewards a spirited exchange of ideas and an appetite for disruption. You are invited to challenge each other's assumptions by debating a shared project or testing a new way of working. This pairing suits those who prefer active movement over static routine.",
+        "strengths": "This pairing suits rapid problem-solving and creative brainstorming. You have the room to push each other toward brilliance, using a sharp, expressive exchange to uncover new perspectives.",
+        "friction": "Watch for moments where sharp critiques or interruptions spark sudden arguments. You are invited to pivot these frictions into a joint project, such as reorganizing a shared living space or auditing a budget together.",
+        "advice": "This energy rewards the practice of mindful pausing before reacting. You may find that giving each other physical space to cool down allows the brilliance of the Hurting Officer to inspire rather than exhaust."
+      },
+      "scanHits": [],
+      "latencyMs": 1434
+    },
+    {
+      "key": "clash|偏财",
+      "dominant": "clash",
+      "god": "偏财",
+      "sections": {
+        "overall": "This connection is defined by a dynamic clash in your branches paired with an Indirect Wealth relation. It suggests a relationship characterized by constant movement and a sense of opportunistic discovery.",
+        "strengths": "This pairing suits joint ventures or travel, as the energy favors adaptability and a willingness to take risks. You may find that the other person brings a generosity of spirit and a fresh perspective that expands your horizons.",
+        "friction": "Tension often manifests as sudden disagreements or a feeling of restlessness within the domestic sphere. You are invited to treat these moments as catalysts for growth rather than signs of failure, allowing space for both of you to pivot.",
+        "advice": "You have the room to build a relationship that thrives on variety rather than predictability. This dynamic rewards those who embrace change and avoid trying to force a rigid routine upon one another."
+      },
+      "scanHits": [],
+      "latencyMs": 1359
+    },
+    {
+      "key": "clash|正财",
+      "dominant": "clash",
+      "god": "正财",
+      "sections": {
+        "overall": "Your connection is defined by a dynamic clash in the branches paired with a Direct Wealth relation. This suggests a relationship that pushes you toward growth through a blend of sudden friction and steady, disciplined support.",
+        "strengths": "This pairing suits the practical building of a life together, as the Direct Wealth energy favors shared financial goals and reliable routines. You may find that you motivate each other to be more productive and organized in your daily habits.",
+        "friction": "The clash suggests a tendency toward abrupt disagreements or a feeling that your lifestyles pull in opposite directions. You are invited to treat these moments of tension as signals to adjust your pace rather than as conflicts to be won.",
+        "advice": "You have the room to transform restlessness into shared adventure by introducing planned changes to your routine. This connection rewards those who embrace movement and allow each other the freedom to evolve their perspectives over time."
+      },
+      "scanHits": [],
+      "latencyMs": 1414
+    },
+    {
+      "key": "clash|七杀",
+      "dominant": "clash",
+      "god": "七杀",
+      "sections": {
+        "overall": "Your connection is defined by a clash in the branches and a Seven Killings relation, creating a dynamic of intense movement and decisive challenge. This pairing leans toward a catalyst-like energy that pushes both of you out of your comfort zones.",
+        "strengths": "This energy supports rapid growth and the courage to tackle difficult projects that others avoid. You may find that you are both capable of taking swift, bold action when facing external pressures together.",
+        "friction": "Tension often manifests as sudden disagreements or a feeling of being pressured by the other's expectations. You are invited to view these moments as signals to pivot your approach rather than as personal attacks.",
+        "advice": "This connection rewards the practice of giving each other physical and emotional space to cool down after a conflict. You have the room to turn this friction into a tool for mutual refinement if you prioritize clear boundaries over total control."
+      },
+      "scanHits": [],
+      "latencyMs": 1394
+    },
+    {
+      "key": "clash|正官",
+      "dominant": "clash",
+      "god": "正官",
+      "sections": {
+        "overall": "This pairing blends formal respect with an underlying current of friction. You have the space to turn this tension into a productive partnership by assigning clear roles and boundaries for shared household chores. This connection rewards the habit of scheduling regular check-ins to resolve small disagreements before they escalate.",
+        "strengths": "This energy supports a high standard of conduct and mutual accountability in your shared life. You may find that you excel at organizing complex goals together or maintaining a structured household where everyone knows their role.",
+        "friction": "Tension often arises from the clash, which may manifest as sudden disagreements over daily habits or opposing views on how to spend your time. You are invited to view these moments as catalysts for growth rather than conflicts to be won.",
+        "advice": "You have the room to balance the rigidity of the Direct Officer with a conscious willingness to embrace change. This connection rewards those who allow for flexibility in their routines and practice open, honest communication when the friction peaks."
+      },
+      "scanHits": [],
+      "latencyMs": 2451
+    },
+    {
+      "key": "clash|偏印",
+      "dominant": "clash",
+      "god": "偏印",
+      "sections": {
+        "overall": "Your connection is defined by a dynamic clash in the branches paired with an Indirect Resource relationship. This suggests a bond that feels both disruptive and intellectually unconventional, where the other person offers a unique, non-traditional form of support.",
+        "strengths": "This pairing suits those who enjoy mental exploration and intuitive leaps. You may find that you challenge each other to think outside the box, favoring a relationship that evolves rapidly through shared curiosity and unconventional perspectives.",
+        "friction": "The clashing energy suggests a tendency toward sudden disagreements or a feeling of restlessness. You are invited to view this friction as a catalyst for growth, allowing the movement to shift your perspectives rather than treating it as a conflict to be suppressed.",
+        "advice": "You have the room to embrace a non-linear way of supporting one another. This connection rewards flexibility and a willingness to give each other space to change, suggesting that a bit of distance or independence may actually stabilize the bond."
+      },
+      "scanHits": [],
+      "latencyMs": 2071
+    },
+    {
+      "key": "clash|正印",
+      "dominant": "clash",
+      "god": "正印",
+      "sections": {
+        "overall": "Your connection is defined by a dynamic blend of friction and support, where a branch clash meets the nurturing energy of the Direct Resource (正印). This pairing suggests a relationship that actively transforms both of you, balancing a sense of restlessness with a deep, protective care.",
+        "strengths": "This energy supports a continuous exchange of knowledge and emotional safeguarding. You may find that your partner offers a steadying presence or wisdom that helps you navigate the very changes and movements the clash triggers.",
+        "friction": "Watch for moments where the desire for stability clashes with a sudden urge for change or disagreement. You are invited to view these sparks not as failures, but as catalysts that push you to refine how you support one another.",
+        "advice": "You have the room to turn volatility into growth by leaning into the protective nature of the Direct Resource. This connection rewards those who use moments of tension as an invitation to learn something new about their partner's inner world."
+      },
+      "scanHits": [],
+      "latencyMs": 2277
+    },
+    {
+      "key": "combine|比肩",
+      "dominant": "combine",
+      "god": "比肩",
+      "sections": {
+        "overall": "Your connection is defined by a natural combination of branches and a Bi Jian (Peer) relationship. This suggests a dynamic of mutual attraction grounded in a sense of equality and shared perspective.",
+        "strengths": "This pairing suits collaborative projects and shared hobbies where you can act as true teammates. You have the room to support each other's independence while enjoying a seamless, instinctive way of merging your daily routines.",
+        "friction": "Because you operate as equals, you may find tension when deciding who takes the lead or when your stubborn streaks mirror one another. This energy favors stepping back to give the other space rather than pushing for a definitive win.",
+        "advice": "You are invited to treat this relationship as a partnership of peers who grow through healthy competition. This connection rewards honesty and the freedom to pursue individual goals while remaining anchored in your common bond."
+      },
+      "scanHits": [],
+      "latencyMs": 2145
+    },
+    {
+      "key": "combine|劫财",
+      "dominant": "combine",
+      "god": "劫财",
+      "sections": {
+        "overall": "This pairing suits active collaborations, such as starting a side business or tackling a home renovation together. You have the room to challenge one another's perspectives, which often turns a competitive spark into a shared drive for success.",
+        "strengths": "This pairing suits collaborative projects where you can pool your talents to achieve a larger goal. You may find that your shared drive allows you to acquire assets or navigate social circles with a powerful, unified front.",
+        "friction": "Tension may arise through a tendency to over-extend yourselves or clash over who holds the lead. You are invited to watch for moments where support feels like interference, and instead practice naming your individual boundaries clearly.",
+        "advice": "You have the room to turn rivalry into mutual inspiration by celebrating each other's wins as shared victories. This connection rewards the practice of generosity and the conscious decision to divide responsibilities rather than competing for the same space."
+      },
+      "scanHits": [],
+      "latencyMs": 1441
+    },
+    {
+      "key": "combine|食神",
+      "dominant": "combine",
+      "god": "食神",
+      "sections": {
+        "overall": "This connection is defined by a natural branch combination and an Eating God relation, suggesting a pairing that leans toward ease, mutual attraction, and shared enjoyment. You may find that the other person's core nature acts as a nourishing force, inviting you to relax and express your creative side.",
+        "strengths": "This pairing suits shared outings for fine dining, visiting galleries, or relaxing in nature. This energy supports the coordination of your daily routines, making it easier to organize shared living spaces and home habits.",
+        "friction": "Watch for a tendency to prioritize comfort over growth, which may lead to stagnation or a lack of discipline in shared goals. You are invited to introduce intentional challenges or new routines to ensure the relationship doesn't become too passive.",
+        "advice": "You have the room to treat this connection as a sanctuary for replenishment and play. This pairing rewards those who lean into the pleasure of the present moment while maintaining their own individual pursuits."
+      },
+      "scanHits": [],
+      "latencyMs": 1395
+    },
+    {
+      "key": "combine|伤官",
+      "dominant": "combine",
+      "god": "伤官",
+      "sections": {
+        "overall": "Your connection is characterized by a natural combination of your branches and a Hurting Officer relationship. This suggests a powerful magnetic attraction paired with a dynamic that favors intellectual stimulation and creative spark.",
+        "strengths": "This pairing suits collaborative projects where you can brainstorm and challenge one another's ideas. You may find that your combined energy supports a lifestyle of curiosity, where you encourage each other to speak your truth and express your individuality.",
+        "friction": "Tension may arise when the Hurting Officer's sharpness manifests as unsolicited critique or a desire to dominate the conversation. You are invited to pause when a comment feels cutting, choosing to view the critique as a clumsy attempt at improvement rather than a personal attack.",
+        "advice": "You have the room to build a relationship based on mutual admiration for each other's talents. This connection rewards those who provide each other with enough space to shine without feeling the need to compete for the spotlight."
+      },
+      "scanHits": [],
+      "latencyMs": 5412
+    },
+    {
+      "key": "combine|偏财",
+      "dominant": "combine",
+      "god": "偏财",
+      "sections": {
+        "overall": "This connection is defined by a natural branch combination and an Indirect Wealth relation, creating a dynamic of instinctive attraction and opportunistic growth. You may find that your core energies merge easily, while the other person brings a sense of expansive possibility into your life.",
+        "strengths": "This pairing suits adventurous pursuits and joint ventures, as the energy favors flexibility and a shared appetite for new experiences. You have the room to support each other's ambitions and find generosity in how you share resources and ideas.",
+        "friction": "Tension may arise if the fluid nature of Indirect Wealth leads to a lack of structure or inconsistent commitments. You are invited to establish clear boundaries and shared goals to prevent the natural pull of the combination from becoming over-dependence.",
+        "advice": "This dynamic rewards an open-handed approach to life and a willingness to pivot when new opportunities appear. You are free to experiment with unconventional ways of relating, leaning into the spontaneity that this pairing suggests."
+      },
+      "scanHits": [],
+      "latencyMs": 2238
+    },
+    {
+      "key": "combine|正财",
+      "dominant": "combine",
+      "god": "正财",
+      "sections": {
+        "overall": "Your connection is defined by a natural branch combination and a Direct Wealth relation, suggesting a pairing that leans toward stability and mutual attraction. This dynamic blends an instinctive pull toward one another with a grounded, supportive structure.",
+        "strengths": "This pairing suits the joint management of practical goals, such as budgeting or building a home. You have the room to create a reliable routine where the other person's presence feels like a steady, earned reward.",
+        "friction": "Tension may arise if the discipline of the Direct Wealth energy feels too restrictive or overly focused on tangible results. You are invited to soften the focus on efficiency to make space for spontaneous emotion.",
+        "advice": "You may find success by leaning into the natural alliance between your charts to tackle complex projects together. This connection rewards a balance of shared responsibility and the freedom to enjoy the comforts you build together."
+      },
+      "scanHits": [],
+      "latencyMs": 1312
+    },
+    {
+      "key": "combine|七杀",
+      "dominant": "combine",
+      "god": "七杀",
+      "sections": {
+        "overall": "This pairing suits those who enjoy high-stakes collaboration or tackling a rigorous shared project. You are invited to lean into this tension by delegating difficult tasks or setting firm boundaries during disagreements. This energy supports a relationship where you challenge one another to maintain high standards.",
+        "strengths": "This pairing suits fast-paced goals and decisive action, as the combining branches provide a foundation of alliance. You may find that you can tackle complex problems efficiently when you lean into this shared momentum.",
+        "friction": "The Seven Killings energy can manifest as a feeling of being controlled or judged by the other person. You are invited to view this pressure as a catalyst for growth rather than a source of conflict, allowing space for autonomy within the bond.",
+        "advice": "You have the room to transform tension into mutual discipline. This connection rewards clear boundaries and honest conversations about expectations, giving you the freedom to support each other without feeling overwhelmed."
+      },
+      "scanHits": [],
+      "latencyMs": 2498
+    },
+    {
+      "key": "combine|正官",
+      "dominant": "combine",
+      "god": "正官",
+      "sections": {
+        "overall": "Your connection is shaped by a natural branch combination and a Direct Officer relation. This pairing leans toward a sense of mutual attraction paired with a grounded structure of respect and duty.",
+        "strengths": "This energy supports a stable way of organizing your shared life, from managing a household to planning a future. You may find it easy to rely on one another and establish clear, supportive boundaries that make both of you feel secure.",
+        "friction": "Tension may arise if the sense of duty becomes too rigid or feels like an obligation rather than a choice. You are invited to soften the expectations you place on each other to ensure the structure does not stifle your spontaneity.",
+        "advice": "You have the room to build a partnership based on integrity and shared values. This connection rewards honesty and the practice of acknowledging each other's contributions to the relationship's stability."
+      },
+      "scanHits": [],
+      "latencyMs": 1311
+    },
+    {
+      "key": "combine|偏印",
+      "dominant": "combine",
+      "god": "偏印",
+      "sections": {
+        "overall": "Your connection is defined by a natural branch combination and an Indirect Resource relationship. This suggests a pairing that leans toward a strong initial attraction coupled with a unique, intuitive way of supporting one another.",
+        "strengths": "This energy supports a shared love for the unconventional, favoring deep conversations about niche interests or spiritual growth. You may find that you intuitively understand each other's unspoken moods, allowing you to provide comfort without needing a detailed explanation.",
+        "friction": "Tension may arise when Indirect Resource energy turns into over-thinking or a tendency to withdraw into private worlds. You are invited to address misunderstandings through direct conversation rather than relying solely on your assumptions of what the other is thinking.",
+        "advice": "You have the room to build a partnership that prizes intellectual curiosity and psychological depth. This connection rewards those who give each other space for solitude while remaining tethered by their natural pull toward one another."
+      },
+      "scanHits": [],
+      "latencyMs": 1453
+    },
+    {
+      "key": "combine|正印",
+      "dominant": "combine",
+      "god": "正印",
+      "sections": {
+        "overall": "This connection is defined by a natural combine and a Direct Resource relationship, suggesting a pairing based on attraction and mutual support. You may find that the other person naturally steps into a role of protection and care toward you.",
+        "strengths": "This pairing suits collaborative learning and the sharing of wisdom, where you have the room to feel emotionally secure. The energy favours a nurturing environment where the other person may offer the guidance or stability you need to grow.",
+        "friction": "Watch for a tendency toward over-dependence or a dynamic where one person becomes too parental. You are invited to balance this care by ensuring both partners maintain their own autonomy and individual decision-making.",
+        "advice": "This connection rewards open communication about your needs and the active appreciation of the support you receive. You are free to explore shared intellectual pursuits or quiet routines that reinforce your sense of safety together."
+      },
+      "scanHits": [],
+      "latencyMs": 1328
+    },
+    {
+      "key": "harm|比肩",
+      "dominant": "harm",
+      "god": "比肩",
+      "sections": {
+        "overall": "This pairing suits those who can maintain a respectful distance while collaborating on a shared project. You are invited to address small disagreements through direct conversation before they turn into quiet resentments. This connection rewards the habit of checking in on each other's perspectives during a disagreement.",
+        "strengths": "This pairing suits a partnership of equals where neither party seeks to dominate the other. You have the room to challenge one another through healthy competition and share a mutual understanding of individual independence.",
+        "friction": "Tension leans toward the unsaid, where small irritations may accumulate into a feeling of emotional erosion. Watch for a tendency to avoid direct conflict, which can allow minor grievances to simmer quietly between you.",
+        "advice": "You are invited to practice radical transparency regarding the small things before they feel heavy. This dynamic rewards a commitment to clear, frequent communication to clear the air of lingering suspicions or silent judgments."
+      },
+      "scanHits": [],
+      "latencyMs": 1393
+    },
+    {
+      "key": "harm|劫财",
+      "dominant": "harm",
+      "god": "劫财",
+      "sections": {
+        "overall": "Your connection is characterized by a Rob Wealth relation and a Harm interaction, suggesting a dynamic of shared ambitions paired with quiet, underlying frictions. This pairing leans toward a high-energy exchange where resources and identities are frequently merged or contested.",
+        "strengths": "This energy supports a powerful drive for collective achievement and a shared willingness to take risks. You may find that you both possess a similar appetite for expansion, making this a pairing that suits bold projects or joint ventures.",
+        "friction": "Tension often lives in the unsaid, appearing as small erosions or sudden misunderstandings over boundaries and ownership. You are invited to watch for subtle resentments regarding who contributes more and to address these through clear, explicit conversations.",
+        "advice": "You have the room to transform rivalry into mutual empowerment by establishing distinct roles and separate spaces. This connection rewards the practice of generous boundaries and the conscious recognition of each other's individual efforts."
+      },
+      "scanHits": [],
+      "latencyMs": 1491
+    },
+    {
+      "key": "harm|食神",
+      "dominant": "harm",
+      "god": "食神",
+      "sections": {
+        "overall": "Your connection blends the nourishing quality of the Eating God relation with the quiet friction of a Harm interaction. This suggests a dynamic where you feel intellectually or emotionally fed by the other, even while navigating subtle, underlying tensions.",
+        "strengths": "This pairing supports shared leisure, such as exploring new cuisines or creative hobbies together. You have the room to enjoy a lightness of spirit and a mutual appreciation for the finer, more relaxed moments of life.",
+        "friction": "Tension may manifest as small, unvoiced grievances or a tendency to nitpick the details of each other's habits. You are invited to address these minor erosions through direct conversation before they settle into quiet resentment.",
+        "advice": "This connection rewards a commitment to transparency over politeness. You may find that explicitly naming your needs—rather than hinting at them—prevents the 'harm' energy from creating unnecessary distance."
+      },
+      "scanHits": [],
+      "latencyMs": 2303
+    },
+    {
+      "key": "harm|伤官",
+      "dominant": "harm",
+      "god": "伤官",
+      "sections": {
+        "overall": "Your connection is shaped by the Hurting Officer relation and a Harm interaction, creating a dynamic of brilliance mixed with quiet friction. This pairing leans toward a sharp, expressive exchange where the other person may challenge your perspectives or stimulate your intellect.",
+        "strengths": "This energy supports high-level creativity and the ability to question the status quo together. You have the room to push each other toward personal excellence and may find that your conversations spark ideas that neither of you would have reached alone.",
+        "friction": "Tension often lives in the 'harm' interaction, manifesting as small erosions or things left unsaid that build up over time. Watch for moments where sharp critiques—characteristic of the Hurting Officer—are delivered without softness, potentially bruising the underlying trust.",
+        "advice": "You are invited to practice radical transparency to clear away the quiet friction before it settles. This connection rewards the conscious choice to separate an intellectual critique of an idea from a personal critique of the partner."
+      },
+      "scanHits": [],
+      "latencyMs": 1871
+    },
+    {
+      "key": "harm|偏财",
+      "dominant": "harm",
+      "god": "偏财",
+      "sections": {
+        "overall": "Your connection is defined by the dynamic of Indirect Wealth (偏财) layered over a Harm interaction. This suggests a pairing where a sense of generosity and opportunity meets a subtle, quiet friction.",
+        "strengths": "This energy supports a flexible approach to life, where you may find it easy to explore new ventures or enjoy spontaneous luxuries together. You have the room to be adaptable and supportive of each other's ambitions.",
+        "friction": "Tension leans toward the unspoken, where small misunderstandings or omissions may erode trust over time. You are invited to address minor grievances immediately rather than letting them settle into quiet resentment.",
+        "advice": "This pairing rewards radical transparency and clear communication about your daily needs. You may find that consciously naming the small things you appreciate helps dissolve the friction of the Harm interaction."
+      },
+      "scanHits": [],
+      "latencyMs": 3163
+    },
+    {
+      "key": "harm|正财",
+      "dominant": "harm",
+      "god": "正财",
+      "sections": {
+        "overall": "This pairing suits the shared management of tangible goals, such as budgeting for a home or organizing a joint venture. While a subtle friction exists, you have the room to navigate these moments by focusing on clear, written agreements to prevent small misunderstandings.",
+        "strengths": "This pairing suits the management of shared resources and the building of a tangible home life. You may find that you excel at creating routines and achieving concrete goals through disciplined, joint effort.",
+        "friction": "Tension tends to live in the unsaid, where small misunderstandings may erode your peace over time. You are invited to address minor irritations immediately rather than letting them settle into silent resentments.",
+        "advice": "You have the room to transform this friction into growth by practicing radical transparency about your needs. This connection rewards a commitment to clear communication and the willingness to voice small grievances before they harden."
+      },
+      "scanHits": [],
+      "latencyMs": 1538
+    },
+    {
+      "key": "harm|七杀",
+      "dominant": "harm",
+      "god": "七杀",
+      "sections": {
+        "overall": "This pairing leans toward a dynamic of challenge and friction, acting as a catalyst for growth. You have the room to turn this pressure into a productive force, such as tackling a difficult project or auditing a shared budget together.",
+        "strengths": "This energy supports decisive action and the ability to tackle high-stakes problems together. You may find that you push one another toward personal discipline and a sharper sense of ambition.",
+        "friction": "Tension tends to live in the unsaid, where small misunderstandings can erode trust over time. Watch for a tendency to react to the other's pressure with silent withdrawal rather than direct communication.",
+        "advice": "You are invited to name the small irritations before they build into resentment. This connection rewards a conscious choice to be vulnerable about your needs rather than waiting for the other to guess them."
+      },
+      "scanHits": [],
+      "latencyMs": 1358
+    },
+    {
+      "key": "harm|正官",
+      "dominant": "harm",
+      "god": "正官",
+      "sections": {
+        "overall": "This pairing suits a shared commitment to order and mutual respect, even when minor irritations arise. You have the room to resolve these frictions by establishing clear boundaries around your daily chores or financial habits.",
+        "strengths": "This pairing suits those who value reliability and clear boundaries in their partnership. You may find that you naturally support each other's ambitions and hold one another to a high standard of integrity.",
+        "friction": "Watch for the 'harm' energy manifesting as small, unsaid grievances or passive-aggressive comments during daily chores. You are invited to address these minor erosions immediately rather than letting them settle into quiet resentment.",
+        "advice": "This connection rewards radical transparency and the courage to speak small truths before they grow. You have the room to balance the formality of the Direct Officer with moments of intentional, soft vulnerability."
+      },
+      "scanHits": [],
+      "latencyMs": 2919
+    },
+    {
+      "key": "harm|偏印",
+      "dominant": "harm",
+      "god": "偏印",
+      "sections": {
+        "overall": "This connection is defined by a complex blend of Indirect Resource (偏印) support and a Harm interaction between your branches. You may find a bond that feels intellectually unconventional, though it is often underscored by a quiet, underlying friction.",
+        "strengths": "This pairing suits the exploration of niche interests or spiritual depths, as the Indirect Resource energy favors intuitive understanding. You have the room to support one another in ways that defy tradition, leaning into a shared language of subtlety and insight.",
+        "friction": "The Harm interaction suggests a tendency toward small erosions, where things left unsaid may create a lingering sense of irritation. You are invited to watch for the habit of nursing minor grievances rather than addressing them through direct conversation.",
+        "advice": "This dynamic rewards radical transparency and the conscious choice to speak your needs early. You may find it helpful to create structured spaces for honest dialogue to prevent quiet frictions from accumulating over time."
+      },
+      "scanHits": [],
+      "latencyMs": 1564
+    },
+    {
+      "key": "harm|正印",
+      "dominant": "harm",
+      "god": "正印",
+      "sections": {
+        "overall": "This connection blends a Direct Resource (正印) relationship with a branch 'harm' interaction. While the core bond leans toward support and protective care, there is a subtle undercurrent of quiet friction in your daily rhythms.",
+        "strengths": "This pairing suits those seeking a mentor-like stability or a partner who offers intellectual and emotional shelter. You may find that you naturally lean on one another for knowledge, security, and a sense of being genuinely looked after.",
+        "friction": "Tension tends to live in the unsaid—small misunderstandings or mismatched habits that erode patience over time. You are invited to address these minor irritations through clear conversation before they settle into lingering resentment.",
+        "advice": "You have the room to transform quiet friction into growth by practicing radical transparency about your needs. This dynamic rewards a commitment to open communication, allowing the protective nature of the Direct Resource to shield you from unnecessary conflict."
+      },
+      "scanHits": [],
+      "latencyMs": 1511
+    },
+    {
+      "key": "punish|比肩",
+      "dominant": "punish",
+      "god": "比肩",
+      "sections": {
+        "overall": "This pairing suits those who can handle a direct, challenging dynamic between equals. You have the space to hold one another accountable for specific goals, such as refining a shared project or auditing a budget. Watch for a tendency to over-correct each other's mistakes in public.",
+        "strengths": "This pairing suits those who value intellectual honesty and healthy competition. You have the room to challenge each other's perspectives and push one another toward higher standards of discipline.",
+        "friction": "Tension may arise as a feeling of pressure or an urge to 'fix' the other person's flaws. You are invited to watch for moments where correction feels like criticism and instead allow space for individual autonomy.",
+        "advice": "This connection rewards a commitment to fairness and the release of rigid expectations. You may find it helpful to focus on shared goals rather than trying to manage how the other person achieves them."
+      },
+      "scanHits": [],
+      "latencyMs": 2154
+    },
+    {
+      "key": "punish|劫财",
+      "dominant": "punish",
+      "god": "劫财",
+      "sections": {
+        "overall": "This connection is shaped by a Punishing interaction and a Rob Wealth relation, creating a dynamic defined by mutual correction and a competitive edge. You may find that your cores push one another toward higher standards, even when the process feels demanding.",
+        "strengths": "This pairing suits those who seek rapid personal growth through a mirroring effect. You have the room to challenge each other's blind spots and lean into a shared drive for achievement or resource acquisition.",
+        "friction": "Tension may surface as a sense of obligation or rivalry over who holds the lead in the relationship. You are invited to watch for moments where correcting the other feels like a power struggle rather than an act of support.",
+        "advice": "This dynamic rewards clear boundaries regarding shared finances and personal autonomy. You are free to transform the pressure of this bond into a partnership of mutual accountability by focusing on collective goals rather than individual wins."
+      },
+      "scanHits": [],
+      "latencyMs": 3267
+    },
+    {
+      "key": "punish|食神",
+      "dominant": "punish",
+      "god": "食神",
+      "sections": {
+        "overall": "Your connection blends the nurturing, ease-seeking quality of the Eating God relation with the structured pressure of a branch punishment. You may find a dynamic where deep enjoyment exists alongside a persistent sense of mutual correction.",
+        "strengths": "This pairing favors the sharing of comforts, hobbies, and sensory pleasures. You have the room to support each other's creativity and find genuine relaxation in one another's company.",
+        "friction": "Tension may arise when the desire for ease clashes with a feeling of obligation or the urge to 'fix' the other person. You are invited to notice when a helpful suggestion feels like a demand and shift toward a softer approach.",
+        "advice": "This connection rewards transparency about your needs and a willingness to forgive small irritations. You are free to lean into the nourishing aspects of your bond while treating the moments of friction as invitations for personal growth."
+      },
+      "scanHits": [],
+      "latencyMs": 1797
+    },
+    {
+      "key": "punish|伤官",
+      "dominant": "punish",
+      "god": "伤官",
+      "sections": {
+        "overall": "Your connection is shaped by the dynamic of the Hurting Officer and a Punishment interaction. This suggests a pairing defined by high intellectual brilliance and a mutual sense of correction or obligation.",
+        "strengths": "This energy supports a shared drive for excellence and refined taste. You may find that you push one another to sharpen your skills or improve your standards of living through honest, direct feedback.",
+        "friction": "Tension leans toward a tendency to critique one another's flaws or feel pressured by unmet expectations. You are invited to view these moments of friction as requests for growth rather than personal attacks.",
+        "advice": "This pairing rewards the practice of choosing curiosity over correction. You have the room to transform mutual pressure into a collaborative pursuit of mastery by allowing space for imperfection."
+      },
+      "scanHits": [],
+      "latencyMs": 1686
+    },
+    {
+      "key": "punish|偏财",
+      "dominant": "punish",
+      "god": "偏财",
+      "sections": {
+        "overall": "Your connection is shaped by a complex mix of Punishment and Indirect Wealth. While there is an underlying current of pressure and mutual correction, the way you perceive the other leans toward opportunity, generosity, and adaptability.",
+        "strengths": "This pairing suits those who enjoy high-stakes growth and intellectual stimulation. You may find that you are both capable of challenging each other to refine your habits and expand your financial or creative horizons.",
+        "friction": "Tension may arise as a feeling of obligation or a need to 'fix' one another's flaws. You are invited to watch for moments where correction turns into criticism, opting instead to treat these frictions as invitations for personal adjustment.",
+        "advice": "You have the room to transform pressure into a productive discipline. This dynamic rewards a generous spirit; you are free to lead with flexibility and adaptability when the weight of expectation feels too heavy."
+      },
+      "scanHits": [],
+      "latencyMs": 1507
+    },
+    {
+      "key": "punish|正财",
+      "dominant": "punish",
+      "god": "正财",
+      "sections": {
+        "overall": "Your connection is defined by a complex blend of 'punishment' and 'Direct Wealth,' suggesting a bond built on mutual correction and steady, disciplined support. This dynamic leans toward a relationship where growth happens through shared responsibility and the refining of one another's habits.",
+        "strengths": "This pairing suits those who value tangible progress and a grounded approach to life. You have the room to build a highly stable environment together, as the Direct Wealth energy supports the practical management of resources and a reliable daily rhythm.",
+        "friction": "The punishment interaction may manifest as a feeling of pressure or an impulse to constantly correct the other's flaws. You are invited to watch for moments where helpful feedback turns into a sense of obligation, and instead, treat these tensions as cues for personal refinement.",
+        "advice": "You may find the most success by channeling your mutual discipline into a shared project or financial goal. This connection rewards clear boundaries and the permission to be imperfect, allowing you to support each other without the need for constant optimization."
+      },
+      "scanHits": [],
+      "latencyMs": 1430
+    },
+    {
+      "key": "punish|七杀",
+      "dominant": "punish",
+      "god": "七杀",
+      "sections": {
+        "overall": "Your connection is defined by a Punishment interaction paired with the Seven Killings relation, creating a dynamic of intense pressure and mutual correction. This pairing leans toward a catalyst-style bond where you both challenge one another to evolve through decisive action.",
+        "strengths": "This energy supports high-stakes productivity and the ability to tackle complex problems that require a firm hand. You have the room to push each other toward excellence, as this pairing suits those who value discipline and tangible results over complacency.",
+        "friction": "Tension may arise through a sense of obligation or a feeling that the other is constantly correcting your behavior. You are invited to watch for moments where a desire for control turns into a power struggle, treating these frictions as signals to pause rather than prompts to push harder.",
+        "advice": "You may find success by establishing clear boundaries and giving each other space to lead in their own domains. This connection rewards the practice of explicit appreciation, allowing you to soften the inherent pressure with intentional kindness."
+      },
+      "scanHits": [],
+      "latencyMs": 1913
+    },
+    {
+      "key": "punish|正官",
+      "dominant": "punish",
+      "god": "正官",
+      "sections": {
+        "overall": "This connection is defined by a Direct Officer relation paired with a punishing interaction, creating a bond centered on structure, duty, and mutual correction. You may find that your relationship operates like a formal partnership where respect and social standards lead the way.",
+        "strengths": "This pairing suits the joint pursuit of long-term goals, such as building a home or managing a business. You have the room to hold one another to a high standard of integrity, which favors a life of stability and clear boundaries.",
+        "friction": "Tension may arise as a feeling of constant pressure or an obligation to be 'perfect' for the other. When you feel the urge to correct your partner's behavior, you are invited to pause and consider if the critique is necessary or simply a habit of this dynamic.",
+        "advice": "You are free to soften the rigidity of this bond by consciously introducing playfulness and spontaneity. This connection rewards those who can balance their sense of duty with moments of genuine, unstructured vulnerability."
+      },
+      "scanHits": [],
+      "latencyMs": 1402
+    },
+    {
+      "key": "punish|偏印",
+      "dominant": "punish",
+      "god": "偏印",
+      "sections": {
+        "overall": "Your connection is characterized by a complex blend of Punishment and the Indirect Resource relation. This creates a dynamic where you are invited to offer one another unconventional support while navigating a shared sense of obligation or mutual correction.",
+        "strengths": "This pairing suits deep, intuitive exploration and the exchange of niche knowledge. You may find that you support each other through non-traditional methods, allowing for a rare level of intellectual and emotional understanding.",
+        "friction": "Tension may arise through a feeling of pressure or the urge to 'fix' the other person's behavior. You are encouraged to watch for moments where correction feels like criticism and instead allow space for individual imperfection.",
+        "advice": "You have the room to transform this pressure into a tool for shared growth. This connection rewards honesty about your needs and favors a patient approach to resolving misunderstandings."
+      },
+      "scanHits": [],
+      "latencyMs": 1345
+    },
+    {
+      "key": "punish|正印",
+      "dominant": "punish",
+      "god": "正印",
+      "sections": {
+        "overall": "Your connection is defined by a Direct Resource (正印) relationship paired with a Punishment interaction. This suggests a dynamic where care and protection coexist with a sense of mutual correction and obligation.",
+        "strengths": "This pairing suits those who value deep intellectual support and emotional sheltering. You may find that you naturally provide one another with the knowledge or stability needed to grow, creating a safe harbor for personal development.",
+        "friction": "Tension may arise as a feeling of pressure or a need to 'fix' the other person's flaws. You are invited to watch for moments where support turns into unsolicited correction, leaning instead toward patience when expectations aren't met.",
+        "advice": "This connection rewards the practice of boundaries and gratitude. You have the room to transform mutual pressure into a shared discipline, using your protective bond to support each other's growth without imposing rigid demands."
+      },
+      "scanHits": [],
+      "latencyMs": 1415
+    },
+    {
+      "key": "trine|比肩",
+      "dominant": "trine",
+      "god": "比肩",
+      "sections": {
+        "overall": "Your connection is defined by a supportive trine and a Peer (Bi Jian) relationship. This pairing suggests a dynamic of equality and a shared sense of direction, where you both operate as counterparts rather than opposites.",
+        "strengths": "This energy supports a seamless flow in how you approach daily goals and long-term plans. You may find that you naturally understand each other's motivations, making it easy to collaborate on projects or navigate social circles together.",
+        "friction": "Because you function as equals, tension may arise when making decisions or claiming leadership in a shared task. You are invited to view these moments as healthy competition and create space for both of your perspectives to exist without one needing to override the other.",
+        "advice": "This connection rewards independence and mutual respect for your individual boundaries. You have the room to grow side-by-side, and you are free to encourage each other's personal ambitions while maintaining your shared path."
+      },
+      "scanHits": [],
+      "latencyMs": 1670
+    },
+    {
+      "key": "trine|劫财",
+      "dominant": "trine",
+      "god": "劫财",
+      "sections": {
+        "overall": "This connection blends the harmonious flow of a trine with the competitive edge of the Rob Wealth (劫财) relation. You may find a pairing that feels instinctively supportive yet inherently challenging, as if you are teammates who also push each other for the top spot.",
+        "strengths": "The trine suggests you share a natural direction, making it easier to coordinate your daily habits and long-term goals. This energy supports a seamless way of moving through the world together, where your basic rhythms often click without effort.",
+        "friction": "The Rob Wealth dynamic may manifest as tension over shared resources or a feeling that your individual identity is being overshadowed. You are invited to watch for moments of rivalry or over-extension, choosing to define your own boundaries rather than competing for the same space.",
+        "advice": "This pairing rewards the practice of generosity and the intentional separation of assets and ego. You have the room to transform rivalry into mutual inspiration by celebrating each other's independent wins."
+      },
+      "scanHits": [],
+      "latencyMs": 2256
+    },
+    {
+      "key": "trine|食神",
+      "dominant": "trine",
+      "god": "食神",
+      "sections": {
+        "overall": "Your connection is defined by a trine interaction and the Eating God relation, creating a dynamic of natural support and mutual enjoyment. This pairing leans toward a shared sense of direction, where the other person's presence often feels like a nourishing output that allows you to relax.",
+        "strengths": "You may find that you move through daily life with a shared rhythm, making it easier to agree on leisure and lifestyle choices. This energy supports a flow of generosity, where you are free to explore creative pursuits or sensory pleasures together without unnecessary struggle.",
+        "friction": "Watch for a tendency to prioritize comfort over growth, which may lead to stagnation if you avoid necessary challenges. You are invited to introduce intentional goals into your routine to ensure that your shared ease doesn't turn into inertia.",
+        "advice": "This connection rewards the practice of mindful indulgence and slow living. You have the room to cultivate a sanctuary of peace together, using your natural compatibility to support one another's well-being and mental ease."
+      },
+      "scanHits": [],
+      "latencyMs": 1514
+    },
+    {
+      "key": "trine|伤官",
+      "dominant": "trine",
+      "god": "伤官",
+      "sections": {
+        "overall": "Your connection blends a harmonious branch trine with the sharp, expressive energy of the Hurting Officer relation. This suggests a dynamic where shared goals provide a steady foundation for a spirited, intellectually stimulating exchange.",
+        "strengths": "This pairing suits collaborative projects and creative ventures, as the trine supports a natural flow of cooperation. You may find that your combined brilliance allows you to solve complex problems with a level of wit and originality that neither could achieve alone.",
+        "friction": "Tension may arise when the Hurting Officer's tendency toward critique or sharpness clashes with the need for harmony. You are invited to view blunt feedback as a tool for refinement rather than a personal attack, allowing room for honest expression without sacrificing stability.",
+        "advice": "This connection rewards intellectual honesty and the courage to challenge one another's ideas. You are free to lean into your shared direction while leaving space for the playful, provocative debates that keep your mental connection vivid."
+      },
+      "scanHits": [],
+      "latencyMs": 1378
+    },
+    {
+      "key": "trine|偏财",
+      "dominant": "trine",
+      "god": "偏财",
+      "sections": {
+        "overall": "Your connection is defined by a supportive trine and the presence of Indirect Wealth. This pairing suggests a natural ease of movement and a shared sense of opportunistic growth.",
+        "strengths": "You have the room to explore new ventures and financial risks together, as the energy favors adaptability and generosity. This dynamic supports a lifestyle of variety, where you may find it easy to support each other's unconventional ambitions.",
+        "friction": "Watch for a tendency to prioritize excitement or external gains over grounded stability. You are invited to balance your shared appetite for opportunity with occasional moments of stillness and routine.",
+        "advice": "This connection rewards those who remain flexible and open to spontaneous changes in direction. You are free to treat your partnership as a shared adventure, leaning into the generosity that this relation suggests."
+      },
+      "scanHits": [],
+      "latencyMs": 1743
+    },
+    {
+      "key": "trine|正财",
+      "dominant": "trine",
+      "god": "正财",
+      "sections": {
+        "overall": "Your connection is defined by a supportive trine and a Direct Wealth (正财) relationship. This pairing suggests a natural flow of understanding combined with a grounding, disciplined influence on your core self.",
+        "strengths": "You may find it easy to agree on long-term goals and daily habits. This energy supports the steady accumulation of shared resources and favours a lifestyle of predictable, earned rewards.",
+        "friction": "Watch for a tendency toward overly rigid routines or a preoccupation with material security. You are invited to introduce spontaneity so that the desire for stability does not become a limitation.",
+        "advice": "You have the room to build a highly practical partnership. This connection rewards clear communication about finances and the belief that you can support each other's growth through consistency."
+      },
+      "scanHits": [],
+      "latencyMs": 2121
+    },
+    {
+      "key": "trine|七杀",
+      "dominant": "trine",
+      "god": "七杀",
+      "sections": {
+        "overall": "This pairing suits a partnership focused on high-stakes goals or fast-paced projects. You have the space to challenge each other's assumptions, which often rewards you with a more rigorous plan of action. Watch for moments when the drive for efficiency outweighs the need for patience during a disagreement.",
+        "strengths": "This pairing suits collaborative projects where you need to move quickly toward a goal. The trine supports a shared direction, allowing you to coordinate your daily habits and social circles with minimal effort.",
+        "friction": "You may find the Seven Killings energy manifests as unexpected criticism or a sense of being managed by the other person. This tension is best used as a catalyst for growth rather than a source of conflict.",
+        "advice": "You are invited to view the pressure you feel from the other as a tool for refinement. You have the room to set clear boundaries while leaning into the natural support of the trine to soften the edges of your interactions."
+      },
+      "scanHits": [],
+      "latencyMs": 2118
+    },
+    {
+      "key": "trine|正官",
+      "dominant": "trine",
+      "god": "正官",
+      "sections": {
+        "overall": "This connection is defined by a harmonious trine in your branches and a Direct Officer relationship between your core identities. You may find a natural ease in your shared direction, balanced by a mutual sense of respect and structured boundaries.",
+        "strengths": "The trine energy supports a fluid way of cooperating on daily tasks, while the Direct Officer relation favors clear communication about expectations. You have the room to build a stable environment where both partners feel secure in their roles.",
+        "friction": "Tension may arise if the desire for structure feels like an attempt to control or restrict the other. You are invited to distinguish between healthy boundaries and rigid rules to keep the connection flexible.",
+        "advice": "This pairing rewards a commitment to integrity and the honest expression of your needs. You are free to lean into the natural support of the trine while maintaining the respectful distance that the Direct Officer energy suggests."
+      },
+      "scanHits": [],
+      "latencyMs": 1305
+    },
+    {
+      "key": "trine|偏印",
+      "dominant": "trine",
+      "god": "偏印",
+      "sections": {
+        "overall": "Your connection is characterized by a supportive Trine in the branches and an Indirect Resource (偏印) relationship between your core elements. This combination suggests a pairing that flows with ease while offering a deep, unconventional form of mutual understanding.",
+        "strengths": "You have the room to explore niche interests and intuitive leaps together, as the Trine favors a shared sense of direction. This pairing suits those who enjoy intellectual curiosity and can support each other's need for solitude or creative eccentricity.",
+        "friction": "Tension may arise if the Indirect Resource energy leans too far into secrecy or emotional detachment. You are invited to address these moments with direct communication rather than retreating into your respective inner worlds.",
+        "advice": "This dynamic rewards the practice of giving each other space to be misunderstood by the rest of the world. You may find the most growth by encouraging each other's unique perspectives and treating your differences as a source of wisdom."
+      },
+      "scanHits": [],
+      "latencyMs": 1355
+    },
+    {
+      "key": "trine|正印",
+      "dominant": "trine",
+      "god": "正印",
+      "sections": {
+        "overall": "Your connection is defined by a supportive trine and a Direct Resource (正印) relationship. This suggests a dynamic where you feel naturally understood and emotionally protected by the other person.",
+        "strengths": "This pairing suits a shared pursuit of knowledge or a quiet home life where care is given freely. You may find that your communication flows with minimal effort, making it easier to support one another's personal growth.",
+        "friction": "Watch for a tendency toward over-dependence or a dynamic where one person takes on a parental role. You are invited to maintain your own autonomy so that the support does not turn into a limitation.",
+        "advice": "You have the room to build a foundation of deep trust and mutual learning. This connection rewards moments of stillness and the practice of acknowledging the quiet ways you provide security for each other."
+      },
+      "scanHits": [],
+      "latencyMs": 2498
+    },
+    {
+      "key": "none|比肩",
+      "dominant": "none",
+      "god": "比肩",
+      "sections": {
+        "overall": "This connection rewards a partnership of equals, where both individuals maintain their own independent orbits. You have the space to pursue separate hobbies or professional goals without feeling the need to merge every activity. This pairing suits a lifestyle of mutual respect and autonomous growth.",
+        "strengths": "This pairing suits a partnership of mutual respect where you both maintain your own hobbies and social circles. You have the room to support each other's ambitions without feeling that one person's growth comes at the expense of the other.",
+        "friction": "Because your charts do not instinctively pull together, you may find a sense of distance or a lack of 'automatic' emotional glue. Watch for moments where you both retreat into your own worlds, which can be eased by making a conscious effort to share specific daily details.",
+        "advice": "You are invited to treat this relationship as a friendship first, leaning into the healthy competition and peer-level support. This energy rewards clear communication and the intentional creation of shared rituals to bridge your separate spaces."
+      },
+      "scanHits": [],
+      "latencyMs": 1514
+    },
+    {
+      "key": "none|劫财",
+      "dominant": "none",
+      "god": "劫财",
+      "sections": {
+        "overall": "This pairing suits a partnership built on mutual autonomy, as your separate orbits allow for a strong sense of individuality. You have the room to pursue your own professional ambitions or separate hobbies without feeling restricted. Watch for moments of rivalry over shared resources and instead use this competitive drive to challenge each other to reach new goals.",
+        "strengths": "This pairing suits those who value autonomy and personal space within a partnership. You have the room to pursue individual ambitions and may find that you motivate each other through a healthy, silent competition.",
+        "friction": "Tension may arise around shared resources or a feeling that one person is overshadowing the other. You are invited to navigate this by establishing clear boundaries regarding finances and personal achievements rather than comparing progress.",
+        "advice": "This connection rewards a 'parallel play' approach where you support each other's separate goals. You are free to lean into your independence, treating the relationship as a supportive alliance of two self-sufficient individuals."
+      },
+      "scanHits": [],
+      "latencyMs": 2176
+    },
+    {
+      "key": "none|食神",
+      "dominant": "none",
+      "god": "食神",
+      "sections": {
+        "overall": "Your connection is defined by a sense of independent orbits and the nurturing quality of the Eating God relation. This suggests a pairing where you both maintain your own distinct space while experiencing a shared sense of ease and enjoyment.",
+        "strengths": "This pairing suits a lifestyle of mutual indulgence, such as exploring new cuisines or creative hobbies together. You have the room to support one another's personal growth without feeling smothered, as the energy favors a relaxed, non-demanding flow.",
+        "friction": "Because your charts do not interact directly, you may find a lack of instinctive cohesion or a feeling of drifting in separate directions. Rather than forcing a bond, you are invited to consciously create shared rituals to bridge the gap between your independent worlds.",
+        "advice": "This connection rewards the practice of 'together but separate.' You are free to lean into your individual passions, using your time together as a soft landing spot for relaxation and sensory pleasure."
+      },
+      "scanHits": [],
+      "latencyMs": 1598
+    },
+    {
+      "key": "none|伤官",
+      "dominant": "none",
+      "god": "伤官",
+      "sections": {
+        "overall": "Your connection is characterized by independent orbits and the Hurting Officer relation. This suggests a dynamic where you maintain a high degree of personal autonomy while being intellectually stimulated by the other person's brilliance.",
+        "strengths": "This pairing suits those who value mental space and separate hobbies. You have the room to inspire one another through sharp wit and creative expression without feeling smothered by the other's presence.",
+        "friction": "Tension may arise when the Hurting Officer energy manifests as critical commentary or a need to be right. You are invited to view these sharp insights as a call for growth rather than a personal attack.",
+        "advice": "This connection rewards the establishment of clear boundaries and individual goals. You may find it helpful to engage in intellectual debates or shared artistic projects while preserving your own private sanctuary."
+      },
+      "scanHits": [],
+      "latencyMs": 1315
+    },
+    {
+      "key": "none|偏财",
+      "dominant": "none",
+      "god": "偏财",
+      "sections": {
+        "overall": "This connection is defined by a sense of independence and the presence of Indirect Wealth (偏财). You may find that you both orbit one another without colliding, creating a dynamic of autonomy and opportunistic generosity.",
+        "strengths": "This pairing suits a lifestyle of shared adventure and intellectual curiosity. You have the room to explore new hobbies or financial ventures together without feeling constrained by the other's needs.",
+        "friction": "The lack of direct branch interaction suggests a risk of drifting into separate worlds. You are invited to consciously create touchpoints of intimacy to ensure that your independent orbits do not become total isolation.",
+        "advice": "This energy favours a relationship built on mutual freedom and surprise. You may find the most fulfillment by giving each other space to grow individually while coming together to share the spoils of your separate successes."
+      },
+      "scanHits": [],
+      "latencyMs": 1317
+    },
+    {
+      "key": "none|正财",
+      "dominant": "none",
+      "god": "正财",
+      "sections": {
+        "overall": "This connection is defined by a sense of autonomy and a Direct Wealth (正财) relationship. You may find a dynamic where you both maintain separate orbits while providing one another with steady, grounded support.",
+        "strengths": "This pairing suits a lifestyle of mutual respect for privacy and personal space. The Direct Wealth energy favors practical cooperation, such as managing shared finances or organizing a home with disciplined efficiency.",
+        "friction": "Because your charts do not interact directly, you may occasionally feel a lack of emotional magnetism or a sense of distance. You are invited to consciously create shared rituals to bridge the gap between your independent worlds.",
+        "advice": "You have the room to build a relationship based on stability rather than intensity. This energy supports a partnership where you encourage each other's individual goals while relying on a foundation of earned trust."
+      },
+      "scanHits": [],
+      "latencyMs": 1829
+    },
+    {
+      "key": "none|七杀",
+      "dominant": "none",
+      "god": "七杀",
+      "sections": {
+        "overall": "This connection is defined by a state of independence between your charts and a Seven Killings (七杀) relationship. You may find that while you orbit in separate spaces, the other person acts as a catalyst for pressure and decisive action in your life.",
+        "strengths": "This pairing suits those who value personal autonomy and a lack of clinginess. You have the room to maintain your own identity while benefiting from the other person's ability to push you toward discipline and swift decision-making.",
+        "friction": "Tension may arise when the Seven Killings energy feels like an unwanted demand or a critical gaze. You are invited to view this pressure as a tool for growth rather than a personal attack, allowing space for a pause before reacting.",
+        "advice": "You are free to cultivate a relationship based on mutual respect for boundaries. This dynamic rewards a structure where you support each other's individual goals without trying to merge your daily orbits too tightly."
+      },
+      "scanHits": [],
+      "latencyMs": 1472
+    },
+    {
+      "key": "none|正官",
+      "dominant": "none",
+      "god": "正官",
+      "sections": {
+        "overall": "Your connection is characterized by a sense of autonomy and a clear structural boundary, combining the independence of non-interacting branches with the Direct Officer (正官) relation. This suggests a pairing where you both maintain separate orbits while treating one another with a high degree of formal respect.",
+        "strengths": "This pairing suits those who value privacy and personal space, as the lack of branch interaction allows you to pursue individual goals without interference. You may find that the Direct Officer energy supports a reliable environment where duties are clear and boundaries are honored.",
+        "friction": "Watch for a tendency toward emotional distance or a feeling that the relationship is overly formal. You are invited to soften this structure by intentionally sharing small, mundane details of your day to prevent the separate orbits from drifting too far apart.",
+        "advice": "You have the room to build a partnership based on mutual admiration and steady reliability rather than intense volatility. This connection rewards a slow approach, where you give each other permission to be independent while remaining committed to your shared responsibilities."
+      },
+      "scanHits": [],
+      "latencyMs": 1408
+    },
+    {
+      "key": "none|偏印",
+      "dominant": "none",
+      "god": "偏印",
+      "sections": {
+        "overall": "Your connection is defined by separate orbits and an Indirect Resource relationship. This suggests a pairing where you both maintain distinct individual worlds, while the other person provides you with unconventional support and intuitive insights.",
+        "strengths": "This pairing suits those who value autonomy and mental space. You may find that you support one another's niche hobbies or eccentric perspectives without feeling the need to constantly merge your daily routines.",
+        "friction": "Because your branches do not interact, you may encounter moments of emotional distance or a lack of intuitive coordination. You are invited to consciously bridge these gaps through clear communication rather than expecting the other to instinctively know your needs.",
+        "advice": "You have the room to build a relationship based on mutual respect for independence. This dynamic rewards the practice of sharing your inner thoughts and intellectual discoveries, allowing you to lean into the unconventional wisdom this partner offers."
+      },
+      "scanHits": [],
+      "latencyMs": 1351
+    },
+    {
+      "key": "none|正印",
+      "dominant": "none",
+      "god": "正印",
+      "sections": {
+        "overall": "Your connection is defined by a state of non-interaction between your branches and a Direct Resource (正印) relationship. This suggests a dynamic where you operate in separate orbits, yet you receive a sense of protection and intellectual support from the other person.",
+        "strengths": "This pairing suits a lifestyle of independence, as you have the room to maintain your own private worlds without clashing. The Direct Resource energy favors a flow of care and knowledge, where the other person may offer you a steadying influence or a sense of emotional security.",
+        "friction": "Tension may arise from the lack of direct interaction, which can feel like a gap in deep emotional merging or a sense of distance. You are invited to acknowledge this space as a boundary for health rather than a void to be filled.",
+        "advice": "You may find the most success by encouraging each other's separate hobbies and professional pursuits. This connection rewards a relationship built on mutual respect for autonomy and the sharing of wisdom rather than constant interdependence."
+      },
+      "scanHits": [],
+      "latencyMs": 1384
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B01",
+    "dt": "1980-03-15 09:20",
+    "label": "plain baseline",
+    "group": "baseline",
+    "pillars": "庚申 己卯 丁亥 乙巳",
+    "y": "庚申",
+    "mo": "己卯",
+    "day": "丁亥",
+    "hr": "乙巳"
+  },
+  {
+    "id": "B02",
+    "dt": "1992-07-22 14:05",
+    "label": "plain baseline",
+    "group": "baseline",
+    "pillars": "壬申 丁未 己亥 辛未",
+    "y": "壬申",
+    "mo": "丁未",
+    "day": "己亥",
+    "hr": "辛未"
+  },
+  {
+    "id": "B03",
+    "dt": "2005-11-08 03:45",
+    "label": "plain baseline",
+    "group": "baseline",
+    "pillars": "乙酉 丁亥 丙申 庚寅",
+    "y": "乙酉",
+    "mo": "丁亥",
+    "day": "丙申",
+    "hr": "庚寅"
+  },
+  {
+    "id": "B04",
+    "dt": "1995-01-30 18:30",
+    "label": "plain baseline (pre-LiChun)",
+    "group": "baseline",
+    "pillars": "甲戌 丁丑 辛酉 丁酉",
+    "y": "甲戌",
+    "mo": "丁丑",
+    "day": "辛酉",
+    "hr": "丁酉"
+  },
+  {
+    "id": "B05",
+    "dt": "1988-09-12 11:15",
+    "label": "plain baseline",
+    "group": "baseline",
+    "pillars": "戊辰 辛酉 庚午 壬午",
+    "y": "戊辰",
+    "mo": "辛酉",
+    "day": "庚午",
+    "hr": "壬午"
+  },
+  {
+    "id": "L01",
+    "dt": "2000-02-04 20:39",
+    "label": "LiChun minute BEFORE (trap)",
+    "group": "lichun",
+    "pillars": "己卯 丁丑 壬辰 庚戌",
+    "y": "己卯",
+    "mo": "丁丑",
+    "day": "壬辰",
+    "hr": "庚戌"
+  },
+  {
+    "id": "L02",
+    "dt": "2000-02-04 20:41",
+    "label": "LiChun minute AFTER",
+    "group": "lichun",
+    "pillars": "庚辰 戊寅 壬辰 庚戌",
+    "y": "庚辰",
+    "mo": "戊寅",
+    "day": "壬辰",
+    "hr": "庚戌"
+  },
+  {
+    "id": "L03",
+    "dt": "2024-02-04 16:26",
+    "label": "LiChun 2024 before",
+    "group": "lichun",
+    "pillars": "癸卯 乙丑 戊戌 庚申",
+    "y": "癸卯",
+    "mo": "乙丑",
+    "day": "戊戌",
+    "hr": "庚申"
+  },
+  {
+    "id": "L04",
+    "dt": "2024-02-04 16:28",
+    "label": "LiChun 2024 after",
+    "group": "lichun",
+    "pillars": "甲辰 丙寅 戊戌 庚申",
+    "y": "甲辰",
+    "mo": "丙寅",
+    "day": "戊戌",
+    "hr": "庚申"
+  },
+  {
+    "id": "L05",
+    "dt": "1998-02-04 08:53",
+    "label": "LiChun 1998 boundary",
+    "group": "lichun",
+    "pillars": "丁丑 癸丑 壬午 甲辰",
+    "y": "丁丑",
+    "mo": "癸丑",
+    "day": "壬午",
+    "hr": "甲辰"
+  },
+  {
+    "id": "Z01",
+    "dt": "1988-02-15 23:30",
+    "label": "late Zi (23:00-23:59)",
+    "group": "zi",
+    "pillars": "戊辰 甲寅 庚子 戊子",
+    "y": "戊辰",
+    "mo": "甲寅",
+    "day": "庚子",
+    "hr": "戊子"
+  },
+  {
+    "id": "Z02",
+    "dt": "1988-02-16 00:30",
+    "label": "early Zi (00:00-00:59)",
+    "group": "zi",
+    "pillars": "戊辰 甲寅 辛丑 戊子",
+    "y": "戊辰",
+    "mo": "甲寅",
+    "day": "辛丑",
+    "hr": "戊子"
+  },
+  {
+    "id": "Z03",
+    "dt": "2024-06-01 23:30",
+    "label": "late Zi",
+    "group": "zi",
+    "pillars": "甲辰 己巳 丙申 庚子",
+    "y": "甲辰",
+    "mo": "己巳",
+    "day": "丙申",
+    "hr": "庚子"
+  },
+  {
+    "id": "Z04",
+    "dt": "2024-06-02 00:30",
+    "label": "early Zi",
+    "group": "zi",
+    "pillars": "甲辰 己巳 丁酉 庚子",
+    "y": "甲辰",
+    "mo": "己巳",
+    "day": "丁酉",
+    "hr": "庚子"
+  },
+  {
+    "id": "Z05",
+    "dt": "1995-10-10 23:55",
+    "label": "late Zi edge",
+    "group": "zi",
+    "pillars": "乙亥 丙戌 甲戌 丙子",
+    "y": "乙亥",
+    "mo": "丙戌",
+    "day": "甲戌",
+    "hr": "丙子"
+  }
+]

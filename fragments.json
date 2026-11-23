@@ -1,0 +1,757 @@
+{
+  "generatedAt": "2026-10-15T10:30:46.553Z",
+  "model": "gemma4:31b",
+  "count": 50,
+  "fragments": [
+    {
+      "key": "比肩|木",
+      "tenGod": "比肩",
+      "element": "木",
+      "sections": {
+        "overall": "A day of self-reliance and vitality, driven by the Bi Jian peer energy and the expansive growth of Wood. You are invited to stand firmly in your own strength and pursue personal initiatives.",
+        "career": "This energy supports collaborating with equals or initiating independent projects. You have the room to assert your ideas and may find that taking a proactive lead on a new task suits your current momentum.",
+        "money": "The day leans toward financial independence and conscious spending. You have the space to review your budget or invest in tools that enhance your personal capabilities.",
+        "love": "Interactions may favor a sense of equality and mutual respect. You are free to seek connection through shared activities or intellectual exchange with a partner who views you as a peer.",
+        "health": "The upward movement of Wood suggests a focus on circulation and overall energy flow. This is a day that rewards active pacing and grounding movements to balance your internal vitality."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2318
+    },
+    {
+      "key": "比肩|火",
+      "tenGod": "比肩",
+      "element": "火",
+      "sections": {
+        "overall": "Today is defined by the vibrant intersection of the Peer star and Fire, blending independence with high visibility. This energy supports a spirit of self-reliance and an invitation to step boldly into the spotlight.",
+        "career": "This is a day that rewards collaborative brainstorming and the assertion of your personal ideas. You have the room to lead a peer group or initiate a fast-paced project that requires high energy and conviction.",
+        "money": "The current energy leans toward shared ventures or discussing financial goals with trusted associates. You are free to explore new avenues of income, though the day suggests a tendency toward impulsive spending driven by passion.",
+        "love": "You are invited to interact with your partner or peers as equals, favoring honest, direct communication. This energy supports spontaneous outings and the possibility of sparking excitement through shared activities.",
+        "health": "This is a day best used for elevating your circulation and releasing stagnant energy through movement. You have the space to balance this heat with grounding practices to maintain a steady internal pace."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2378
+    },
+    {
+      "key": "比肩|土",
+      "tenGod": "比肩",
+      "element": "土",
+      "sections": {
+        "overall": "Today is defined by the steady influence of Peer energy grounded in Earth. This combination suggests a day well suited for self-reliance and the quiet strengthening of your own foundation.",
+        "career": "You have the room to stand your ground and assert your independent perspective. This energy favours collaborating with equals on a level playing field or auditing your own progress with a steady hand.",
+        "money": "This is a day that rewards a conservative approach to spending and slow, deliberate accumulation. You are invited to review your budgets or seek practical, grounded advice from a trusted peer.",
+        "love": "You have the space to connect through shared values and mutual respect. This energy leans toward companionship that feels like a partnership of equals, where both parties feel seen and supported.",
+        "health": "This day supports grounding practices and a slower, more deliberate pace. You may find it beneficial to focus on your digestive system and overall energy equilibrium to maintain stability."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1413
+    },
+    {
+      "key": "比肩|金",
+      "tenGod": "比肩",
+      "element": "金",
+      "sections": {
+        "overall": "The energy of the Peer (比肩) combined with Metal (金) creates a day of refined independence and structural clarity. You are invited to stand firmly in your own truth and embrace a sense of self-reliance.",
+        "career": "This is a day that rewards precision, such as auditing reports or refining a project's framework. You have the room to collaborate as an equal with colleagues, though the energy suggests focusing on clear boundaries and objective standards.",
+        "money": "The current influence favors a disciplined approach to your finances, making it a suitabe time for organizing budgets or reviewing expenditures. You have the space to resist peer pressure regarding spending and prioritize your own financial logic.",
+        "love": "Interaction styles today lean toward honest, direct communication and mutual respect. You are free to seek a partner who mirrors your values, treating the relationship as a balanced partnership of two independent wholes.",
+        "health": "This energy supports a focus on the respiratory system and mindful pacing to maintain equilibrium. You may find that grounding activities or structured exercise help balance the cool, sharp nature of the day's element."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2214
+    },
+    {
+      "key": "比肩|水",
+      "tenGod": "比肩",
+      "element": "水",
+      "sections": {
+        "overall": "A day of self-reliance and fluid introspection, influenced by the Peer star and the Water element. You are invited to trust your own instincts and navigate the day with a graceful, adaptive spirit.",
+        "career": "This energy supports collaborative brainstorming and standing your ground on a personal vision. You have the room to negotiate with colleagues as equals or refine a project through a deep, focused audit of the details.",
+        "money": "The day favors mindful spending and reviewing your financial independence. You have the space to evaluate your budgets or explore peer-to-peer opportunities that align with your current values.",
+        "love": "Interactions lean toward a sense of companionship and mutual understanding. You are free to seek a balanced connection where both parties feel heard, making it a day well suited for honest, heart-to-heart conversations.",
+        "health": "Focus on your circulation and the natural flow of energy throughout your body. This is a day that rewards a gentle pacing, allowing you to balance active movement with moments of quiet, grounding reflection."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1669
+    },
+    {
+      "key": "劫财|木",
+      "tenGod": "劫财",
+      "element": "木",
+      "sections": {
+        "overall": "Today is influenced by the Rob Wealth star paired with Wood energy, suggesting a day of high-spirited expansion and shared ambitions. You are invited to channel this competitive spark into collaborative growth and collective momentum.",
+        "career": "This energy supports brainstorming sessions and pitching bold ideas to a team. You have the room to lead a group project, though the day favors those who credit their peers and share the spotlight.",
+        "money": "This is a day that leans toward social spending or investing in shared ventures. You are free to explore new resources, but you may find it helpful to review your budget to avoid over-extending your generosity.",
+        "love": "You have the space to engage in lively, spirited debates that spark intellectual attraction. The current vibration suggests a day well suited for group outings or meeting new people through mutual friends.",
+        "health": "This energy favors upward movement and active pacing to match the Wood element's growth. You may find it beneficial to focus on your circulation and grounding practices to balance the day's high intensity."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1529
+    },
+    {
+      "key": "劫财|火",
+      "tenGod": "劫财",
+      "element": "火",
+      "sections": {
+        "overall": "Today's energy blends the spirited drive of Fire with the competitive edge of Rob Wealth. You are invited to channel this intensity into bold action and shared ambitions.",
+        "career": "This is a day that rewards collaboration and brainstorming with peers. You have the space to pitch high-visibility ideas, though the energy suggests focusing on collective wins rather than solo credit.",
+        "money": "The atmosphere leans toward social spending or unexpected outflows. You have the room to invest in networking, but it may be a day well suited for auditing your budget to prevent over-extension.",
+        "love": "Interaction styles may lean toward passion and spirited debate. You are free to embrace a more playful, competitive spark with your partner, provided you leave room for mutual support.",
+        "health": "The heat of the day suggests a need for grounding and mindful pacing. This energy favors supporting your circulation and balancing your internal temperature through hydration and steady movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1379
+    },
+    {
+      "key": "劫财|土",
+      "tenGod": "劫财",
+      "element": "土",
+      "sections": {
+        "overall": "Today blends the competitive spark of Rob Wealth with the steady grounding of Earth. You are invited to channel your drive into structured, tangible progress rather than rushing ahead.",
+        "career": "This energy favours collaborative problem-solving and shared brainstorming. You have the space to learn from a peer's perspective or negotiate a win-win outcome on a joint project.",
+        "money": "The day suggests a lean toward shared expenses or investing in collective resources. You may find this a suitable time to audit your budget or focus on slow, steady accumulation over risky ventures.",
+        "love": "You are free to explore the boundaries of generosity and support within your connections. This is a day that rewards active listening and providing a stable, comforting presence for others.",
+        "health": "This state supports grounding practices and mindful pacing to balance high social energy. You have the room to focus on your digestive system's equilibrium through consistent meal timing."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1382
+    },
+    {
+      "key": "劫财|金",
+      "tenGod": "劫财",
+      "element": "金",
+      "sections": {
+        "overall": "Today is shaped by the Rob Wealth star paired with the precision of Metal, creating a dynamic of shared ambition and structural clarity. You are invited to balance your competitive drive with a collaborative spirit.",
+        "career": "This energy supports auditing complex workflows or refining project details with a critical eye. You have the room to brainstorm with peers, provided you remain open to dividing the credit for your breakthroughs.",
+        "money": "The day leans toward shared expenses or investments in tools that increase efficiency. You are free to review your budget, though this influence suggests a tendency toward impulsive spending to keep pace with others.",
+        "love": "You have the space to engage in honest, clear-cut conversations about boundaries and expectations. This is a day that rewards directness and the ability to find common ground through logical compromise.",
+        "health": "This energy is well suited for grounding exercises and mindful pacing to manage mental intensity. You may find it beneficial to support your respiratory system through rhythmic breathing and steady movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2110
+    },
+    {
+      "key": "劫财|水",
+      "tenGod": "劫财",
+      "element": "水",
+      "sections": {
+        "overall": "Today is shaped by the Rob Wealth star merging with the fluid depth of Water, suggesting a day of shared energy and collective movement. You are invited to navigate the currents of cooperation, finding strength in the flow of others.",
+        "career": "This energy supports collaborative brainstorming and the sharing of ideas with peers. You have the room to step back from the lead and allow a teammate's perspective to refine your project's direction.",
+        "money": "The day leans toward social spending or shared investments, making it a suitabe time for discussing group resources. You are free to explore collective financial goals, though it may be wise to keep a clear boundary on your personal reserves.",
+        "love": "You have the space to connect through deep, intuitive conversations that bridge the gap between you and your partner. This is a day that rewards vulnerability and the willingness to flow with your partner's emotional needs.",
+        "health": "Energy tends to move in waves today, making it a good time to focus on circulation and fluid balance. You are encouraged to prioritize gentle movement and grounding practices to maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1627
+    },
+    {
+      "key": "食神|木",
+      "tenGod": "食神",
+      "element": "木",
+      "sections": {
+        "overall": "The combination of the Eating God and Wood energy suggests a day of creative expansion and effortless output. You are invited to lean into your natural curiosity and let your ideas grow organically.",
+        "career": "This is a day that rewards brainstorming and the initiation of new projects. You have the space to experiment with a fresh approach or refine a creative workflow that makes your tasks feel more fluid.",
+        "money": "Your financial posture leans toward investments in quality of life and personal enjoyment. You may find this a suitable time to explore new streams of income rooted in your talents or hobbies.",
+        "love": "The energy supports a warm, nurturing interaction style and a focus on shared pleasures. You have the room to express affection through thoughtful gestures or spontaneous outings that spark joy.",
+        "health": "This energy favors growth and vitality, making it a great time for gentle movement and stretching. You are encouraged to monitor your energy pacing to ensure your enthusiasm remains balanced throughout the day."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1916
+    },
+    {
+      "key": "食神|火",
+      "tenGod": "食神",
+      "element": "火",
+      "sections": {
+        "overall": "This energy supports a day of spirited expression and effortless flow. You have the room to sketch out a new project or share a bold idea in a meeting. This is a day that favours visibility and creative output.",
+        "career": "This is a day that rewards brainstorming and presenting new ideas. You have the room to shift from routine tasks toward creative problem-solving or refining a project's aesthetic.",
+        "money": "The current energy supports spending on quality experiences or tools that spark joy. You may find this a suitable time to explore new income streams that align with your personal passions.",
+        "love": "You are invited to bring warmth and playfulness into your connections. This energy favours lighthearted dates or spontaneous gestures that express your affection openly.",
+        "health": "The Fire element suggests a day for invigorating movement and active circulation. You have the space to prioritize energizing activities, though you are encouraged to balance this heat with grounding pauses."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1349
+    },
+    {
+      "key": "食神|土",
+      "tenGod": "食神",
+      "element": "土",
+      "sections": {
+        "overall": "A harmonious blend of creative flow and grounding stability. The presence of the Eating God supported by Earth energy suggests a day that rewards mindful enjoyment and steady production.",
+        "career": "This is a day that suits refining your output and polishing existing projects. You have the room to express your ideas with a practical touch, making it an ideal time for drafting documents or organizing your creative workflow.",
+        "money": "The energy leans toward slow, deliberate accumulation and mindful spending. You are invited to evaluate your resources with a steady hand, focusing on value that provides long-term security rather than impulsive gains.",
+        "love": "You have the space to connect through shared comforts and relaxed conversation. This energy supports a nurturing approach to relationships, where simply being present and grounded together may deepen your bond.",
+        "health": "Your energy suggests a need for grounding and rhythmic pacing. This is a day well suited for supporting the digestive system through mindful eating and gentle movement to maintain equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2083
+    },
+    {
+      "key": "食神|金",
+      "tenGod": "食神",
+      "element": "金",
+      "sections": {
+        "overall": "Today blends the creative flow of the Eating God with the sharp precision of Metal, suggesting a day of refined expression. You have the space to transform your imaginative ideas into structured, tangible results.",
+        "career": "This is a day that rewards the polishing of a project or the auditing of fine details. You are invited to apply a critical eye to your creative output, as this energy supports the transition from a rough draft to a masterpiece.",
+        "money": "You may find that a disciplined approach to spending allows more room for high-quality acquisitions. This state favors reviewing your budget with clarity or investing in tools that enhance your personal efficiency.",
+        "love": "Your interaction style leans toward a sophisticated kind of warmth and thoughtful communication. You have the room to express your affection through small, precise gestures that show you truly notice the details of your partner's needs.",
+        "health": "Energy levels may be best used for grounding practices and steady, rhythmic movement. This influence suggests a focus on the respiratory system and maintaining a cool, balanced pace to avoid mental fatigue."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1531
+    },
+    {
+      "key": "食神|水",
+      "tenGod": "食神",
+      "element": "水",
+      "sections": {
+        "overall": "A day of flowing creativity and ease, guided by the nourishing influence of the Eating God and the depth of Water. You are invited to let your intuition lead and embrace a slower, more soulful pace.",
+        "career": "This energy supports a posture of imaginative problem-solving and brainstorming. You have the room to experiment with new ideas or refine your creative output through a more flexible, adaptable approach.",
+        "money": "Today favors mindful spending on things that bring genuine sensory pleasure or personal enrichment. You may find that a relaxed attitude toward your financial planning allows for more organic opportunities to surface.",
+        "love": "You are free to express your affection through thoughtful gestures and deep, intuitive listening. This is a day that rewards emotional vulnerability and a gentle, flowing connection with others.",
+        "health": "Energy leans toward a need for fluid movement and mental decompression. You have the space to focus on your circulation and grounding practices to maintain a sense of equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1559
+    },
+    {
+      "key": "伤官|木",
+      "tenGod": "伤官",
+      "element": "木",
+      "sections": {
+        "overall": "A day of vibrant expression and breakthrough thinking. The blend of Hurting Officer and Wood energy suggests a time where your brilliance is amplified and your desire for growth is heightened.",
+        "career": "This is a day that rewards unconventional solutions and the courage to challenge the status quo. You have the room to pitch bold ideas or refine a project with a sharper, more creative lens.",
+        "money": "Energy leans toward investment in self-improvement or tools that enhance your skill set. You may find this is a day that suits exploring new revenue streams rather than sticking to rigid budgets.",
+        "love": "You are invited to bring more wit and playfulness into your connections. This energy supports honest, sparkling conversation and the space to express your needs with clarity and flair.",
+        "health": "Focus on upward energy and movement to match the Wood element's expansion. You may find it helpful to monitor your pacing to ensure your mental brilliance doesn't outpace your physical grounding."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2445
+    },
+    {
+      "key": "伤官|火",
+      "tenGod": "伤官",
+      "element": "火",
+      "sections": {
+        "overall": "Today is powered by the brilliance of the Hurting Officer paired with the heat of Fire, creating a vibrant atmosphere for visibility and expression. You have the room to break from routine and let your unique personality shine.",
+        "career": "This energy supports presenting bold ideas or challenging outdated processes. You are invited to take the lead in creative brainstorming or tasks that require a sharp, unconventional perspective.",
+        "money": "The day leans toward impulsive inspiration, which may suit exploring new investment avenues or luxury treats. You have the space to rethink your spending habits, though it favours calculated risks over sudden leaps.",
+        "love": "Interaction styles may be more passionate and spirited today. You are free to express your desires openly and use your wit to create a spark of excitement with your partner.",
+        "health": "The intensity of Fire suggests a need for grounding to balance high energy levels. You may find that focusing on your circulation and mindful pacing helps maintain equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2360
+    },
+    {
+      "key": "伤官|土",
+      "tenGod": "伤官",
+      "element": "土",
+      "sections": {
+        "overall": "A dynamic blend of Hurting Officer brilliance and Earth's stability. You have the space to express your most daring ideas while keeping them rooted in practical reality.",
+        "career": "This energy supports the refinement of a bold project. You are invited to challenge the status quo, provided you use today's grounding influence to build a logical case for your changes.",
+        "money": "This is a day that rewards strategic spending on tools that increase your efficiency. You may find it beneficial to audit your long-term savings while exploring a new, creative revenue stream.",
+        "love": "You have the room to be playfully provocative and intellectually stimulating. This energy leans toward honest, spirited conversations that clear the air and establish a firmer foundation of trust.",
+        "health": "Your energy may fluctuate between high-intensity bursts and a need for stillness. This is a day best used for grounding exercises to balance your mental sharpness with physical stability."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2995
+    },
+    {
+      "key": "伤官|金",
+      "tenGod": "伤官",
+      "element": "金",
+      "sections": {
+        "overall": "This energy supports a blend of brilliant expression and surgical precision. You have the room to audit a flawed process or rewrite a difficult document with sharp clarity. This is a day that favours challenging a stale routine through logical refinement.",
+        "career": "This energy supports auditing complex documents or refining a bold new proposal. You are invited to voice your critiques, as the day favours those who can articulate improvements with structured evidence.",
+        "money": "This is a day that rewards meticulous planning and the courage to negotiate your worth. You have the space to review your budgets with a critical eye and prune unnecessary expenses.",
+        "love": "You may find that honest, direct communication creates a refreshing breakthrough in your connections. This is a day that suits intellectual sparks and the freedom to be your most authentic, unfiltered self.",
+        "health": "Energy tends to lean toward high mental activity, making it a good time to focus on respiratory flow and rhythmic pacing. You are encouraged to balance your sharpness with grounding movements to maintain equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2586
+    },
+    {
+      "key": "伤官|水",
+      "tenGod": "伤官",
+      "element": "水",
+      "sections": {
+        "overall": "A day of fluid brilliance, where the Hurting Officer meets the depth of Water. You are invited to merge your sharpest insights with a graceful, adaptable delivery.",
+        "career": "This energy supports the rewriting of old protocols or the pitching of bold, unconventional ideas. You have the space to challenge the status quo, provided you use the day's flowing nature to navigate professional diplomacy.",
+        "money": "You may find this a suitable time for auditing your spending habits or exploring non-traditional income streams. The day favors a strategic approach to value over impulsive acquisitions.",
+        "love": "You have the room to express your affection through intellectual stimulation and deep, probing conversation. This is a day that rewards honesty and the courage to be your most authentic, unfiltered self.",
+        "health": "This state suggests a focus on the circulation system and the fluid balance of the body. You are encouraged to pace your mental energy to avoid fatigue, favoring grounding practices to balance your brilliance."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2712
+    },
+    {
+      "key": "偏财|木",
+      "tenGod": "偏财",
+      "element": "木",
+      "sections": {
+        "overall": "Today is shaped by Indirect Wealth and Wood energy, creating a vibrant atmosphere of expansion and serendipity. You are invited to embrace a spirit of exploration and openness to the unexpected.",
+        "career": "This energy supports pivoting your strategy or pitching an unconventional idea. You have the room to explore side-projects or alternative workflows that lean toward growth rather than routine.",
+        "money": "This is a day that rewards a speculative eye and an appetite for opportunity. You may find it well suited for researching new investment channels or looking for non-traditional income streams.",
+        "love": "You are free to inject a sense of adventure and playfulness into your connections. This energy favours spontaneous dates or surprising your partner with a gesture that breaks the usual pattern.",
+        "health": "Your energy leans toward an upward, expansive surge, making it a great time for movement. You are encouraged to focus on your circulation and maintain a grounded pace to balance this high-growth vibration."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1505
+    },
+    {
+      "key": "偏财|火",
+      "tenGod": "偏财",
+      "element": "火",
+      "sections": {
+        "overall": "The convergence of Indirect Wealth and Fire creates a high-visibility window for opportunistic growth. You are invited to embrace a spirited approach to your ambitions today.",
+        "career": "This energy supports pitching bold ideas or pivoting your strategy toward a more dynamic path. You have the room to lead a brainstorming session or seek out unconventional solutions to stagnant projects.",
+        "money": "The day leans toward speculative gains and the discovery of new revenue streams. You are free to explore side ventures or review your portfolio for unexpected openings.",
+        "love": "The passionate influence of Fire suggests a day well suited for spontaneous dates or adventurous conversations. You have the space to inject a sense of excitement and playfulness into your interactions.",
+        "health": "This energy supports a surge in circulation and physical vitality. You are invited to channel this heat into a brisk walk or a vigorous workout to keep your systems moving."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2098
+    },
+    {
+      "key": "偏财|土",
+      "tenGod": "偏财",
+      "element": "土",
+      "sections": {
+        "overall": "This energy supports taking a calculated risk on a new investment or side project. You have the room to explore an unconventional opportunity while keeping your daily routine grounded and stable.",
+        "career": "You have the room to explore unconventional solutions or pitch a bold new project. This energy supports taking a creative leap, provided you back your ideas with concrete data and structured planning.",
+        "money": "This is a day that suits scouting for new revenue streams or reviewing speculative investments. You are invited to look for opportunities beyond your usual income, though the Earth element suggests a preference for assets with long-term stability.",
+        "love": "You may find a spark of excitement in trying a new activity with a partner or meeting someone through a shared hobby. The energy favors a playful approach to romance that still feels grounded and secure.",
+        "health": "This is a day best used for grounding practices to balance high mental stimulation. You have the space to focus on your digestive system through mindful pacing and steady, rhythmic movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1467
+    },
+    {
+      "key": "偏财|金",
+      "tenGod": "偏财",
+      "element": "金",
+      "sections": {
+        "overall": "Today is shaped by the dynamic energy of Indirect Wealth paired with the precision of Metal, creating a window for strategic breakthroughs. You are invited to blend your intuition for opportunity with a disciplined, structured approach.",
+        "career": "This energy supports auditing your current projects to find untapped efficiencies. You have the room to propose a bold, non-traditional solution, provided it is backed by clear data and a solid framework.",
+        "money": "The day favors an exploratory posture toward your finances, making it well suited for researching new investment vehicles or speculative assets. You have the space to look for windfalls, though the Metal influence suggests a reward for those who keep precise records.",
+        "love": "Interaction styles may lean toward the intellectual and the refined. You are free to introduce a spark of spontaneity into your relationship, perhaps through a curated experience or a sophisticated new activity together.",
+        "health": "Energy levels suggest a focus on the respiratory system and overall circulation. This is a day that rewards a steady pace and grounded movements to balance the sharp, cooling influence of the Metal element."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1458
+    },
+    {
+      "key": "偏财|水",
+      "tenGod": "偏财",
+      "element": "水",
+      "sections": {
+        "overall": "The energy of Indirect Wealth meets the fluid nature of Water, creating a day of intuitive opportunity. You are invited to trust your instincts and lean into the unexpected flow of events.",
+        "career": "This is a day that rewards lateral thinking and the ability to pivot quickly. You have the room to explore unconventional solutions or pitch a bold new idea that deviates from the standard manual.",
+        "money": "The current energy supports a posture of strategic observation and speculative curiosity. You may find this a suitable time for researching new investment vehicles or identifying untapped revenue streams.",
+        "love": "You are free to introduce a sense of playfulness and spontaneity into your connections. This atmosphere favours deep, flowing conversations and the discovery of hidden facets of your partner's personality.",
+        "health": "Energy tends to lean toward the reflective, making this a day well suited for gentle movement and fluid stretching. You have the space to focus on your circulation and grounding your energy to maintain balance."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1387
+    },
+    {
+      "key": "正财|木",
+      "tenGod": "正财",
+      "element": "木",
+      "sections": {
+        "overall": "This energy supports a methodical approach to your goals. You have the room to organize your finances or finalize a project that requires steady attention to detail.",
+        "career": "This energy supports a methodical approach to new projects. You have the room to organize your workflow and refine the small details that lead to long-term professional stability.",
+        "money": "This is a day that rewards discipline and careful planning. You are invited to review your budgets or focus on reliable, earned income streams rather than speculative risks.",
+        "love": "Your interactions may lean toward a supportive and nurturing tone. You have the space to show affection through practical acts of service and dependable presence.",
+        "health": "The day suggests a focus on your circulation and overall vitality. You are free to embrace a pacing that balances active movement with grounding moments of rest."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1264
+    },
+    {
+      "key": "正财|火",
+      "tenGod": "正财",
+      "element": "火",
+      "sections": {
+        "overall": "The intersection of Direct Wealth and Fire creates a vibrant energy of disciplined action. This is a day that rewards the marriage of passion with a concrete plan.",
+        "career": "You have the room to tackle high-visibility projects that require both meticulous detail and energetic delivery. This energy supports presenting your results with confidence and polishing the final touches of a long-term assignment.",
+        "money": "This is a day that suits auditing your budget or organizing your income streams. You are invited to focus on steady, earned rewards rather than speculative risks, as the energy favors grounded financial management.",
+        "love": "You have the space to express your affection through tangible acts of service and reliability. This energy leans toward warm, honest communication and the steady building of trust through shared activities.",
+        "health": "Your energy may trend toward a high-intensity peak, making it a day well suited for active movement. You are encouraged to watch for pacing and focus on grounding your circulation to maintain a balanced equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1650
+    },
+    {
+      "key": "正财|土",
+      "tenGod": "正财",
+      "element": "土",
+      "sections": {
+        "overall": "This is a day of grounding and tangible rewards, influenced by Direct Wealth and the stabilizing energy of Earth. You are invited to embrace a steady pace and find satisfaction in the visible results of your efforts.",
+        "career": "This energy supports a focus on the details and the completion of pending tasks. You have the room to organize your workflow or audit your current projects for maximum efficiency.",
+        "money": "A day that rewards disciplined budgeting and the tracking of expenses. You may find this is a well-suited time for reviewing long-term savings or managing steady income streams.",
+        "love": "Interaction styles lean toward reliability and practical acts of service. You are free to express affection through dependable support and creating a sense of security for your partner.",
+        "health": "The Earth element suggests a day best used for grounding and mindful pacing. You have the space to focus on your digestive system and maintaining a balanced energy flow."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1589
+    },
+    {
+      "key": "正财|金",
+      "tenGod": "正财",
+      "element": "金",
+      "sections": {
+        "overall": "This energy supports a day of grounded precision and refined discipline. You have the space to audit a budget or organize a cluttered workspace to restore order to your routine.",
+        "career": "This is a day that rewards auditing details and tightening your operational workflows. You have the room to organize pending tasks with high accuracy and a professional, composed posture.",
+        "money": "Current energies favor a conservative approach and the tracking of steady gains. You have the space to review your budget or implement a more disciplined spending plan.",
+        "love": "Interaction styles may lean toward the practical and the reliable. This energy supports showing affection through tangible acts of service and clear, honest communication.",
+        "health": "The day suggests a focus on the respiratory system and overall circulation. You may find that mindful pacing and grounding movements help maintain your energetic equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2194
+    },
+    {
+      "key": "正财|水",
+      "tenGod": "正财",
+      "element": "水",
+      "sections": {
+        "overall": "This energy supports a disciplined approach to your finances and a calm, observant mind. You have the room to audit your monthly budget or organize a cluttered workspace to create a steady flow of productivity.",
+        "career": "This energy supports the meticulous refinement of your current projects. You have the room to audit details or organize your workflow, as the day favors a methodical yet adaptable professional posture.",
+        "money": "You are invited to focus on the rewards of discipline and long-term planning. This is a day that suits reviewing budgets or securing steady income streams through consistent action.",
+        "love": "You have the space to cultivate connections through reliability and emotional depth. The atmosphere leans toward supportive, steady interactions where listening is as valuable as speaking.",
+        "health": "This state suggests a focus on fluid circulation and gentle pacing. You may find that grounding activities or hydrating routines help maintain your internal equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1620
+    },
+    {
+      "key": "七杀|木",
+      "tenGod": "七杀",
+      "element": "木",
+      "sections": {
+        "overall": "Today is defined by the potent blend of Seven Killings and Wood energy, inviting you to transform pressure into purposeful growth. You have the space to step into a leadership role and tackle challenges with decisive, upward momentum.",
+        "career": "This is a day that rewards bold initiatives and the auditing of complex bottlenecks. You are invited to take command of a difficult project or set firm boundaries that clear the path for expansion.",
+        "money": "The current energy suggests a posture of strategic investment rather than passive saving. You may find this is a well-suited time for reviewing high-risk assets or allocating resources toward long-term growth.",
+        "love": "You have the room to introduce a healthy level of intensity and passion into your interactions. This energy supports honest, direct conversations that cut through ambiguity to build a stronger foundation.",
+        "health": "This energy leans toward high tension and rapid growth, which may leave your nervous system feeling overstimulated. You are invited to release this pressure through a slow walk or gentle stretching to support your circulation."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1517
+    },
+    {
+      "key": "七杀|火",
+      "tenGod": "七杀",
+      "element": "火",
+      "sections": {
+        "overall": "The energy of the Seven Killings meets the intensity of Fire, creating a day of high visibility and decisive momentum. You are invited to step into a position of leadership and embrace the thrill of a challenge.",
+        "career": "This is a day that rewards bold decision-making and the courage to tackle overdue problems. You have the room to take command of a project or pitch a high-stakes idea with conviction.",
+        "money": "The current energy leans toward strategic investments and decisive financial cuts. You have the space to audit your spending and implement a more disciplined budget.",
+        "love": "Interaction styles may lean toward the passionate and direct. You are free to express your desires clearly and invite a spark of excitement into your connections.",
+        "health": "This energy supports high-intensity movement but suggests a need for grounding to balance the internal heat. You may find it beneficial to focus on your circulation and conscious pacing to avoid burnout."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1603
+    },
+    {
+      "key": "七杀|土",
+      "tenGod": "七杀",
+      "element": "土",
+      "sections": {
+        "overall": "Today blends the decisive drive of the Seven Killings with the grounding influence of Earth. You are invited to channel high-pressure energy into a stable, structured foundation.",
+        "career": "This is a day that rewards taking a firm stand on a difficult project or tackling a backlog of hard tasks. You have the space to implement a strict schedule or lead a decisive turnaround in your workflow.",
+        "money": "The energy favors a conservative posture, making it a day well suited for auditing expenses or organizing long-term savings. You have the room to make calculated, disciplined choices rather than impulsive spends.",
+        "love": "You may find that clear boundaries and honest conversations create a stronger sense of security. This energy supports direct communication and the steady building of trust through reliable actions.",
+        "health": "Focus on grounding your energy to balance the day's intensity, perhaps through slow pacing or steady movement. This is a day that leans toward supporting the digestive system through mindful, consistent habits."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2672
+    },
+    {
+      "key": "七杀|金",
+      "tenGod": "七杀",
+      "element": "金",
+      "sections": {
+        "overall": "This energy supports decisive action and surgical precision. You have the room to audit a complicated process or settle a lingering dispute with a firm, clear boundary.",
+        "career": "This energy supports the auditing of complex projects or the implementation of strict new structures. You have the room to tackle the most challenging task on your list with precision and authority.",
+        "money": "The day favors a disciplined approach to budgeting and the cutting of unnecessary expenses. You are invited to review your financial contracts with a critical, discerning eye.",
+        "love": "Interaction styles may lean toward the direct and honest today. You have the space to set healthy boundaries or have those necessary, clarifying conversations that create long-term stability.",
+        "health": "Focus on the equilibrium of your respiratory system and overall energy pacing. This is a day that rewards grounding practices to balance the high-frequency mental pressure."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1513
+    },
+    {
+      "key": "七杀|水",
+      "tenGod": "七杀",
+      "element": "水",
+      "sections": {
+        "overall": "This energy supports decisive movement through a difficult task. You have the room to tackle a stubborn project or audit a process you have been putting off with fluid precision.",
+        "career": "This is a day that rewards decisive leadership and the courage to tackle difficult problems. You have the room to pivot your strategy quickly or take command of a stalled project with a fresh, adaptable approach.",
+        "money": "The energy leans toward strategic auditing and reviewing high-stakes investments. You are free to explore disciplined budgeting or assess where a bold, calculated shift in your financial posture may be suited.",
+        "love": "You are invited to navigate emotional depths with honesty and strength. This is a day that suits setting healthy boundaries while remaining fluid and receptive to your partner's needs.",
+        "health": "This energy supports mindful pacing to balance high-intensity focus with restorative quiet. You may find it beneficial to focus on your circulation and grounding your energy through hydration."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1416
+    },
+    {
+      "key": "正官|木",
+      "tenGod": "正官",
+      "element": "木",
+      "sections": {
+        "overall": "Today's energy blends the structure of the Direct Officer with the vitality of Wood, creating a day that rewards organized growth. You are invited to channel your discipline into new beginnings.",
+        "career": "This is a day well suited for establishing new protocols or presenting a structured plan to leadership. You have the room to step into a leadership role or refine the systems that govern your daily output.",
+        "money": "Financial energy leans toward prudent planning and long-term budgeting. You may find it beneficial to audit your subscriptions or allocate resources toward a professional certification.",
+        "love": "The atmosphere favors clear communication and the establishment of healthy boundaries. You have the space to express your needs with poise, supporting a connection based on mutual respect.",
+        "health": "Energy levels tend to favor upward movement and activity. This is a day that supports focusing on your circulation and maintaining a steady, rhythmic pace to avoid early fatigue."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2176
+    },
+    {
+      "key": "正官|火",
+      "tenGod": "正官",
+      "element": "火",
+      "sections": {
+        "overall": "Today is defined by the intersection of Direct Officer structure and the vibrant heat of Fire, creating an atmosphere of visible leadership and disciplined passion. You are invited to step into a role of authority with a renewed sense of energy and purpose.",
+        "career": "This energy supports taking ownership of a project or refining a professional standard. You have the room to showcase your reliability to superiors or organize a chaotic workflow into a clear, structured plan.",
+        "money": "The day leans toward disciplined budgeting and the strategic allocation of resources. You may find this is a well-suited time for reviewing contracts or managing financial commitments that require a formal touch.",
+        "love": "You are free to express your affection through acts of service and reliability. This energy favors clear communication regarding boundaries and the creation of a stable, supportive foundation within your relationships.",
+        "health": "The presence of Fire suggests a need to balance high energy with mindful grounding. You are encouraged to monitor your circulation and pacing to ensure your vitality remains steady throughout the day."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1776
+    },
+    {
+      "key": "正官|土",
+      "tenGod": "正官",
+      "element": "土",
+      "sections": {
+        "overall": "A day of steady alignment and structured grace, influenced by the Direct Officer. This energy favors a composed presence and the quiet strength of reliability.",
+        "career": "This is a day that rewards auditing details and refining your professional standards. You have the room to step into a leadership role or organize a complex project with clear boundaries.",
+        "money": "The grounding influence of Earth suggests a day best used for conservative planning and reviewing budgets. You are invited to focus on long-term stability rather than impulsive gains.",
+        "love": "You have the space to express your commitment through dependable actions and thoughtful consistency. This energy supports a relationship style rooted in mutual respect and shared values.",
+        "health": "The current flow leans toward grounding and steady pacing. You are free to prioritize your digestive system and overall equilibrium through mindful, rhythmic movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1794
+    },
+    {
+      "key": "正官|金",
+      "tenGod": "正官",
+      "element": "金",
+      "sections": {
+        "overall": "Today is defined by the refined influence of the Direct Officer and Metal energy, creating a state of structured clarity. You are invited to embrace a sense of poised authority and intentional order.",
+        "career": "This energy supports the auditing of complex details or the formalization of a new process. You have the space to step into a leadership role or refine your professional reputation through precision and reliability.",
+        "money": "The day leans toward disciplined budgeting and the review of long-term financial commitments. You may find this is a rewarding time for organizing accounts or creating a structured spending plan.",
+        "love": "Interaction styles today favor sincerity, boundaries, and a sense of mutual respect. You have the room to express your commitment through reliable actions and clear, honest communication.",
+        "health": "Energy levels are best used for steady, rhythmic pacing and grounding practices. You are encouraged to pay attention to the respiratory system and maintain a balanced internal equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1532
+    },
+    {
+      "key": "正官|水",
+      "tenGod": "正官",
+      "element": "水",
+      "sections": {
+        "overall": "Today's energy blends the structure of the Direct Officer with the fluid depth of Water. You are invited to lead with a quiet, steady authority that adapts to the needs of those around you.",
+        "career": "This is a day that rewards the refinement of protocols and the polishing of professional reputations. You have the room to organize complex workflows or handle administrative duties with a calm, intuitive grace.",
+        "money": "The current energy favors a disciplined approach to budgeting and the auditing of long-term financial plans. You may find this a suitable time to review contracts or set structured boundaries around your spending.",
+        "love": "You have the space to express your commitment through reliability and thoughtful presence. This energy supports a connection style based on mutual respect and the gentle exploration of deeper emotional truths.",
+        "health": "This day leans toward mindful pacing and supporting the body's natural circulation. You are free to prioritize grounding rituals that balance your mental focus with fluid, restorative movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1521
+    },
+    {
+      "key": "偏印|木",
+      "tenGod": "偏印",
+      "element": "木",
+      "sections": {
+        "overall": "Today is shaped by the Indirect Resource and Wood energy, a combination that favors intuitive leaps and unconventional growth. You are invited to trust your instincts and explore non-linear ways of thinking.",
+        "career": "This energy supports deep research or the refining of a complex strategy. You have the room to approach a project from a sideways angle or experiment with a niche method that others might overlook.",
+        "money": "The day leans toward cautious observation rather than aggressive expansion. You may find it rewarding to audit your subscriptions or research a new, unconventional investment vehicle.",
+        "love": "You are free to seek a deeper, more intellectual connection today. This energy suggests a day well suited for sharing a book, a weird hobby, or a quiet conversation about the mysteries of life.",
+        "health": "The upward movement of Wood suggests a day that favors stretching and expansive movement. You have the space to focus on your respiratory system and your overall energy pacing to avoid mental fatigue."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1699
+    },
+    {
+      "key": "偏印|火",
+      "tenGod": "偏印",
+      "element": "火",
+      "sections": {
+        "overall": "The intersection of Indirect Resource and Fire creates a spark of unconventional insight. This is a day that rewards trusting your intuition and exploring non-linear paths to a solution.",
+        "career": "You have the room to pivot your approach or experiment with a niche strategy. This energy supports deep research into complex problems or the application of an unorthodox methodology to a stalled project.",
+        "money": "This is a day that suits auditing your unconventional assets or exploring alternative investment ideas. You are free to look beyond the obvious to find value in overlooked places.",
+        "love": "You are invited to connect through shared intellectual curiosities or a mutual love for the strange and unusual. This energy leans toward soulful, private conversations rather than loud social displays.",
+        "health": "Energy levels may shift rapidly, suggesting a need for mindful pacing. You have the space to focus on your circulation and grounding techniques to balance the internal heat."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2331
+    },
+    {
+      "key": "偏印|土",
+      "tenGod": "偏印",
+      "element": "土",
+      "sections": {
+        "overall": "Today is shaped by the influence of the Indirect Resource combined with Earth, suggesting a day of quiet intuition and steady grounding. You are invited to step back from the noise and trust your unconventional instincts.",
+        "career": "This energy supports deep-dive research or refining a complex project away from the spotlight. You have the room to tackle a difficult problem using a non-traditional approach or a fresh perspective.",
+        "money": "Today leans toward cautious planning and the slow accumulation of resources. It is a day well suited for auditing your long-term assets or exploring alternative ways to preserve your wealth.",
+        "love": "You have the space to appreciate the quiet, steady presence of others without the need for constant conversation. This energy favours meaningful solitude or deep, intellectual connections over superficial socialising.",
+        "health": "The Earth element suggests a focus on grounding your energy and maintaining a slow, deliberate pace. You are free to support your digestive system by choosing nourishing, stabilizing foods and mindful movement."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2367
+    },
+    {
+      "key": "偏印|金",
+      "tenGod": "偏印",
+      "element": "金",
+      "sections": {
+        "overall": "Today is guided by the Indirect Resource and Metal, a combination that favors intuitive breakthroughs and sharp, structural precision. You are invited to trust your unconventional instincts while applying a refined, analytical lens to your surroundings.",
+        "career": "This energy supports deep-dive research or auditing complex details that others might overlook. You have the space to pivot your strategy or explore an unorthodox solution to a long-standing professional puzzle.",
+        "money": "The day leans toward careful calculation and the reviewing of fine print. You may find this a supportive time for strategic planning or refining your budget with a focus on long-term efficiency.",
+        "love": "You are free to seek a quieter, more reflective connection today. This is a day that rewards intellectual intimacy and gives you the room to appreciate your partner's unique quirks.",
+        "health": "Energy tends toward the cool and contained, making it a well-suited day for grounding practices. You may find it beneficial to support your respiratory system through mindful pacing and rhythmic breathing."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1639
+    },
+    {
+      "key": "偏印|水",
+      "tenGod": "偏印",
+      "element": "水",
+      "sections": {
+        "overall": "Today is influenced by the Indirect Resource and Water, creating a sanctuary for intuition and deep reflection. You are invited to step back from the noise and trust your unconventional instincts.",
+        "career": "This energy supports auditing complex data or rethinking a project from a completely new angle. You have the space to explore niche research or solve a problem using a non-traditional method.",
+        "money": "The day leans toward cautious observation rather than aggressive spending. You may find it rewarding to review your financial archives or research a long-term investment strategy.",
+        "love": "You have the room to value quiet companionship over loud gestures. This is a day that suits soulful conversations and the beauty of shared silence with a partner.",
+        "health": "Energy flows best when you allow for periods of stillness and introspection. You are free to focus on your circulation and grounding practices to maintain your equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 1558
+    },
+    {
+      "key": "正印|木",
+      "tenGod": "正印",
+      "element": "木",
+      "sections": {
+        "overall": "This energy supports a focus on learning and protection. You have the space to dive into a dense book or organize your research notes. This is a day that favours steady study and the quiet cultivation of a new skill.",
+        "career": "This is a day that suits deep work, research, or updating your certifications. You are invited to seek mentorship or document your processes, as the energy favours structured knowledge and professional refinement.",
+        "money": "Your financial posture leans toward long-term stability and the acquisition of assets that provide security. You have the space to review your budgets or invest in educational tools that may enhance your earning power.",
+        "love": "Interaction styles today are best used for emotional support and quiet companionship. You are free to express your care through thoughtful gestures or by sharing a book or a learning experience with a partner.",
+        "health": "This energy supports a steady pace and an emphasis on grounding. You may find it beneficial to focus on your circulation and overall vitality through gentle movement and mindful breathing."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2266
+    },
+    {
+      "key": "正印|火",
+      "tenGod": "正印",
+      "element": "火",
+      "sections": {
+        "overall": "This energy supports turning your study into visible results. You have the room to present a new idea to your team or finalize a project you have been researching. This is a day that favors sharing your expertise openly.",
+        "career": "This is a day that rewards presenting your research or seeking mentorship. You have the space to showcase your expertise or refine a complex project under a bright, energetic spotlight.",
+        "money": "Financial energy leans toward investments in education or tools that enhance your skill set. You are invited to view spending as a way to secure future stability through knowledge.",
+        "love": "Warmth and supportive communication define the day. You have the room to offer a steady, comforting presence to others while sharing your passions openly.",
+        "health": "Energy levels may peak rapidly, making this a day well suited for invigorating movement. You are encouraged to watch for pacing and maintain a grounding practice to balance the internal heat."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2130
+    },
+    {
+      "key": "正印|土",
+      "tenGod": "正印",
+      "element": "土",
+      "sections": {
+        "overall": "This energy supports a slower pace and a focus on steady accumulation. You have the space to revisit an old book, organize your files, or study a technical skill you have been neglecting. This is a day that favors grounding yourself through quiet focus and practical learning.",
+        "career": "This is a day that rewards deep focus and the auditing of existing systems. You have the room to seek mentorship or dive into a complex manual, as the energy supports meticulous study and professional refinement.",
+        "money": "Your financial posture leans toward conservation and the long-term view. You are invited to review your savings plans or research a stable investment, making it a day well suited for cautious planning over impulsive spending.",
+        "love": "The energy suggests a supportive and protective interaction style. You have the space to offer a listening ear or seek comfort in familiar traditions, favoring emotional security and quiet companionship.",
+        "health": "This energy supports grounding and a steady physical pace. You are free to prioritize your digestive system and overall equilibrium through mindful movement and consistent rest."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2318
+    },
+    {
+      "key": "正印|金",
+      "tenGod": "正印",
+      "element": "金",
+      "sections": {
+        "overall": "This energy supports a period of focused study or the reorganization of your records. You have the room to audit a complex process or refine a plan with precision. This is a day that favors quiet reflection and the pursuit of concrete knowledge.",
+        "career": "This energy supports auditing details, refining workflows, or returning to your studies. You have the room to seek mentorship or document your processes with newfound structure.",
+        "money": "This is a day that rewards a conservative posture and careful planning. You may find it is well suited for reviewing contracts or organizing your long-term financial blueprints.",
+        "love": "You are free to lean into a nurturing role, offering stability and thoughtful listening to your partner. The current energy suggests a beautiful space for quiet, intellectual connection and mutual support.",
+        "health": "Energy leans toward a need for grounding and rhythmic pacing. You are encouraged to pay attention to your respiratory system and maintain a cool, balanced internal equilibrium."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2098
+    },
+    {
+      "key": "正印|水",
+      "tenGod": "正印",
+      "element": "水",
+      "sections": {
+        "overall": "Today is defined by the nurturing influence of Direct Resource and the fluidity of Water. You are invited to lean into a state of receptive learning and quiet introspection.",
+        "career": "This energy supports updating your certifications or auditing old project files for new insights. You have the room to seek mentorship or step back into a supportive role to refine your strategy.",
+        "money": "The day favors conservative financial planning and the study of long-term investment patterns. You may find this is a well-suited time for organizing your accounts rather than making impulsive purchases.",
+        "love": "You have the space to offer emotional sanctuary and deep listening to those close to you. This energy suggests a day that rewards gentle quality time and shared intellectual curiosity.",
+        "health": "Your focus leans toward restoring your energy through hydration and rhythmic pacing. You are free to prioritize the circulation system and grounding practices to balance your internal flow."
+      },
+      "scanHits": [],
+      "model": "gemma4:31b",
+      "latencyMs": 2062
+    }
+  ]
+}

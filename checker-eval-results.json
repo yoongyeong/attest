@@ -1,0 +1,12 @@
+{
+  "ts": "2026-10-17T08:39:59.889Z",
+  "charts": 8,
+  "total": 870,
+  "judged": 806,
+  "unjudged": 64,
+  "agreePct": 100,
+  "falsePositives": [],
+  "falseNegatives": [],
+  "falsePositiveRatePct": 0,
+  "falseNegativeRatePct": 0
+}

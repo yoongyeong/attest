@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Attest — BaZi profile</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 780px; margin: 0 auto; padding: 24px; }
+  h1 { font-size: 19px; margin: 0 0 4px; }
+  .sub { color: #666; font-size: 13px; margin-bottom: 20px; }
+  form { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; margin-bottom: 20px; padding: 14px; border: 1px solid #8883; border-radius: 10px; }
+  form label { font-size: 12px; color: #666; display: block; margin-bottom: 3px; }
+  input, select { width: 100%; padding: 7px 9px; font: inherit; border: 1px solid #8885; border-radius: 7px; background: transparent; color: inherit; box-sizing: border-box; }
+  button { grid-column: 1 / -1; padding: 9px; font: inherit; font-weight: 600; border: 0; border-radius: 7px; background: #4a5fd0; color: #fff; cursor: pointer; }
+  button:disabled { opacity: .5; cursor: default; }
+  .block { border: 1px solid #8883; border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+  .block.verified { border-left: 4px solid #2e8b57; }
+  .block.interp   { border-left: 4px solid #4a5fd0; }
+  .tag { font-size: 10px; letter-spacing: .08em; text-transform: uppercase; font-weight: 700; }
+  .verified .tag { color: #2e8b57; }
+  .interp   .tag { color: #4a5fd0; }
+  .title { font-weight: 700; margin: 2px 0 10px; font-size: 15px; }
+  .sec-name { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: #888; margin-top: 12px; }
+  .sec { margin-top: 3px; white-space: pre-wrap; }
+  .prov { font-size: 11px; color: #888; margin-top: 10px; font-family: ui-monospace, monospace; }
+  .avail { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+  .pill { font-size: 11px; padding: 3px 8px; border-radius: 999px; border: 1px solid #8884; }
+  .pill.ok { background: #2e8b5722; }
+  .pill.no { background: #d9534f22; }
+  .warn { color: #b8860b; font-size: 13px; }
+  .err { color: #d9534f; white-space: pre-wrap; }
+</style>
+</head>
+<body>
+<h1>BaZi profile</h1>
+<div class="sub">Computed chart + precomputed readings. Facts are computed by code; readings are fragments. Provenance is shown for every block.</div>
+
+<form id="f">
+  <div>
+    <label for="bd">Birth date</label>
+    <input id="bd" name="bd" type="date" value="1980-03-15" required>
+  </div>
+  <div>
+    <label for="bt">Birth time</label>
+    <input id="bt" name="bt" type="time" value="09:20">
+  </div>
+  <div>
+    <label for="gd">Gender (enables luck cycles)</label>
+    <select id="gd" name="gd">
+      <option value="">— not given —</option>
+      <option value="male" selected>male</option>
+      <option value="female">female</option>
+    </select>
+  </div>
+  <div>
+    <label for="dt">Reading date</label>
+    <input id="dt" name="dt" type="date" value="2026-10-16">
+  </div>
+  <div>
+    <label for="pbd">Partner birth date (enables compatibility)</label>
+    <input id="pbd" name="pbd" type="date" value="1992-07-22">
+  </div>
+  <div>
+    <label for="pbt">Partner birth time</label>
+    <input id="pbt" name="pbt" type="time" value="14:05">
+  </div>
+  <button id="go" type="submit">Show profile</button>
+</form>
+
+<div id="avail" class="avail"></div>
+<div id="out"></div>
+<p style="font-size:12px;color:#888;margin-top:14px">
+  <a href="#" id="savelink">Copy your link</a> — bookmarks your birth data in the URL.
+  <span id="savemsg" style="margin-left:8px"></span>
+</p>
+
+<script>
+const $ = (id) => document.getElementById(id);
+
+const STORE_KEY = 'bazi.profile.v1';
+
+// ---------------------------------------------------------------------
+// Persistence: URL state (?b=&t=&g=&d=&pb=&pt=) plus localStorage.
+// No account, nothing stored server-side — the data stays on the device.
+// ---------------------------------------------------------------------
+function readParams() {
+  const p = new URLSearchParams(location.search);
+  return {
+    bd: p.get('b') || null,
+    bt: p.get('t') || null,
+    gd: p.get('g') || null,
+    dt: p.get('d') || null,
+    pbd: p.get('pb') || null,
+    pbt: p.get('pt') || null,
+  };
+}
+
+function loadSaved() {
+  try { return JSON.parse(localStorage.getItem(STORE_KEY) || 'null'); } catch { return null; }
+}
+
+function saveState(state) {
+  try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch { /* private mode */ }
+}
+
+function applyState(s) {
+  if (!s) return;
+  if (s.bd) $('bd').value = s.bd;
+  if (s.bt) $('bt').value = s.bt;
+  if (s.gd !== undefined && s.gd !== null) $('gd').value = s.gd;
+  if (s.dt) $('dt').value = s.dt;
+  if (s.pbd) $('pbd').value = s.pbd;
+  if (s.pbt) $('pbt').value = s.pbt;
+}
+
+function currentState() {
+  return {
+    bd: $('bd').value, bt: $('bt').value, gd: $('gd').value,
+    dt: $('dt').value, pbd: $('pbd').value, pbt: $('pbt').value,
+  };
+}
+
+/** Build a shareable URL carrying only non-empty fields. */
+function shareUrl() {
+  const s = currentState();
+  const p = new URLSearchParams();
+  if (s.bd) p.set('b', s.bd);
+  if (s.bt) p.set('t', s.bt);
+  if (s.gd) p.set('g', s.gd);
+  if (s.dt) p.set('d', s.dt);
+  if (s.pbd) p.set('pb', s.pbd);
+  if (s.pbt) p.set('pt', s.pbt);
+  return location.origin + location.pathname + (p.toString() ? '?' + p.toString() : '');
+}
+
+/** Keep the address bar in sync so a bookmark or share always works. */
+function syncUrl() {
+  try { history.replaceState(null, '', shareUrl()); } catch { /* file:// */ }
+}
+
+document.getElementById('savelink').addEventListener('click', async (e) => {
+  e.preventDefault();
+  const url = shareUrl();
+  try {
+    await navigator.clipboard.writeText(url);
+    $('savemsg').textContent = 'copied ✓';
+  } catch {
+    $('savemsg').textContent = url;
+  }
+  setTimeout(() => { $('savemsg').textContent = ''; }, 4000);
+});
+
+document.getElementById('f').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  $('go').disabled = true;
+  $('out').innerHTML = '<div class="sub">loading…</div>';
+  $('avail').innerHTML = '';
+
+  const body = {
+    birth: { date: $('bd').value },
+    date: $('dt').value || undefined,
+  };
+  if ($('bt').value) body.birth.time = $('bt').value;
+  if ($('gd').value) body.gender = $('gd').value;
+  if ($('pbd').value) {
+    body.partner = { birth: { date: $('pbd').value } };
+    if ($('pbt').value) body.partner.birth.time = $('pbt').value;
+  }
+
+  try {
+    const res = await fetch('/v1/profile', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      $('out').innerHTML = '<div class="err">' + res.status + ' ' + (data.detail || data.error) + '</div>';
+      return;
+    }
+    render(data);
+  } catch (err) {
+    $('out').innerHTML = '<div class="err">' + err.message + '</div>';
+  } finally {
+    $('go').disabled = false;
+  }
+
+  // Persist after a successful submit, and keep the URL shareable.
+  saveState(currentState());
+  syncUrl();
+});
+
+function render(data) {
+  const a = data.availability || {};
+  $('avail').innerHTML = Object.entries(a).map(([k, v]) =>
+    '<span class="pill ' + (v.status === 'available' ? 'ok' : 'no') + '" title="' + (v.reason || '') + '">' +
+    k + ': ' + v.status + '</span>').join('');
+
+  const parts = [];
+  parts.push('<div class="block"><div class="tag">subject</div>' +
+    '<div class="title">' + esc(data.subject.dayMaster) + ' · ' + esc(data.subject.pillars) + '</div>' +
+    '<div class="prov">birth ' + esc((data.subject.birth.date || '?')) +
+    (data.subject.birth.time ? ' ' + esc(data.subject.birth.time) : '') +
+    ' · reading ' + esc(data.subject.date) + '</div></div>');
+
+  for (const b of data.blocks) {
+    const cls = b.epistemic === 'verified-fact' ? 'verified' : 'interp';
+    const tag = b.epistemic === 'verified-fact' ? 'verified fact' : 'reading';
+    let html = '<div class="block ' + cls + '">';
+    html += '<div class="tag">' + tag + (b.timescale ? ' · ' + esc(b.timescale) : '') + '</div>';
+    html += '<div class="title">' + esc(b.title) + '</div>';
+    for (const [name, text] of Object.entries(b.sections || {})) {
+      html += '<div class="sec-name">' + esc(name) + '</div><div class="sec">' + esc(text) + '</div>';
+    }
+    const prov = (b.provenance || []).map(p => p.set + (p.key ? ':' + p.key : '')).join('  ');
+    if (prov) html += '<div class="prov">' + esc(prov) + '</div>';
+    html += '</div>';
+    parts.push(html);
+  }
+
+  // Calculation receipt — collapsed by default. Available to the sceptic without
+  // being in the way of the reading.
+  if (data.receipt && data.receipt.rows) {
+    let rh = '<details class="block" style="cursor:pointer"><summary style="font-weight:700">Calculation receipt — how this chart was computed</summary>';
+    rh += '<table style="width:100%;border-collapse:collapse;margin-top:10px;font-size:13px">';
+    for (const row of data.receipt.rows) {
+      rh += '<tr><td style="padding:4px 8px 4px 0;color:#888;white-space:nowrap;vertical-align:top">' + esc(row.label) + '</td>';
+      rh += '<td style="padding:4px 0;vertical-align:top">' + esc(row.value);
+      if (row.note) rh += '<div style="color:#888;font-size:12px;margin-top:2px">' + esc(row.note) + '</div>';
+      rh += '</td></tr>';
+    }
+    rh += '</table>';
+    rh += '<div class="prov" style="margin-top:10px">caveats</div><ul class="caveats" style="margin:4px 0 0 0;padding-left:18px;font-size:12px;color:#888">';
+    for (const cv of data.receipt.caveats) rh += '<li>' + esc(cv) + '</li>';
+    rh += '</ul></details>';
+    parts.push(rh);
+  }
+
+  $('out').innerHTML = parts.join('');
+}
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+// On load: URL params take precedence over saved state; then auto-submit.
+(function init() {
+  const url = readParams();
+  const hasUrl = Object.values(url).some(v => v);
+  applyState(hasUrl ? url : loadSaved());
+  document.getElementById('f').dispatchEvent(new Event('submit'));
+})();
+</script>
+</body>
+</html>
